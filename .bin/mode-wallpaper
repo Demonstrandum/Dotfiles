@@ -1,0 +1,30 @@
+#!/usr/bin/env ruby
+require 'json'
+
+MODES = %w{ center fill max scale tile }
+
+HOME = ENV['HOME']
+WALL_CONF = HOME + '/.config/.wall-conf.json'
+
+config = {
+  'path'      => "#{HOME}/Pictures/wallpaper",
+  'wallpaper' => '*.png',
+  'mode'      => 'fill'
+}
+config['wallpaper'] = File.basename Dir[config['path'] + '/*'].first
+
+unless File.file? WALL_CONF
+  File.write WALL_CONF, config.to_json
+else
+  config = JSON.parse File.read WALL_CONF
+end
+
+mode = config['mode']
+succ = MODES.index mode
+succ += 1
+
+config['mode'] = MODES[succ < MODES.size ? succ : 0]
+
+File.write WALL_CONF, config.to_json
+
+%x{ #{HOME}/.bin/display-wallpaper }

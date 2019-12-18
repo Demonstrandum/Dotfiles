@@ -1,0 +1,2 @@
+sudo ip link set wlp3s0 down
+sudo wifi-menu

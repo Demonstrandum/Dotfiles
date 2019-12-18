@@ -1,0 +1,5 @@
+#!/bin/bash
+
+xwobf -f -s 9 /tmp/.i3lock.png
+i3lock -i /tmp/.i3lock.png
+

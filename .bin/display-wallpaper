@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require 'json'
+
+HOME = ENV['HOME']
+WALL_CONF = HOME + '/.config/.wall-conf.json'
+CONF = JSON.parse File.read WALL_CONF
+
+%x{ cp "#{CONF['path']}/#{CONF['wallpaper']}" /usr/share/backgrounds/deepin/desktop.jpg }
+%x{ feh --bg-#{CONF['mode']} "#{CONF['path']}/#{CONF['wallpaper']}" }

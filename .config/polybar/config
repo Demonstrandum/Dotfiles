@@ -1,0 +1,567 @@
+[colors]
+transparent = #00000000
+foreground  = #3c3836
+background  = #eeeeee
+
+black       = ${xrdb:color8}
+red         = ${xrdb:color9}
+green       = ${xrdb:color10}
+yellow      = ${xrdb:color11}
+blue        = ${xrdb:color12}
+magenta     = ${xrdb:color13}
+cyan        = ${xrdb:color14}
+white       = ${xrdb:color15}
+grey        = #eeeeee
+
+bblack    = ${xrdb:color0}
+bred      = ${xrdb:color1}
+bgreen    = ${xrdb:color2}
+byellow   = ${xrdb:color3}
+bblue     = ${xrdb:color4}
+bmagenta  = ${xrdb:color5}
+bcyan     = ${xrdb:color6}
+bwhite    = ${xrdb:color7}
+bgrey     = #7c6f64
+
+
+t1		= #dddddd
+t2		= #dddddd
+t6		= #dddddd
+
+t3		= #cccccc
+t4  	= #aaaaaa
+t5		= #e4e4e4
+t7		= #D3D3D3
+t8		= #EEEEEE
+
+[global/wm]
+margin-top    = 0
+margin-bottom = 0
+
+
+
+
+[bar/top]
+override-redirect = false
+wm-restack = i3
+
+monitor = LVDS-1
+fixed-center = true
+bottom = false
+width = 1341
+height = 25
+
+radius = 7
+
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+
+enable-ipc = true
+
+padding-left = 0
+padding-right = 0
+offset-x = 0
+offset-y = 0
+
+tray-detached = false
+tray-position = right
+tray-offset-x = 0
+tray-offset-y = 0
+tray-maxsize = 0
+tray-padding = 0
+tray-scale = 0
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+border-color = #00000000
+border-left-size = 25
+border-top-size = 15
+border-bottom-size = 0
+
+margin-top = 0
+margin-bottom = 0
+
+
+font-0 = PowerlineSymbols:size=17;5
+;font-1 = t cherry:size=12;2
+font-1 = Fira Code:size=10;2
+font-2 = FontAwesome:size=10;2
+font-3 = Ricty:size=12;2
+
+modules-right  = pkg volume battery clock
+modules-left  =  i3 mpd
+
+
+
+
+[bar/top_dp1]
+override-redirect = false
+wm-restack = i3
+
+monitor = DP-1
+fixed-center = true
+bottom = false
+width = 2530
+height = 25
+
+radius = 7
+
+scroll-up = i3wm-wsnext
+scroll-down = i3wm-wsprev
+
+enable-ipc = true
+
+padding-left = 0
+padding-right = 0
+offset-x = 0
+offset-y = 0
+
+tray-detached = false
+tray-position = right
+tray-offset-x = 0
+tray-offset-y = 0
+tray-maxsize = 0
+tray-padding = 0
+tray-scale = 0
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+border-color = #00000000
+border-left-size = 25
+border-top-size = 15
+border-bottom-size = 0
+
+margin-top = 0
+margin-bottom = 0
+
+
+font-0 = PowerlineSymbols:size=17;5
+;font-1 = t cherry:size=12;2
+font-1 = Fira Code:size=10;2
+font-2 = FontAwesome:size=10;2
+font-3 = Ricty:size=12;2
+
+modules-right  = pkg volume battery clock
+modules-left  =  i3 mpd
+
+
+
+
+[module/mpd]
+type                  = internal/mpd
+host = 127.0.0.1
+port = 6600
+
+label-song            =   %artist% - %title%
+label-song-maxlen     = 40
+label-song-ellipsis   = true
+
+format-online         = <label-song><toggle>
+#     <icon-seekb>  <toggle>  <icon-seekf>    <icon-next>     <icon-random>  <icon-repeat>
+
+label-song-foreground = ${colors.foreground}
+label-song-background = ${colors.t5}
+icon-pause-background = ${self.label-song-background}
+icon-play-background  = ${self.label-song-background}
+icon-pause-foreground = ${self.label-song-foreground}
+icon-play-foreground  = ${self.label-song-foreground}
+icon-next-background  = ${self.label-song-background}
+icon-next-foreground  = ${self.label-song-foreground}
+icon-prev-background  = ${self.label-song-background}
+icon-prev-foreground  = ${self.label-song-foreground}
+gap-foreground = ${self.label-song-background}
+space-background = ${self.label-song-background}
+
+label-song-padding = 2
+icon-pause-padding-right = 2
+icon-play-padding-right = 2
+
+icon-prev  = 
+icon-seekb = 
+icon-stop  = 
+icon-pause = 
+icon-play  = 
+icon-next  = 
+icon-seekf = 
+
+icon-random = 
+icon-repeat = 
+toggle-off-foreground = ${colors.grey}
+toggle-on-foreground  = ${colors.blue}
+
+
+format-online-prefix            = 
+format-online-prefix-foreground = ${colors.background}
+format-online-prefix-background = ${self.label-song-background}
+
+format-online-suffix            = 
+format-online-suffix-foreground = ${self.label-song-background}
+label-offline = 🎜 mpd is offline
+
+interval = 2
+
+
+
+[module/memory]
+type             = internal/memory
+interval         = 2
+format           = <label>
+
+label            =  %percentage_used%%
+
+label-background = ${colors.t5}
+format-underline = ${colors.cyan}
+label-padding   =  2
+
+format-prefix            = 
+format-prefix-background = #aaaaaa
+format-prefix-foreground = ${self.label-background}
+
+format-suffix            = 
+format-suffix-background = ${self.label-background}
+format-suffix-foreground = ${module/cpu.format-background}
+
+
+[module/cpu]
+format-label       = internal/cpu
+
+format             = <label>
+format-background = ${colors.t3}
+format-padding     = 2
+
+type      = internal/cpu
+interval  = 2
+label     =  %percentage%%
+padding   = 0
+
+[module/wlan]
+type      = internal/network
+interface = wlp3s0
+interval  = 3.0
+
+label-connected-padding      = 2
+label-disconnected-padding   = 2
+
+format-connected              = <label-connected>
+format-disconnected           = <label-disconnected>
+
+label-connected-foreground    = ${colors.foreground}
+label-connected-background    = ${colors.t7}
+
+label-disconnected-foreground    = ${colors.bgrey}
+label-disconnected-background    = ${colors.t7}
+
+label-connected    =  %essid%
+label-disconnected = 
+
+
+format-connected-prefix               = 
+format-connected-prefix-background    = ${module/cpu.format-background}
+format-connected-prefix-foreground    = ${self.label-connected-background}
+
+format-disconnected-prefix            = 
+format-disconnected-prefix-background = ${module/cpu.format-background}
+format-disconnected-prefix-foreground = ${self.label-connected-background}
+
+
+[module/eth]
+type                          = internal/network
+interface                     = enp0s25
+interval                      = 3.0
+
+format-connected              = <label-connected>
+format-disconnected           = <label-disconnected>
+
+label-connected-padding      = 2
+label-disconnected-padding      = 2
+
+label-connected               =  connected
+label-disconnected            = 
+
+label-connected-foreground    = ${colors.foreground}
+label-connected-background    = ${colors.t7}
+
+label-disconnected-foreground    = ${colors.bgrey}
+label-disconnected-background    = ${colors.t7}
+
+format-connected-suffix               = 
+format-connected-suffix-foreground    = ${module/battery.format-background}
+format-connected-foreground           = ${self.label-connected-background}
+
+format-disconnected-suffix            = 
+format-disconnected-suffix-foreground = ${module/battery.format-background}
+format-disconnected-suffix-background = ${self.label-connected-background}
+
+
+[module/date]
+type     = internal/date
+interval = 2
+
+date     = " %d.%m.%Y"
+date-alt = "  %A, %d. %B"
+
+time     = " %H:%M"
+time-alt = "%H:%M:%S"
+
+label-background = ${colors.t7}
+#label-foreground = ${colors.cyan}
+label-padding = 2
+format-padding   = 0
+format           = <label>
+label            = %time% | %date%
+
+format-prefix            = 
+format-prefix-foreground = ${self.label-background}
+format-suffix            = 
+format-suffix-foreground = ${self.label-background}
+
+[module/volume]
+type                      		= internal/volume
+
+format = <label>
+format-muted-background  		= #B8B8B8
+format-volume-background  		= #B8B8B8
+
+format-volume 					= <bar-volume>
+format-muted  					= <label-muted>
+
+label-muted   					=   sound muted
+format-muted-padding 			= 0
+format-padding 					= 2
+
+bar-volume-width                = 8
+bar-volume-gradient             = false
+bar-volume-indicator            = 
+bar-volume-indicator-font       = 4
+bar-volume-indicator-foreground = #222222
+bar-volume-fill                 = 
+bar-volume-fill-font            = 4
+bar-volume-fill-foreground     	= #222222
+bar-volume-empty                = 
+bar-volume-empty-font           = 4
+bar-volume-empty-foreground 	= #222222
+
+bar-volume-background 			= ${colors.t4}
+label-muted-background 			= ${colors.t4}
+
+bar-volume-empty-background		= #B8B8B8
+bar-volume-fill-background		= #B8B8B8
+bar-volume-indicator-background	= #B8B8B8
+
+format-volume-prefix 			= 
+format-volume-prefix-foreground = #B8B8B8
+format-volume-prefix-background = #EEEEEE
+
+format-volume-suffix 			= 
+format-volume-suffix-foreground = #DDDDDD
+format-volume-suffix-background = #B8B8B8
+
+format-muted-prefix 			= 
+format-muted-prefix-foreground 	= #B8B8B8
+format-muted-prefix-background 	= #EEEEEE
+
+format-muted-suffix 			= 
+format-muted-suffix-foreground 	= #DDDDDD
+format-muted-suffix-background 	= #B8B8B8
+
+
+[module/battery]
+type    = internal/battery
+battery = BAT0
+adapter = AC
+full-at = 98
+
+format-charging    = <animation-charging> <label-charging>
+time-format        = %H:%M
+
+format-discharging = <ramp-capacity> <label-discharging>
+label-discharging  = %percentage%%  (%time%)
+
+format-full-prefix = "  "
+format-padding     = 2
+
+format-background = #dddddd
+#format-foreground = ${colors.magenta}
+format-foreground = ${colors.foreground}
+
+format-full-background        = ${self.format-background}
+format-charging-background    = ${self.format-background}
+format-discharging-background = ${self.format-background}
+
+format-full-foreground        = ${self.format-foreground}
+format-charging-foreground    = ${self.format-foreground}
+format-discharging-foreground = ${self.format-foreground}
+
+format-full-padding           = ${self.format-padding}
+format-charging-padding       = ${self.format-padding}
+format-discharging-padding    = ${self.format-padding}
+
+ramp-capacity-0 = 
+ramp-capacity-1 = 
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
+
+
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
+animation-charging-framerate = 750
+
+[module/temperature]
+type                  = internal/temperature
+thermal-zone          = 0
+warn-temperature      = 80
+
+format             = <ramp><label>
+format-background  = ${colors.t5}
+label-background   = ${colors.t5}
+label-padding = 2
+
+format-prefix                 = 
+format-prefix-background      = ${module/battery.format-background}
+format-prefix-foreground      = ${self.label-background}
+
+format-suffix                 = 
+format-suffix-foreground      = ${self.label-background}
+
+format-warn-prefix            = 
+format-warn-prefix-background = ${module/battery.format-background}
+format-warn-prefix-foreground = ${self.label-warn-background}
+
+format-warn-suffix            = 
+format-warn-suffix-foreground = ${self.label-warn-background}
+
+format-warn           = <label-warn>
+label-warn-background = ${colors.t2}
+
+ramp-background       = ${colors.t5}
+
+label                 = %temperature%
+label-warn            =  %temperature%
+
+ramp-0 = "   "
+ramp-1 = "   "
+ramp-2 = " "
+
+[module/weather]
+type = custom/script
+interval = 300
+format = <label>
+exec = .config/polybar/weather.sh
+
+label-background = ${colors.t7}
+format-underline = ${colors.cyan}
+label-padding   =  2
+
+format-prefix            = 
+format-prefix-background = ${colors.t3}
+format-prefix-foreground = ${self.label-background}
+
+format-suffix            = 
+format-suffix-background = ${self.label-background}
+format-suffix-foreground = #DDDDDD
+
+[module/clock]
+type = custom/script
+interval = 1
+format = <label>
+exec = .config/polybar/clock.sh
+
+label-background = ${colors.t8}
+format-underline = ${colors.cyan}
+label-padding   =  2
+
+format-prefix            = 
+format-prefix-background = #DDDDDD
+format-prefix-foreground = ${self.label-background}
+
+format-suffix            = 
+format-suffix-background = #EEEEEE
+format-suffix-foreground = #EEEEEE
+tempCore3=$(sensors | grep -i "Core 3" | head -n1 | sed -r 's/.*:\s+[\+-]?(.*C)\s+.*/\1/' | grep -oP '.*?(?=\.)')
+
+[module/pkg]
+type = custom/script
+interval = 120
+format = <label>
+label = "%output:0:30%"
+exec = .config/polybar/pkg.sh
+exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
+
+label-background = ${colors.t3}
+format-underline = ${colors.cyan}
+label-padding   =  2
+
+format-prefix            = 
+format-prefix-background = #eeeeee
+format-prefix-foreground = ${self.label-background}
+
+format-suffix            = 
+format-suffix-background = ${self.label-background}
+format-suffix-foreground = #EEEEEE
+
+[module/temps]
+type = custom/script
+interval = 1
+format = <label>
+exec = .config/polybar/cputemp.sh
+
+label-background = ${colors.t5}
+format-underline = ${colors.cyan}
+label-padding   =  2
+
+format-prefix            = 
+format-prefix-background = #aaaaaa
+format-prefix-foreground = ${self.label-background}
+
+format-suffix            = 
+format-suffix-background = ${self.label-background}
+format-suffix-foreground = #aaaaaa
+
+[module/i3]
+type = internal/i3
+index-sort = true
+enable-click = true
+
+
+ws-icon-0 = "1;一"
+ws-icon-1 = 2;二
+ws-icon-2 = 3;三
+ws-icon-3 = 4;四
+ws-icon-4 = 5;五
+ws-icon-5 = 6;六
+ws-icon-6 = 7;七
+ws-icon-7 = 8;八
+ws-icon-8 = 9;九
+ws-icon-9 = 10;十
+ws-icon-default = ♟
+
+format = <label-state> <label-mode>
+
+label-mode = %mode%
+label-mode-padding = 2
+label-mode-background = #B8B8B8
+
+label-focused = %icon%
+label-focused-foreground = #333333
+label-focused-background = #cccccc
+label-focused-underline = #fba922
+label-focused-padding = 4
+
+label-unfocused = %icon%
+label-unfocused-padding = 4
+
+label-visible = %icon%
+label-visible-underline = #555555
+label-visible-padding = 4
+
+label-urgent = %icon%
+label-urgent-foreground = #000000
+label-urgent-background = #bd2c40
+label-urgent-padding = 4
+

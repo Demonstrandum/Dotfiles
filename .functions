@@ -1,0 +1,28 @@
+function say {
+  espeak "$1" >/dev/null 2>&1
+}
+
+function please {
+  HIST="$1"
+  if [ -z "$1" ]; then
+    HIST="1"
+  fi
+
+  sudo $(history -p !-$HIST)
+}
+
+function webm2gif {
+  ffmpeg -i "$1" -pix_fmt rgb24 "$2"
+}
+
+function 2webm {
+  ffmpeg -i "$1" -c:v libvpx -crf 4 -b:v 600K -vf scale=1280:-1 -c:a libvorbis -threads 4 -an "$2"
+}
+
+function largest {
+  sudo du -a "$1" | sort -n -r | head -n "$2"
+}
+
+function matlab {
+  matlab2018b -nodisplay -nodesktop -nosplash -r "run('$1');"
+}

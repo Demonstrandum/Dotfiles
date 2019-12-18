@@ -1,0 +1,13 @@
+#!/bin/bash
+
+BATTERY="$(acpi -b | awk '{ $1=$2=""; print $0 }')"
+TIME="$(echo $BATTERY | awk '{print $3}')"
+DISCHARGING="$(echo $BATTERY | grep 'Discharging')"
+
+if [[ -n $DISCHARGING && $TIME < 00:20:00 ]]; then
+  killall i3-nagbar
+  killall aplay
+  echo "Low battery warning"
+  DISPLAY=:0.0 i3-nagbar -m "Battery is low!  —$BATTERY!" -t warning 2>&1 &
+  DISPLAY=:0.0 aplay /home/weet/Sounds/battery_low.wav 2>&1
+fi

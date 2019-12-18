@@ -1,0 +1,28 @@
+#!/usr/bin/env ruby
+require 'json'
+
+HOME = ENV['HOME']
+WALL_CONF = HOME + '/.config/.wall-conf.json'
+
+config = {
+  'path'      => "#{HOME}/Pictures/wallpaper",
+  'wallpaper' => '*.png',
+  'mode'      => 'fill'
+}
+config['wallpaper'] = File.basename Dir[config['path'] + '/*'].first
+
+unless File.file? WALL_CONF
+  File.write WALL_CONF, config.to_json
+else
+  config = JSON.parse File.read WALL_CONF
+end
+
+wallpapers = Dir[config['path'] + '/*'].map { |f| File.basename f }
+succ = wallpapers.index config['wallpaper']
+succ += 1
+
+config['wallpaper'] = wallpapers[succ < wallpapers.size ? succ : 0]
+
+File.write WALL_CONF, config.to_json
+
+%x{ #{HOME}/.bin/display-wallpaper }

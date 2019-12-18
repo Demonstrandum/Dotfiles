@@ -1,0 +1,4 @@
+#!/bin/sh
+SELECTION=$(man -k . | rofi -dmenu -p "Select Manuel")
+[ -z "$SELECTION" ] && exit
+man -Tpdf "$(echo $SELECTION | awk '{print $1}')" | zathura -

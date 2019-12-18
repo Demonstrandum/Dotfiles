@@ -1,0 +1,17 @@
+#!/bin/sh
+
+TOGGLE=$HOME/.config/.toggle-keyboard
+
+if [ ! -e $TOGGLE ]; then
+    touch $TOGGLE
+    xinput float 10
+else
+    rm $TOGGLE
+    xinput reattach 10 3
+    exit
+fi
+
+# It would be a terrible accident,
+# if you didn't have an external keyboard...
+
+i3-nagbar -m "Are you sure you wanted to detach the internal keyboard?" -b Reattach "xinput reattach 10 3 && rm $TOGGLE && killall i3-nagbar" -t warning
