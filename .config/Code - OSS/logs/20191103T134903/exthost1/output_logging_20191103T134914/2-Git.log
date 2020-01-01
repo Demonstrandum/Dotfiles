@@ -1,0 +1,2715 @@
+Looking for git in: git
+Using git  from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/weet/Git/valhallac
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse --show-toplevel
+> git show :src/compiler/marshal.rs
+> git rev-parse --git-dir
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+Open repository: /home/weet/Git/brokkr
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/weet/Git/sotrahonning
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/weet/Git/BasicCanvas
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse --show-toplevel
+> git rev-parse --show-toplevel
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git config --global user.email
+> git config --global user.name
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :test.vh
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/internal_functions.rs
+> git show :src/err.rs
+> git show :src/compiler/marshal.rs
+> git show :src/err.rs
+> git check-ignore -v -z --stdin
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/err.rs
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/err.rs
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/element.rs
+> git show :src/compiler/block.rs
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/lib.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git show :src/compiler/marshal.rs
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/element.rs
+> git show :src/compiler/block.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/element.rs
+> git show :src/compiler/block.rs
+> git show :src/compiler/instructions.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/instructions.rs
+> git show :src/compiler/marshal.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/block.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/block.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/block.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/block.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :test.vh
+> git show :test_source.vh
+> git ls-files --stage -- ./
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+> git show :test_source.vh
+> git ls-files --stage -- ./
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :test_source.vh
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :test_source.vh
+> git ls-files --stage -- ./
+> git show :test_source.vh
+> git ls-files --stage -- ./
+> git show :test_source.vh
+> git ls-files --stage -- ./
+> git show :test_source.vh
+> git ls-files --stage -- ./
+> git show :src/compiler/instructions.rs
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :src/compiler/block.rs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse devel
+> git rev-parse --symbolic-full-name devel@{u}
+> git rev-list --left-right devel...refs/remotes/origin/devel
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

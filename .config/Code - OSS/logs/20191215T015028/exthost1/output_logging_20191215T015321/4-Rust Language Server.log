@@ -1,0 +1,16 @@
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/unicode_xid-a996d5d5bd23ca23.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libunicode_xid-a996d5d5bd23ca23.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libunicode_xid-a996d5d5bd23ca23.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libunicode_xid-a996d5d5bd23ca23.rlib","emit":"link"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/quote-78b5d3b862fa286a.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libquote-78b5d3b862fa286a.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libquote-78b5d3b862fa286a.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libquote-78b5d3b862fa286a.rlib","emit":"link"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/synom-46ec81afe01604e5.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libsynom-46ec81afe01604e5.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libsynom-46ec81afe01604e5.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libsynom-46ec81afe01604e5.rlib","emit":"link"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/num_traits-054072b5cfd82db4.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libnum_traits-054072b5cfd82db4.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libnum_traits-054072b5cfd82db4.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libnum_traits-054072b5cfd82db4.rlib","emit":"link"}

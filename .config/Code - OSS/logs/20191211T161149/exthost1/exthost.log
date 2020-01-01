@@ -1,0 +1,30 @@
+[2019-12-11 16:11:56.545] [exthost] [info] extension host started
+[2019-12-11 16:11:56.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-11 16:11:56.837] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-12-11 16:11:56.877] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-11 16:11:56.878] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-12-11 16:11:56.970] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-11 16:11:56.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-12-11 16:11:57.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-11 16:11:57.297] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-12-11 16:11:57.339] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2019-12-11 16:11:57.339] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-12-11 16:11:57.391] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"extensionId":{"value":"KnisterPeter.vscode-github","_lower":"knisterpeter.vscode-github"},"activationEvent":"*"}
+[2019-12-11 16:11:57.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2019-12-11 16:11:58.348] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2019-12-11 16:11:58.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/ms-vsliveshare.vsliveshare-1.0.1293/out/prod/extension-prod
+[2019-12-11 16:11:58.868] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"extensionId":{"value":"shardulm94.trailing-spaces","_lower":"shardulm94.trailing-spaces"},"activationEvent":"*"}
+[2019-12-11 16:11:58.868] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-12-11 16:11:58.928] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-hexdump {"startup":true,"extensionId":{"value":"slevesque.vscode-hexdump","_lower":"slevesque.vscode-hexdump"},"activationEvent":"*"}
+[2019-12-11 16:11:58.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/extension
+[2019-12-11 16:11:59.066] [exthost] [info] ExtensionService#_doActivateExtension spikespaz.vscode-smoothtype {"startup":true,"extensionId":{"value":"spikespaz.vscode-smoothtype","_lower":"spikespaz.vscode-smoothtype"},"activationEvent":"*"}
+[2019-12-11 16:11:59.066] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/spikespaz.vscode-smoothtype-1.2.0/extension
+[2019-12-11 16:11:59.078] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2019-12-11 16:11:59.078] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-1.7.18/dist/extension
+[2019-12-11 16:11:59.151] [exthost] [info] ExtensionService#_doActivateExtension xiaomingplus.type-music {"startup":true,"extensionId":{"value":"xiaomingplus.type-music","_lower":"xiaomingplus.type-music"},"activationEvent":"*"}
+[2019-12-11 16:11:59.151] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/xiaomingplus.type-music-0.0.3/out/extension
+[2019-12-11 16:11:59.290] [exthost] [info] ExtensionService#_doActivateExtension rust-lang.rust {"startup":true,"extensionId":{"value":"rust-lang.rust","_lower":"rust-lang.rust"},"activationEvent":"workspaceContains:Cargo.toml"}
+[2019-12-11 16:11:59.291] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/extension.js
+[2019-12-11 16:11:59.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2019-12-11 16:11:59.556] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2019-12-11 16:11:59.972] [exthost] [info] eager extensions activated

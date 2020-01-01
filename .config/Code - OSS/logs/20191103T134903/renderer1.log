@@ -1,0 +1,1700 @@
+[2019-11-03 13:49:14.428] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-vsliveshare.vsliveshare' took 47% of 1035.327ms, saved PROFILE here: '/tmp/exthost-177caf.cpuprofile' [{"id":"gc","total":13678,"percentage":1},{"id":"ms-vsliveshare.vsliveshare","total":487178,"percentage":47},{"id":"program","total":641,"percentage":0},{"id":"self","total":226926,"percentage":22},{"id":"shardulm94.trailing-spaces","total":60033,"percentage":6},{"id":"slevesque.vscode-hexdump","total":116353,"percentage":11},{"id":"spikespaz.vscode-smoothtype","total":12160,"percentage":1},{"id":"streetsidesoftware.code-spell-checker","total":15401,"percentage":1},{"id":"xiaomingplus.type-music","total":102556,"percentage":10}]
+[2019-11-03 13:49:26.115] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:51:59.044] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:01.807] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:03.424] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:04.672] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:05.959] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:12.591] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:13.886] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:20.465] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:22.218] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:23.635] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:26.186] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:27.683] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:28.947] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:30.107] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:52:30.654] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:52:31.807] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:53:22.995] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:53:24.556] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:53:34.729] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:53:35.882] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:53:37.745] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:53:53.159] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:02.989] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:04.348] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:05.895] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:09.443] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:11.230] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:13.473] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:14.645] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:16.085] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:17.652] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:19.005] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:54:19.143] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:20.484] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:21.642] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:21.799] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 13:54:21.972] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:27.454] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:30.532] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:31.890] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:33.077] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:34.838] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:45.336] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:47.159] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:48.300] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:49.195] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:54:49.327] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:50.624] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:51.704] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:53.080] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:54.084] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:55.242] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:56.258] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:57.893] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:54:59.083] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:00.197] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:01.413] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:06.470] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:07.557] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:09.099] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:10.662] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:11.751] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:19.208] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:20.346] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:22.178] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:23.516] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:24.641] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:25.954] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:26.967] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:28.316] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:29.567] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:31.945] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:55:33.133] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:23.935] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:25.521] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:26.720] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:28.361] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:29.952] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:31.160] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:31.790] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:56:31.934] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:38.848] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:40.311] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:56:42.069] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:01.124] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:02.605] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:03.825] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:05.688] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:09.101] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:11.421] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:12.854] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:19.483] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:24.248] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:27.246] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:38.551] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:39.774] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:40.936] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:48.011] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:52.551] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:54.880] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:56.210] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:57:57.288] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:02.886] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:17.448] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:23.028] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:24.677] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:28.580] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:29.930] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:31.099] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:41.299] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:43.499] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:44.604] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:46.539] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:48.138] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:49.315] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:50.571] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:51.760] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:52.977] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:56.076] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:58:58.611] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:00.399] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:01.678] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:02.786] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:05.184] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:06.362] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:07.775] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:10.935] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:12.161] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:13.191] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:14.599] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:16.505] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:21.486] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:23.371] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:24.552] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:27.068] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:28.681] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:30.374] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:31.599] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:34.227] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:44.016] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:45.652] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:59:45.784] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:46.825] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 13:59:46.974] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:48.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:49.490] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 13:59:51.797] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:10.341] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:13.238] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:14.376] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:21.159] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:22.734] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:23.880] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:26.231] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:27.709] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:32.071] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:38.739] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:40.264] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:42.413] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:43.416] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:45.005] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:00:46.165] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:30.074] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:33.817] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:35.100] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:36.114] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:37.373] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:40.114] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:41.600] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:42.940] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:45.980] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:47.140] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:48.141] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:49.292] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:50.712] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:52.165] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:53.242] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:55.428] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:56.610] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:57.687] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:01:59.395] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:00.597] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:01.707] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:03.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:05.322] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:07.561] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:08.641] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:14.724] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:17.537] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:19.154] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:23.467] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:25.696] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:35.850] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:36.941] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:42.432] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:46.333] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:48.068] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:52.344] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:53.545] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:54.584] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:02:55.804] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:07.036] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:09.515] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:10.606] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:19.363] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:27.113] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:28.565] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:30.470] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:32.684] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:34.831] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:36.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:37.809] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:39.066] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:40.495] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:42.543] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:43.848] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:47.154] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:48.909] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:52.537] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:53.808] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:56.473] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:04:59.340] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:00.911] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:02.491] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:10.849] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:12.333] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:14.494] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:15.914] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:16.956] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:18.539] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:19.711] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:20.906] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:22.540] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:23.593] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:05:26.544] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:09.115] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:10.197] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:11.211] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:13.316] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:14.494] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:15.921] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:17.125] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:18.306] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:19.497] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:21.896] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:24.599] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:26.141] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:27.229] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:28.327] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:29.630] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:31.944] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:33.285] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:41.198] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:42.441] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:47.573] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:06:48.998] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:07:54.469] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:00.160] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:01.638] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:02.923] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:04.003] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:06.500] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:08.525] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:09.532] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:11.246] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:12.270] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:13.312] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:14.517] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:15.666] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:17.453] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:18.563] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:21.207] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:23.592] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:30.095] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:31.244] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:32.684] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:34.270] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:10:35.713] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:19.798] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:21.612] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:22.893] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:24.350] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:25.397] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:32.938] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:34.347] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:37.448] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:39.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:40.129] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:42.003] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:44.217] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:45.300] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:46.575] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:47.903] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:49.247] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:50.578] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:51.611] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:55.080] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:56.805] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:11:58.647] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:00.797] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:05.259] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:16.102] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:17.263] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:42.999] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:45.917] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:47.007] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:48.638] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:50.174] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:12:52.725] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:32.465] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:33.535] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:35.176] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:36.901] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:38.633] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:44.408] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:45.499] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:50.023] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:51.096] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:52.139] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:53.583] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:57.949] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:14:59.397] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:00.704] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:12.505] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:13.490] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:15:14.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:15.479] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:16.546] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:17.860] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:19.227] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:20.296] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:24.684] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:30.777] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:52.060] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:53.169] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:54.418] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:55.564] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:15:58.355] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:16:00.433] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:16:40.683] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:16:42.233] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:16:44.696] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:16:46.030] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:16:47.648] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:35.297] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:36.850] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:17:37.002] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:38.528] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:39.625] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:40.772] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:41.805] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:43.587] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:45.098] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:46.216] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:47.299] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:50.331] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:51.908] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:53.500] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:54.692] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:55.789] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:17:57.659] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:00.147] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:02.037] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:03.243] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:07.395] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:47.295] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:48.801] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:50.760] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:52.788] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:18:59.493] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:01.596] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:03.318] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:04.594] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:07.900] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:09.680] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:10.536] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:19:10.601] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:11.698] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:11.822] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:19:13.636] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:15.624] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:17.366] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:19.060] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:20.197] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:35.440] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:55.260] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:19:56.296] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:20:10.169] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:20:17.941] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:21.806] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:23.457] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:25.527] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:27.273] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:28.338] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:39.597] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:43.645] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:44.890] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:45.916] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:47.234] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:48.433] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:49.664] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:51.723] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:53.201] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:56.735] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:21:59.393] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:00.956] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:02.322] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:04.357] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:05.527] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:07.871] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:11.810] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:23.618] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:24.984] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:26.457] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:28.422] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:34.412] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:35.881] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:37.026] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:38.262] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:41.448] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:42.802] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:44.199] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:45.381] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:46.677] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:48.776] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:52.218] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:54.709] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:56.478] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:57.846] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:22:59.778] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:01.525] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:04.186] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:05.704] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:06.978] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:08.277] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:09.358] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:10.806] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:11.830] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:13.087] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:14.352] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:15.884] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:17.320] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:18.582] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:20.067] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:21.499] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:22.779] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:24.106] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:25.380] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:27.453] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:29.030] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:30.369] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:32.101] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:33.375] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:34.593] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:35.665] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:36.731] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:38.278] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:39.441] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:40.977] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:42.320] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:43.884] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:45.309] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:46.392] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:48.097] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:23:49.471] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:11.222] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:12.382] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:13.934] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:15.237] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:16.985] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:19.077] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:20.165] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:21.449] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:22.667] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:23.791] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:25.571] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:27.060] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:28.265] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:29.769] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:31.003] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:32.097] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:33.627] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:39.301] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:40.558] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:49.714] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:50.727] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:52.322] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:53.468] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:55.621] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:57.445] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:58.474] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:24:59.884] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:25:00.029] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:01.086] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:02.214] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:03.398] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:04.685] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:05.795] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:09.355] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:10.688] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:11.716] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:13.292] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:14.420] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:16.133] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:17.283] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:19.124] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:20.570] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:21.674] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:23.057] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:24.694] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:25.820] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:25:26.885] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:03.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:04.344] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:05.358] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:08.595] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:10.136] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:11.807] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:28.069] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:31.999] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:33.321] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:34.717] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:35.962] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:37.216] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:39.792] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:41.149] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:42.394] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:43.575] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:45.142] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:46.521] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:47.694] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:49.029] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:50.098] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:53.509] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:55.120] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:56.390] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:58.179] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:26:59.783] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:27:04.208] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:27:59.355] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:28:07.137] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:28:09.550] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:28:10.845] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:28:12.025] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:28:13.086] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:28:14.223] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:28:15.433] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:29:02.132] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:29:03.389] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:29:04.955] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:19.826] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:24.260] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:25.849] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:30.966] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:34.694] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:35.934] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:37.079] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:40.466] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:41.975] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:43.554] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:45.252] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:46.476] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:49.185] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:50.408] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:51.944] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:53.714] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:31:55.960] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:32:05.481] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:32:06.550] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:32:11.946] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:32:13.309] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:32:14.546] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:32:15.610] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:08.229] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:09.464] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:11.800] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:16.929] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:19.818] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:21.974] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:30.006] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:32.709] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:34.392] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:35.468] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:36.993] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:50.777] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:52.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:53.904] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:55.245] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:56.557] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:57.613] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:33:58.723] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:12.373] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:21.014] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:22.252] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:23.326] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:24.803] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:47.539] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:48.749] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:49.987] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:51.209] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:52.264] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:53.565] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:55.015] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:34:59.885] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:07.490] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:08.593] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:13.070] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:14.239] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:16.089] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:17.795] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:19.649] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:20.806] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:21.766] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:35:21.910] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:23.438] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:26.064] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:27.181] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:28.307] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:29.462] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:33.326] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:34.392] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:36.024] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:37.321] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:38.618] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:35:39.660] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:27.157] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:34.653] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:36.601] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:38.560] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:40:38.577] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:44.477] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:46.517] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:48.311] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:50.425] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:53.567] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:40:55.551] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:00.475] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:01.867] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:03.357] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:05.032] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:06.243] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:07.827] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:18.122] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:19.167] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:20.583] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:22.205] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:23.506] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:41:23.648] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:24.759] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:41:24.898] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:26.768] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:27.814] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:29.870] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:31.039] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:32.471] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:33.952] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:34.965] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:40.043] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:41.942] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:45.735] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:46.742] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:48.201] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:49.399] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:50.409] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:52.215] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:53.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:55.170] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:56.349] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:57.670] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:41:59.427] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:00.471] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:11.551] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:12.598] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:42:12.715] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:13.832] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:15.026] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:16.051] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:17.642] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:18.961] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:20.393] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:23.861] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:30.533] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:32.106] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:36.623] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:37.827] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:39.185] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:40.424] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:41.833] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:44.984] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:47.641] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:51.429] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:52.578] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:53.639] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:55.942] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:42:57.777] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:09.630] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:10.882] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:12.861] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:16.365] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:16.583] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:43:16.719] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:17.929] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:19.458] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:20.822] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:22.002] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:23.057] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:24.149] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:43:25.801] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:49:18.364] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:30.997] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:32.188] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:36.696] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:38.687] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:39.773] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:41.197] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:42.709] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:45.228] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:46.237] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:46.291] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:50:47.648] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:48.794] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:57.583] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:50:58.818] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:11.400] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:17.367] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:18.612] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:19.853] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:21.229] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:22.505] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:23.890] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:28.833] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:34.862] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:36.180] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:37.524] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:38.997] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:57.050] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:58.162] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:51:59.581] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:00.617] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:02.130] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:06.564] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:07.751] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:08.846] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:09.942] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:10.977] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:12.378] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:13.672] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:16.289] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:17.786] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:19.038] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:20.312] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:21.563] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:23.266] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:25.088] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:26.241] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:38.969] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:40.258] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:41.381] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:42.790] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:48.881] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:50.092] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:51.504] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:52.777] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:54.046] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:55.723] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:56.891] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:52:58.792] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:03.107] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:05.441] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:07.794] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:08.532] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:53:08.725] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:10.418] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:11.476] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 14:53:11.633] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:12.878] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:14.310] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:15.327] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:17.296] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:18.873] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:53:19.077] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:20.179] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:25.838] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:27.506] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:31.183] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:32.244] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:42.414] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:43.487] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:53:54.612] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:00.580] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:16.232] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:17.505] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:18.841] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:20.035] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:22.349] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:37.653] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:52.954] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:54.450] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:55.930] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:57.215] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:58.479] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:54:59.649] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:01.422] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:02.456] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:03.854] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:05.762] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:06.901] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:08.069] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:09.075] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:11.882] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:13.048] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:14.819] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:16.154] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:17.376] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:18.617] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:20.510] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:24.156] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:25.649] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:26.913] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:28.750] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:29.915] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:31.458] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:32.637] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:33.684] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:35.127] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:36.217] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:37.406] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:38.623] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:40.436] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:41.648] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:43.549] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:44.578] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:45.878] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:47.078] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:48.143] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:49.620] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:53.707] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:54.739] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:57.656] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:55:59.733] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:01.522] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:03.338] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:04.375] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:05.791] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:15.330] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:16.501] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:18.104] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:20.871] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:26.982] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:27.997] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:29.251] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:30.390] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:31.542] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:32.556] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:33.854] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:35.871] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:37.208] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:38.691] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:40.402] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:43.555] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:44.699] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:56:44.845] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:48.475] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:49.685] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:50.729] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:52.197] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:54.153] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:56.465] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:57.808] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:56:59.416] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:00.566] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:01.806] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:03.792] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:04.341] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:57:04.480] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:05.398] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:57:05.542] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:07.201] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:08.296] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:09.361] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:10.477] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:12.826] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:13.844] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:16.281] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:17.403] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:18.854] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:19.907] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:21.104] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:39.997] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:46.397] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:47.669] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:48.936] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:57:50.222] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:58:38.481] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:58:40.121] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:58:41.194] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:05.589] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:07.773] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:18.712] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:28.970] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:35.860] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:41.581] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:45.762] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:47.219] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:48.901] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:52.125] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:55.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 14:59:59.118] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:00.558] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:01.992] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:10.014] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:11.232] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:18.100] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:23.875] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:27.616] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:28.928] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:33.648] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:00:33.837] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:35.834] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:36.997] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:38.036] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:39.118] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:40.517] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:41.675] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:47.368] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:49.640] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:55.261] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:56.409] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:57.700] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:58.808] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:00:59.972] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:01.431] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:02.881] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:11.050] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:12.641] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:13.985] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:15.973] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:17.165] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:18.618] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:21.649] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:23.497] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:24.854] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:26.147] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:27.335] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:29.410] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:30.815] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:34.636] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:01:37.457] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:04.340] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:05.435] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:17.912] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:21.210] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:22.341] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:23.530] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:24.653] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:30.514] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:32.286] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:33.979] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:35.140] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:36.195] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:37.339] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:38.856] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:40.233] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:41.569] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:42.807] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:02:42.948] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:44.723] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:45.798] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:48.473] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:50.280] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:53.624] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:56.609] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:58.037] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:02:59.351] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:01.292] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:03.322] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:04.644] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:06.181] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:07.542] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:09.902] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:11.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:12.516] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:14.127] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:15.850] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:19.892] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:21.754] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:22.981] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:24.320] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:25.802] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:27.147] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:28.277] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:30.004] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:31.512] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:32.565] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:34.153] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:35.546] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:36.945] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:38.026] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:39.560] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:41.235] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:42.453] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:43.744] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:45.221] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:56.384] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:03:58.947] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:11.207] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:12.780] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:14.158] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:15.168] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:18.293] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:20.499] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:21.683] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:22.797] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:24.099] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:25.489] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:26.911] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:28.837] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:29.960] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:31.645] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:37.602] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:40.802] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:42.201] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:46.448] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:47.589] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:49.195] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:50.488] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:51.590] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:53.289] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:04:58.073] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:09.403] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:11.725] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:12.900] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:14.502] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:16.528] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:25.064] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:26.419] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:27.771] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:29.389] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:30.730] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:31.738] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:33.722] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:35.704] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:36.848] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:37.907] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:39.156] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:40.397] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:43.501] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:45.573] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:46.714] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:48.174] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:49.996] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:51.210] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:52.835] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:54.214] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:55.464] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:56.494] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:57.716] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:05:58.807] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:04.621] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:05.764] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:07.479] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:09.117] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:12.202] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:13.680] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:17.271] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:18.333] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:19.535] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:20.909] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:22.773] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:24.889] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:25.968] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:27.441] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:28.218] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:06:29.280] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:30.728] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:31.515] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:06:31.672] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:32.879] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:33.980] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:35.078] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:36.514] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:37.313] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 15:06:37.466] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:38.723] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:39.794] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:43.181] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:44.191] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:45.515] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:46.793] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:48.318] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:49.933] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:51.030] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:52.283] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:53.619] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:54.640] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:56.495] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:57.606] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:06:59.030] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:00.141] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:01.418] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:06.600] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:07.917] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:09.786] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:11.008] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:12.615] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:17.585] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:19.003] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:20.030] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:24.055] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:25.680] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:27.002] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:28.239] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:29.571] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:35.519] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:36.593] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:38.779] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:46.592] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:48.727] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:52.152] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:07:53.840] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:04.260] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:05.468] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:06.557] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:10.399] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:11.703] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:14.608] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:15.621] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:16.762] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:18.201] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:19.300] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:21.092] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:28.238] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:30.127] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:31.150] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:32.227] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:33.833] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:35.404] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:36.918] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:38.584] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:42.515] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:44.860] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:46.019] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:08:59.980] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:00.990] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:02.209] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:03.653] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:05.092] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:06.327] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:08.295] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:09.460] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:10.598] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:11.019] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:09:11.188] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:12.320] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:13.876] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:15.333] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:25.299] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:49.877] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:51.419] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:53.639] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:54.926] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:09:57.500] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:10:00.235] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:01.630] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:05.901] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:09.372] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:10.655] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:12.212] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:14.153] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:16.117] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:18.396] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:20.114] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:21.128] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:23.539] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:25.191] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:25.480] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:15:25.645] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:26.978] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:37.666] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:39.753] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:40.918] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:43.399] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:46.164] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:47.638] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:15:59.060] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:00.763] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:02.384] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:03.816] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:05.071] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:06.337] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:10.235] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:11.384] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:13.230] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:14.452] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:16.048] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:17.203] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:19.002] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:21.206] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:22.708] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:24.242] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:34.986] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:37.509] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:40.785] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:43.134] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:46.049] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:47.574] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:48.643] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:49.941] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:54.952] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:56.578] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:57.845] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:16:59.097] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:17:00.215] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:17:01.914] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:17:03.120] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:17:04.696] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:21.792] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:22.842] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:24.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:25.135] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:26.376] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:28.525] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:30.029] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:32.944] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:34.069] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:35.238] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:36.397] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:37.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:39.029] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:40.074] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:41.310] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:42.626] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:43.860] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:18:59.026] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:01.692] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:03.300] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:04.696] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:06.134] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:07.431] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:08.910] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:10.521] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:12.361] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:16.059] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:17.165] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:18.378] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:19.596] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:21.180] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:22.247] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:23.761] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:25.067] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:26.238] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:27.545] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:19:44.558] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:20:00.839] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:20:09.047] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:21:11.498] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:23:56.242] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:24:23.451] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:24:48.213] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:24:54.198] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:24:56.941] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:24:58.535] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:00.034] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:02.508] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:08.877] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:11.494] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:44.215] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:49.219] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:55.994] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:25:59.518] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:27:29.308] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:27:31.026] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:27:34.826] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:07.101] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:09.981] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:11.385] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:49.682] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:51.906] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:53.678] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:57.324] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:28:58.707] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:29:11.972] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:29:32.729] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:29:33.877] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:29:37.570] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:29:41.276] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:34:41.173] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:37:04.867] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:37:10.502] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:37:33.270] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:37:38.067] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:38:10.268] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:38:12.435] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:38:17.830] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:38:24.754] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:38:26.076] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:38:27.302] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:38:28.393] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:41:03.286] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:44:20.279] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:42.199] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:43.980] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:45.660] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:48.083] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:49.472] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:50.519] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:53.427] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:45:54.980] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:15.120] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:16.509] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:17.837] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:18.900] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:20.047] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:21.217] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:22.489] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:23.587] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:24.899] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:26.174] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:27.308] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:28.578] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:30.078] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:31.948] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:33.233] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:35.043] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:44.623] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:45.679] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:51.193] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:54.813] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:46:59.051] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:21.628] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:24.972] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:26.673] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:29.263] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:40.728] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:42.099] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:48.457] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:49.827] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:50.961] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:47:52.166] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:48:07.670] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:48:10.215] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:48:53.606] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:16.338] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:34.634] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:38.338] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:40.112] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:42.188] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:43.358] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:44.558] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:48.759] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:49.764] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:51.227] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:49:59.702] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:04.032] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:06.508] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:19.026] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:20.171] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:21.768] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:25.385] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:26.824] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:28.827] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:30.112] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:39.310] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:40.721] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:41.747] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:49.605] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:50.617] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:51.893] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:53.749] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:50:54.819] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:06.384] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:07.748] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:08.999] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:17.645] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:18.785] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:23.760] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:24.925] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:51:25.946] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:51:26.040] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:26.694] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:28.562] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:33.475] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:34.869] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:35.965] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:37.289] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:38.464] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:40.268] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:48.997] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:50.397] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:51.653] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:52:53.491] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:13.850] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:14.945] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:17.612] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:19.399] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:20.713] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:21.822] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:22.926] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:24.321] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:25.523] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:26.332] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:53:26.413] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:31.941] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:53.366] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:55.146] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:56.333] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:53:57.334] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:07.923] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:09.462] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:10.476] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:54:10.546] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:11.819] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:13.123] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:21.958] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:32.613] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:33.664] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:34.749] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:36.355] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 15:54:36.518] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:37.614] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:38.990] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:40.138] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:42.134] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:43.570] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:45.868] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:47.548] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:48.809] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:49.840] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:51.183] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:51.878] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:54:51.962] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:53.282] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:54.775] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:56.750] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:54:57.220] [renderer1] [error] Error: Overlapping ranges are not allowed!
+    at r.applyEdits (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:633:714)
+    at P._applyEdits (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1283:225)
+    at P.applyEdits (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1282:969)
+    at r.pushEditOperation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:580:421)
+    at P._pushEditOperations (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1282:826)
+    at P.pushEditOperations (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1281:760)
+    at v.executeEdits (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1381:376)
+    at executeEdits (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2068:70)
+    at x.apply (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4438:434)
+    at D.apply (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4439:710)
+    at k.<anonymous> (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4442:317)
+    at Generator.next (<anonymous>)
+    at r (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:35:399)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+[2019-11-03 15:55:13.906] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:07.639] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:09.101] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:14.916] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:15.957] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:17.390] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:50.374] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:53.257] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:54.417] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:55.884] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:58:59.227] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:02.376] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:03.857] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:05.207] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:07.002] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:08.012] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:10.048] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:28.991] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:30.485] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:32.802] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:34.058] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 15:59:44.131] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:22.520] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:24.045] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:25.307] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:26.353] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:27.437] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:29.117] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 16:00:29.163] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:33.606] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:35.546] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:36.671] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:37.870] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:39.754] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:40.625] [renderer1] [error] Cannot read property 'value' of undefined: TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 16:00:40.650] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:42.100] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:00:43.603] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:50.697] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:51.969] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:53.184] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:54.505] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:56.137] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:57.383] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:58.543] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:01:59.560] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:02:01.306] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:05:22.560] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:05:24.456] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:05:25.532] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:05:41.776] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:05:43.108] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:05:44.291] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:06:06.782] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:06:07.985] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:07:01.930] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:07:03.817] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:05.533] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:06.541] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:07.801] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:10.636] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:11.668] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:12.864] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:14.777] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:17.263] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:24.943] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:25.981] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:28.295] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:30.153] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:33.265] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:34.294] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:36.144] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:38.256] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:39.385] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:40.496] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:50.711] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:08:53.636] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:09:09.717] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:09:20.750] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:09:24.270] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:10:02.502] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:10:21.565] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:10:38.743] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:10:55.918] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:11:08.607] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:11:10.618] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:11:14.481] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:11:25.000] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:11:30.428] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:11:54.900] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:00.904] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:04.887] [renderer1] [error] [sprintf] expecting number but found undefined: TypeError: [sprintf] expecting number but found undefined
+	at sprintf_format (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/node_modules/sprintf-js/src/sprintf.js:62:27)
+	at Object.sprintf (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/node_modules/sprintf-js/src/sprintf.js:26:16)
+	at provideHover.Promise (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:38:63)
+	at new Promise (<anonymous>)
+	at HexdumpHoverProvider.<anonymous> (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:20:20)
+	at Generator.next (<anonymous>)
+	at __awaiter (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:7:71)
+	at new Promise (<anonymous>)
+	at __awaiter (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:3:12)
+	at HexdumpHoverProvider.provideHover (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:19:16)
+	at define.provideHover.o.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:536)
+	at t.asPromise.Promise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:720)
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:692)
+	at w.provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:507)
+	at define.$provideHover._withAdapter.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:568:800)
+	at W._withAdapter (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:565:723)
+	at W.$provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:568:778)
+	at d._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:623:396)
+	at d._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:623:88)
+	at d._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:621:730)
+	at d._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:620:605)
+	at define.constructor._protocol.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:618:791)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:579)
+	at i.constructor.e.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:783:484)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:579)
+	at x._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:191:17)
+	at define.constructor._socketDisposables.push._socketReader.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:188:116)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at f.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:184:17)
+	at define.constructor._register._socket.onData.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:183:372)
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:192:491)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-11-03 16:12:06.091] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:07.381] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:11.043] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:12.741] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:14.149] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:15.443] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:16.517] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:18.163] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:47.093] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:48.504] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:50.361] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:51.890] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:53.405] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:54.786] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:56.388] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:57.674] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:12:59.054] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:13:00.144] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:14:12.119] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:14:16.325] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:14:17.763] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:14:18.901] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:14:20.010] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:14:21.082] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:14:23.025] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:26.622] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:41.909] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:44.094] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:49.080] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:50.143] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:51.259] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:52.941] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:53.983] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:55.682] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:57.204] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:15:59.866] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:16:01.539] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:16:03.584] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:16:05.001] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-11-03 16:16:13.171] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

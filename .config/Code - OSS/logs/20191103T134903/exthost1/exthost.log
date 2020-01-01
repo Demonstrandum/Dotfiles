@@ -1,0 +1,274 @@
+[2019-11-03 13:49:08.401] [exthost] [info] extension host started
+[2019-11-03 13:49:08.535] [exthost] [info] ExtensionService#_doActivateExtension kalitaalexey.vscode-rust {"startup":false,"activationEvent":"onLanguage:rust"}
+[2019-11-03 13:49:08.536] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/kalitaalexey.vscode-rust-0.4.2/out/src/extension
+[2019-11-03 13:49:10.401] [exthost] [info] ExtensionService#_doActivateExtension rust-lang.rust {"startup":false,"activationEvent":"onLanguage:rust"}
+[2019-11-03 13:49:10.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/extension.js
+[2019-11-03 13:49:10.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:10.736] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-11-03 13:49:10.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:10.753] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-11-03 13:49:10.917] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:10.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-11-03 13:49:11.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:11.185] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-11-03 13:49:11.206] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:11.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-11-03 13:49:11.240] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:11.240] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.3/out/src/main
+[2019-11-03 13:49:11.861] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:11.862] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/ms-vsliveshare.vsliveshare-1.0.1123/out/prod/extension-prod
+[2019-11-03 13:49:13.713] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:13.713] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-11-03 13:49:13.777] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-hexdump {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:13.777] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/extension
+[2019-11-03 13:49:13.900] [exthost] [info] ExtensionService#_doActivateExtension spikespaz.vscode-smoothtype {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:13.900] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/spikespaz.vscode-smoothtype-1.2.0/extension
+[2019-11-03 13:49:13.915] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:13.915] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-1.7.18/dist/extension
+[2019-11-03 13:49:14.112] [exthost] [info] ExtensionService#_doActivateExtension xiaomingplus.type-music {"startup":true,"activationEvent":"*"}
+[2019-11-03 13:49:14.112] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/xiaomingplus.type-music-0.0.3/out/extension
+[2019-11-03 13:49:14.229] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-11-03 13:49:14.229] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2019-11-03 13:49:14.824] [exthost] [info] eager extensions activated
+[2019-11-03 13:52:30.652] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 13:52:30.652] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:54:19.004] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 13:54:19.004] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:54:21.798] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 13:54:21.799] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 13:54:49.195] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 13:54:49.195] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:56:31.789] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 13:56:31.789] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:59:45.651] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 13:59:45.651] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 13:59:46.823] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 13:59:46.824] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 14:15:13.489] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:15:13.489] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:17:36.850] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:17:36.850] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:19:10.533] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:19:10.533] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:19:11.809] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:19:11.809] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:24:59.883] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:24:59.883] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:35:21.765] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:35:21.766] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:40:38.559] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:40:38.560] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:41:23.505] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:41:23.505] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:41:24.759] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:41:24.759] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:42:12.597] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:42:12.597] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:43:16.582] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:43:16.582] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:50:46.290] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:50:46.290] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:53:08.531] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:53:08.531] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:53:11.475] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:53:11.475] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 14:53:18.868] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:53:18.868] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:56:44.697] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:56:44.698] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:57:04.340] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:57:04.340] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 14:57:05.398] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 14:57:05.398] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:00:33.647] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:00:33.648] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:02:42.806] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:02:42.806] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:06:28.217] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:06:28.217] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:06:31.514] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:06:31.514] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:06:37.312] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:06:37.312] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 15:09:11.016] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:09:11.016] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:15:25.479] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:15:25.480] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:21:11.138] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2019-11-03 15:21:11.138] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2019-11-03 15:51:25.945] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:51:25.945] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:53:26.331] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:53:26.331] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:54:10.474] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:54:10.475] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 15:54:36.354] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:54:36.355] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:20:130)
+[2019-11-03 15:54:51.877] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 15:54:51.877] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 16:00:29.105] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 16:00:29.106] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 16:00:40.623] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-03 16:00:40.624] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-03 16:08:56.565] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"activationEvent":"onCommand:code-runner.run"}
+[2019-11-03 16:08:56.565] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/formulahendry.code-runner-0.9.14/out/src/extension
+[2019-11-03 16:12:04.883] [exthost] [error] [slevesque.vscode-hexdump] provider FAILED
+[2019-11-03 16:12:04.884] [exthost] [error] TypeError: [sprintf] expecting number but found undefined
+	at sprintf_format (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/node_modules/sprintf-js/src/sprintf.js:62:27)
+	at Object.sprintf (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/node_modules/sprintf-js/src/sprintf.js:26:16)
+	at provideHover.Promise (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:38:63)
+	at new Promise (<anonymous>)
+	at HexdumpHoverProvider.<anonymous> (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:20:20)
+	at Generator.next (<anonymous>)
+	at __awaiter (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:7:71)
+	at new Promise (<anonymous>)
+	at __awaiter (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:3:12)
+	at HexdumpHoverProvider.provideHover (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:19:16)
+	at define.provideHover.o.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:536)
+	at t.asPromise.Promise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:720)
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:692)
+	at w.provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:507)
+	at define.$provideHover._withAdapter.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:568:800)
+	at W._withAdapter (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:565:723)
+	at W.$provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:568:778)
+	at d._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:623:396)
+	at d._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:623:88)
+	at d._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:621:730)
+	at d._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:620:605)
+	at define.constructor._protocol.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:618:791)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:579)
+	at i.constructor.e.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:783:484)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:579)
+	at x._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:191:17)
+	at define.constructor._socketDisposables.push._socketReader.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:188:116)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at f.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:184:17)
+	at define.constructor._register._socket.onData.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:183:372)
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:192:491)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+[2019-11-03 16:12:05.183] [exthost] [error] [slevesque.vscode-hexdump] provider FAILED
+[2019-11-03 16:12:05.184] [exthost] [error] TypeError: [sprintf] expecting number but found undefined
+	at sprintf_format (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/node_modules/sprintf-js/src/sprintf.js:62:27)
+	at Object.sprintf (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/node_modules/sprintf-js/src/sprintf.js:26:16)
+	at provideHover.Promise (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:38:63)
+	at new Promise (<anonymous>)
+	at HexdumpHoverProvider.<anonymous> (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:20:20)
+	at Generator.next (<anonymous>)
+	at __awaiter (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:7:71)
+	at new Promise (<anonymous>)
+	at __awaiter (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:3:12)
+	at HexdumpHoverProvider.provideHover (/home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/hoverProvider.js:19:16)
+	at define.provideHover.o.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:536)
+	at t.asPromise.Promise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:720)
+	at new Promise (<anonymous>)
+	at Object.t.asPromise (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:692)
+	at w.provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:552:507)
+	at define.$provideHover._withAdapter.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:568:800)
+	at W._withAdapter (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:565:723)
+	at W.$provideHover (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:568:778)
+	at d._doInvokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:623:396)
+	at d._invokeHandler (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:623:88)
+	at d._receiveRequest (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:621:730)
+	at d._receiveOneMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:620:605)
+	at define.constructor._protocol.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:618:791)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:579)
+	at i.constructor.e.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:783:484)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at v.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:186:579)
+	at x._receiveMessage (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:191:17)
+	at define.constructor._socketDisposables.push._socketReader.onMessage.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:188:116)
+	at u.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:50:207)
+	at f.acceptChunk (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:184:17)
+	at define.constructor._register._socket.onData.e (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:183:372)
+	at Socket.t (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:192:491)
+	at Socket.emit (events.js:182:13)
+	at addChunk (_stream_readable.js:283:12)
+	at readableAddChunk (_stream_readable.js:264:11)
+	at Socket.Readable.push (_stream_readable.js:219:10)
+	at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
