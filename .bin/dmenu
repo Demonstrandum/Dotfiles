@@ -1,0 +1,2 @@
+#!/usr/bin/zsh
+/usr/bin/rofi -dmenu $@

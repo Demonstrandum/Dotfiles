@@ -1,0 +1,28 @@
+#!/bin/sh
+
+polybar="$(pgrep polybar)"
+kill "$polybar"
+sleep 1
+
+ORIENTATION="$(sys-conf get orientation)"
+[ -z "$ORIENTATION" ] && ORIENTATION=landscape
+
+if [ "$ORIENTATION" = portrait ]; then
+    rotate-landscape
+    sys-conf set orientation landscape
+    ORIENTATION=landscape
+else
+    rotate-portrait
+    sys-conf set orientation portrait
+    ORIENTATION=portrait
+fi
+
+export ORIENTATION
+
+sys-conf set bar_name "$ORIENTATION"
+
+sleep 2
+if [ ! -z "$polybar" ]; then
+    $HOME/.scripts/toggle-bar.sh
+fi
+

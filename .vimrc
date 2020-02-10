@@ -23,7 +23,6 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'git://git.wincent.com/command-t.git'
 " git repos on your local machine (i.e. when working on your own plugin)
 
-Plugin 'file:///home/gmarik/path/to/plugin'
 " The sparkup vim script is in a subdirectory of this repo called vim.
 " Pass the path to set the runtimepath properly.
 Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
@@ -34,6 +33,8 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
+Plugin 'pangloss/vim-javascript'
+Plugin 'mxw/vim-jsx'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -50,7 +51,7 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
-
+set t_Co=256
 set number
 syntax on
 
@@ -64,8 +65,10 @@ match lschrs /$/
 
 filetype plugin indent on
 
-set tabstop=4
-set shiftwidth=4
+set tabstop=4       " The width of a TAB is set to 4.
+set shiftwidth=4    " Indents will have a width of 4
+set softtabstop=4   " Sets the number of columns for a TAB
+set expandtab       " Expand TABs to spaces
 
 set list
 set listchars=tab:\|\ ,trail:·,eol:¬
@@ -105,5 +108,5 @@ let g:airline_symbols.linenr = ''
 set cmdheight=1
 set cmdwinheight=1
 
-au BufRead,BufNewFile *.vh set filetype=ruby
+au BufRead,BufNewFile *.vh set filetype=haskell
 

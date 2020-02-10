@@ -7,6 +7,6 @@ alias loc='git ls-files | xargs wc -l'
 alias clear-tmp='sudo /bin/rm -rf /tmp/* /tmp/.*'
 alias ls='exa'
 alias swim='sudo vim'
-
+alias wake-wifi='sudo /lib/systemd/system-sleep/reset_wifi.sh post'
 alias youtube-audio='youtube-dl --extract-audio --audio-format mp3 --audio-quality 0'
 

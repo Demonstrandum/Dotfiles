@@ -1,7 +1,16 @@
-#!/bin/bash
-ps cax | grep polybar > /dev/null
+#!/bin/sh
+
+[ -z "$BAR_NAME" ] && BAR_NAME="$(sys-conf get bar_name)"
+[ -z "$BAR_NAME" ] && BAR_NAME=top
+
+pgrep polybar > /dev/null
+
 if [ $? -eq 0 ]; then
-  killall polybar
+	pkill polybar
+	bspc config top_padding 0
 else
-	polybar top
+	bspc config top_padding 100
+	polybar "$BAR_NAME" &
 fi
+
+border-refresh.sh
