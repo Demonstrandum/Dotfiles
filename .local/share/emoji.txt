@@ -1,0 +1,3128 @@
+😀 Grinning Face; U+1f600
+😃 Grinning Face With Big Eyes; U+1f603
+😄 Grinning Face With Smiling Eyes; U+1f604
+😁 Beaming Face With Smiling Eyes; U+1f601
+😆 Grinning Squinting Face; U+1f606
+😅 Grinning Face With Sweat; U+1f605
+🤣 Rolling On The Floor Laughing; U+1f923
+😂 Face With Tears Of Joy; U+1f602
+🙂 Slightly Smiling Face; U+1f642
+🙃 Upside-down Face; U+1f643
+😉 Winking Face; U+1f609
+😊 Smiling Face With Smiling Eyes; U+1f60a
+😇 Smiling Face With Halo; U+1f607
+🥰 Smiling Face With 3 Hearts; U+1f970
+😍 Smiling Face With Heart-eyes; U+1f60d
+🤩 Star-struck; U+1f929
+😘 Face Blowing A Kiss; U+1f618
+😗 Kissing Face; U+1f617
+☺  Smiling Face; U+263a
+😚 Kissing Face With Closed Eyes; U+1f61a
+😙 Kissing Face With Smiling Eyes; U+1f619
+😋 Face Savoring Food; U+1f60b
+😛 Face With Tongue; U+1f61b
+😜 Winking Face With Tongue; U+1f61c
+🤪 Zany Face; U+1f92a
+😝 Squinting Face With Tongue; U+1f61d
+🤑 Money-mouth Face; U+1f911
+🤗 Hugging Face; U+1f917
+🤭 Face With Hand Over Mouth; U+1f92d
+🤫 Shushing Face; U+1f92b
+🤔 Thinking Face; U+1f914
+🤐 Zipper-mouth Face; U+1f910
+🤨 Face With Raised Eyebrow; U+1f928
+😐 Neutral Face; U+1f610
+😑 Expressionless Face; U+1f611
+😶 Face Without Mouth; U+1f636
+😏 Smirking Face; U+1f60f
+😒 Unamused Face; U+1f612
+🙄 Face With Rolling Eyes; U+1f644
+😬 Grimacing Face; U+1f62c
+🤥 Lying Face; U+1f925
+😌 Relieved Face; U+1f60c
+😔 Pensive Face; U+1f614
+😪 Sleepy Face; U+1f62a
+🤤 Drooling Face; U+1f924
+😴 Sleeping Face; U+1f634
+😷 Face With Medical Mask; U+1f637
+🤒 Face With Thermometer; U+1f912
+🤕 Face With Head-bandage; U+1f915
+🤢 Nauseated Face; U+1f922
+🤮 Face Vomiting; U+1f92e
+🤧 Sneezing Face; U+1f927
+🥵 Hot Face; U+1f975
+🥶 Cold Face; U+1f976
+🥴 Woozy Face; U+1f974
+😵 Dizzy Face; U+1f635
+🤯 Exploding Head; U+1f92f
+🤠 Cowboy Hat Face; U+1f920
+🥳 Partying Face; U+1f973
+😎 Smiling Face With Sunglasses; U+1f60e
+🤓 Nerd Face; U+1f913
+🧐 Face With Monocle; U+1f9d0
+😕 Confused Face; U+1f615
+😟 Worried Face; U+1f61f
+🙁 Slightly Frowning Face; U+1f641
+☹  Frowning Face; U+2639
+😮 Face With Open Mouth; U+1f62e
+😯 Hushed Face; U+1f62f
+😲 Astonished Face; U+1f632
+😳 Flushed Face; U+1f633
+🥺 Pleading Face; U+1f97a
+😦 Frowning Face With Open Mouth; U+1f626
+😧 Anguished Face; U+1f627
+😨 Fearful Face; U+1f628
+😰 Anxious Face With Sweat; U+1f630
+😥 Sad But Relieved Face; U+1f625
+😢 Crying Face; U+1f622
+😭 Loudly Crying Face; U+1f62d
+😱 Face Screaming In Fear; U+1f631
+😖 Confounded Face; U+1f616
+😣 Persevering Face; U+1f623
+😞 Disappointed Face; U+1f61e
+😓 Downcast Face With Sweat; U+1f613
+😩 Weary Face; U+1f629
+😫 Tired Face; U+1f62b
+😤 Face With Steam From Nose; U+1f624
+😡 Pouting Face; U+1f621
+😠 Angry Face; U+1f620
+🤬 Face With Symbols On Mouth; U+1f92c
+😈 Smiling Face With Horns; U+1f608
+👿 Angry Face With Horns; U+1f47f
+💀 Skull; U+1f480
+☠ Skull And Crossbones; U+2620
+💩 Pile Of Poo; U+1f4a9
+🤡 Clown Face; U+1f921
+👹 Ogre; U+1f479
+👺 Goblin; U+1f47a
+👻 Ghost; U+1f47b
+👽 Alien; U+1f47d
+👾 Alien Monster; U+1f47e
+🤖 Robot Face; U+1f916
+😺 Grinning Cat Face; U+1f63a
+😸 Grinning Cat Face With Smiling Eyes; U+1f638
+😹 Cat Face With Tears Of Joy; U+1f639
+😻 Smiling Cat Face With Heart-eyes; U+1f63b
+😼 Cat Face With Wry Smile; U+1f63c
+😽 Kissing Cat Face; U+1f63d
+🙀 Weary Cat Face; U+1f640
+😿 Crying Cat Face; U+1f63f
+😾 Pouting Cat Face; U+1f63e
+🙈 See-no-evil Monkey; U+1f648
+🙉 Hear-no-evil Monkey; U+1f649
+🙊 Speak-no-evil Monkey; U+1f64a
+💋 Kiss Mark; U+1f48b
+💌 Love Letter; U+1f48c
+💘 Heart With Arrow; U+1f498
+💝 Heart With Ribbon; U+1f49d
+💖 Sparkling Heart; U+1f496
+💗 Growing Heart; U+1f497
+💓 Beating Heart; U+1f493
+💞 Revolving Hearts; U+1f49e
+💕 Two Hearts; U+1f495
+💟 Heart Decoration; U+1f49f
+❣ Heavy Heart Exclamation; U+2763
+💔 Broken Heart; U+1f494
+❤ Red Heart; U+2764
+🧡 Orange Heart; U+1f9e1
+💛 Yellow Heart; U+1f49b
+💚 Green Heart; U+1f49a
+💙 Blue Heart; U+1f499
+💜 Purple Heart; U+1f49c
+🖤 Black Heart; U+1f5a4
+💯 Hundred Points; U+1f4af
+💢 Anger Symbol; U+1f4a2
+💥 Collision; U+1f4a5
+💫 Dizzy; U+1f4ab
+💦 Sweat Droplets; U+1f4a6
+💨 Dashing Away; U+1f4a8
+🕳 Hole; U+1f573
+💣 Bomb; U+1f4a3
+💬 Speech Balloon; U+1f4ac
+👁️‍🗨️ Eye In Speech Bubble; U+1f441 U+fe0f U+200d U+1f5e8 U+fe0f
+🗨 Left Speech Bubble; U+1f5e8
+🗯 Right Anger Bubble; U+1f5ef
+💭 Thought Balloon; U+1f4ad
+💤 Zzz; U+1f4a4
+👋 Waving Hand; U+1f44b
+🤚 Raised Back Of Hand; U+1f91a
+🖐 Hand With Fingers Splayed; U+1f590
+✋ Raised Hand; U+270b
+🖖 Vulcan Salute; U+1f596
+👌 Ok Hand; U+1f44c
+✌ Victory Hand; U+270c
+🤞 Crossed Fingers; U+1f91e
+🤟 Love-you Gesture; U+1f91f
+🤘 Sign Of The Horns; U+1f918
+🤙 Call Me Hand; U+1f919
+👈 Backhand Index Pointing Left; U+1f448
+👉 Backhand Index Pointing Right; U+1f449
+👆 Backhand Index Pointing Up; U+1f446
+🖕 Middle Finger; U+1f595
+👇 Backhand Index Pointing Down; U+1f447
+☝ Index Pointing Up; U+261d
+👍 Thumbs Up; U+1f44d
+👎 Thumbs Down; U+1f44e
+✊ Raised Fist; U+270a
+👊 Oncoming Fist; U+1f44a
+🤛 Left-facing Fist; U+1f91b
+🤜 Right-facing Fist; U+1f91c
+👏 Clapping Hands; U+1f44f
+🙌 Raising Hands; U+1f64c
+👐 Open Hands; U+1f450
+🤲 Palms Up Together; U+1f932
+🤝 Handshake; U+1f91d
+🙏 Folded Hands; U+1f64f
+✍ Writing Hand; U+270d
+💅 Nail Polish; U+1f485
+🤳 Selfie; U+1f933
+💪 Flexed Biceps; U+1f4aa
+🦵 Leg; U+1f9b5
+🦶 Foot; U+1f9b6
+👂 Ear; U+1f442
+👃 Nose; U+1f443
+🧠 Brain; U+1f9e0
+🦷 Tooth; U+1f9b7
+🦴 Bone; U+1f9b4
+👀 Eyes; U+1f440
+👁 Eye; U+1f441
+👅 Tongue; U+1f445
+👄 Mouth; U+1f444
+👶 Baby; U+1f476
+🧒 Child; U+1f9d2
+👦 Boy; U+1f466
+👧 Girl; U+1f467
+🧑 Person; U+1f9d1
+👱 Person: Blond Hair; U+1f471
+👨 Man; U+1f468
+👱‍♂️ Man: Blond Hair; U+1f471 U+200d U+2642 U+fe0f
+👨‍🦰 Man: Red Hair; U+1f468 U+200d U+1f9b0
+👨‍🦱 Man: Curly Hair; U+1f468 U+200d U+1f9b1
+👨‍🦳 Man: White Hair; U+1f468 U+200d U+1f9b3
+👨‍🦲 Man: Bald; U+1f468 U+200d U+1f9b2
+🧔 Man: Beard; U+1f9d4
+👩 Woman; U+1f469
+👱‍♀️ Woman: Blond Hair; U+1f471 U+200d U+2640 U+fe0f
+👩‍🦰 Woman: Red Hair; U+1f469 U+200d U+1f9b0
+👩‍🦱 Woman: Curly Hair; U+1f469 U+200d U+1f9b1
+👩‍🦳 Woman: White Hair; U+1f469 U+200d U+1f9b3
+👩‍🦲 Woman: Bald; U+1f469 U+200d U+1f9b2
+🧓 Older Person; U+1f9d3
+👴 Old Man; U+1f474
+👵 Old Woman; U+1f475
+🙍 Person Frowning; U+1f64d
+🙍‍♂️ Man Frowning; U+1f64d U+200d U+2642 U+fe0f
+🙍‍♀️ Woman Frowning; U+1f64d U+200d U+2640 U+fe0f
+🙎 Person Pouting; U+1f64e
+🙎‍♂️ Man Pouting; U+1f64e U+200d U+2642 U+fe0f
+🙎‍♀️ Woman Pouting; U+1f64e U+200d U+2640 U+fe0f
+🙅 Person Gesturing No; U+1f645
+🙅‍♂️ Man Gesturing No; U+1f645 U+200d U+2642 U+fe0f
+🙅‍♀️ Woman Gesturing No; U+1f645 U+200d U+2640 U+fe0f
+🙆 Person Gesturing Ok; U+1f646
+🙆‍♂️ Man Gesturing Ok; U+1f646 U+200d U+2642 U+fe0f
+🙆‍♀️ Woman Gesturing Ok; U+1f646 U+200d U+2640 U+fe0f
+💁 Person Tipping Hand; U+1f481
+💁‍♂️ Man Tipping Hand; U+1f481 U+200d U+2642 U+fe0f
+💁‍♀️ Woman Tipping Hand; U+1f481 U+200d U+2640 U+fe0f
+🙋 Person Raising Hand; U+1f64b
+🙋‍♂️ Man Raising Hand; U+1f64b U+200d U+2642 U+fe0f
+🙋‍♀️ Woman Raising Hand; U+1f64b U+200d U+2640 U+fe0f
+🙇 Person Bowing; U+1f647
+🙇‍♂️ Man Bowing; U+1f647 U+200d U+2642 U+fe0f
+🙇‍♀️ Woman Bowing; U+1f647 U+200d U+2640 U+fe0f
+🤦 Person Facepalming; U+1f926
+🤦‍♂️ Man Facepalming; U+1f926 U+200d U+2642 U+fe0f
+🤦‍♀️ Woman Facepalming; U+1f926 U+200d U+2640 U+fe0f
+🤷 Person Shrugging; U+1f937
+🤷‍♂️ Man Shrugging; U+1f937 U+200d U+2642 U+fe0f
+🤷‍♀️ Woman Shrugging; U+1f937 U+200d U+2640 U+fe0f
+👨‍⚕️ Man Health Worker; U+1f468 U+200d U+2695 U+fe0f
+👩‍⚕️ Woman Health Worker; U+1f469 U+200d U+2695 U+fe0f
+👨‍🎓 Man Student; U+1f468 U+200d U+1f393
+👩‍🎓 Woman Student; U+1f469 U+200d U+1f393
+👨‍🏫 Man Teacher; U+1f468 U+200d U+1f3eb
+👩‍🏫 Woman Teacher; U+1f469 U+200d U+1f3eb
+👨‍⚖️ Man Judge; U+1f468 U+200d U+2696 U+fe0f
+👩‍⚖️ Woman Judge; U+1f469 U+200d U+2696 U+fe0f
+👨‍🌾 Man Farmer; U+1f468 U+200d U+1f33e
+👩‍🌾 Woman Farmer; U+1f469 U+200d U+1f33e
+👨‍🍳 Man Cook; U+1f468 U+200d U+1f373
+👩‍🍳 Woman Cook; U+1f469 U+200d U+1f373
+👨‍🔧 Man Mechanic; U+1f468 U+200d U+1f527
+👩‍🔧 Woman Mechanic; U+1f469 U+200d U+1f527
+👨‍🏭 Man Factory Worker; U+1f468 U+200d U+1f3ed
+👩‍🏭 Woman Factory Worker; U+1f469 U+200d U+1f3ed
+👨‍💼 Man Office Worker; U+1f468 U+200d U+1f4bc
+👩‍💼 Woman Office Worker; U+1f469 U+200d U+1f4bc
+👨‍🔬 Man Scientist; U+1f468 U+200d U+1f52c
+👩‍🔬 Woman Scientist; U+1f469 U+200d U+1f52c
+👨‍💻 Man Technologist; U+1f468 U+200d U+1f4bb
+👩‍💻 Woman Technologist; U+1f469 U+200d U+1f4bb
+👨‍🎤 Man Singer; U+1f468 U+200d U+1f3a4
+👩‍🎤 Woman Singer; U+1f469 U+200d U+1f3a4
+👨‍🎨 Man Artist; U+1f468 U+200d U+1f3a8
+👩‍🎨 Woman Artist; U+1f469 U+200d U+1f3a8
+👨‍✈️ Man Pilot; U+1f468 U+200d U+2708 U+fe0f
+👩‍✈️ Woman Pilot; U+1f469 U+200d U+2708 U+fe0f
+👨‍🚀 Man Astronaut; U+1f468 U+200d U+1f680
+👩‍🚀 Woman Astronaut; U+1f469 U+200d U+1f680
+👨‍🚒 Man Firefighter; U+1f468 U+200d U+1f692
+👩‍🚒 Woman Firefighter; U+1f469 U+200d U+1f692
+👮 Police Officer; U+1f46e
+👮‍♂️ Man Police Officer; U+1f46e U+200d U+2642 U+fe0f
+👮‍♀️ Woman Police Officer; U+1f46e U+200d U+2640 U+fe0f
+🕵 Detective; U+1f575
+🕵️‍♂️ Man Detective; U+1f575 U+fe0f U+200d U+2642 U+fe0f
+🕵️‍♀️ Woman Detective; U+1f575 U+fe0f U+200d U+2640 U+fe0f
+💂 Guard; U+1f482
+💂‍♂️ Man Guard; U+1f482 U+200d U+2642 U+fe0f
+💂‍♀️ Woman Guard; U+1f482 U+200d U+2640 U+fe0f
+👷 Construction Worker; U+1f477
+👷‍♂️ Man Construction Worker; U+1f477 U+200d U+2642 U+fe0f
+👷‍♀️ Woman Construction Worker; U+1f477 U+200d U+2640 U+fe0f
+🤴 Prince; U+1f934
+👸 Princess; U+1f478
+👳 Person Wearing Turban; U+1f473
+👳‍♂️ Man Wearing Turban; U+1f473 U+200d U+2642 U+fe0f
+👳‍♀️ Woman Wearing Turban; U+1f473 U+200d U+2640 U+fe0f
+👲 Man With Chinese Cap; U+1f472
+🧕 Woman With Headscarf; U+1f9d5
+🤵 Man In Tuxedo; U+1f935
+👰 Bride With Veil; U+1f470
+🤰 Pregnant Woman; U+1f930
+🤱 Breast-feeding; U+1f931
+👼 Baby Angel; U+1f47c
+🎅 Santa Claus; U+1f385
+🤶 Mrs. Claus; U+1f936
+🦸 Superhero; U+1f9b8
+🦸‍♂️ Man Superhero; U+1f9b8 U+200d U+2642 U+fe0f
+🦸‍♀️ Woman Superhero; U+1f9b8 U+200d U+2640 U+fe0f
+🦹 Supervillain; U+1f9b9
+🦹‍♂️ Man Supervillain; U+1f9b9 U+200d U+2642 U+fe0f
+🦹‍♀️ Woman Supervillain; U+1f9b9 U+200d U+2640 U+fe0f
+🧙 Mage; U+1f9d9
+🧙‍♂️ Man Mage; U+1f9d9 U+200d U+2642 U+fe0f
+🧙‍♀️ Woman Mage; U+1f9d9 U+200d U+2640 U+fe0f
+🧚 Fairy; U+1f9da
+🧚‍♂️ Man Fairy; U+1f9da U+200d U+2642 U+fe0f
+🧚‍♀️ Woman Fairy; U+1f9da U+200d U+2640 U+fe0f
+🧛 Vampire; U+1f9db
+🧛‍♂️ Man Vampire; U+1f9db U+200d U+2642 U+fe0f
+🧛‍♀️ Woman Vampire; U+1f9db U+200d U+2640 U+fe0f
+🧜 Merperson; U+1f9dc
+🧜‍♂️ Merman; U+1f9dc U+200d U+2642 U+fe0f
+🧜‍♀️ Mermaid; U+1f9dc U+200d U+2640 U+fe0f
+🧝 Elf; U+1f9dd
+🧝‍♂️ Man Elf; U+1f9dd U+200d U+2642 U+fe0f
+🧝‍♀️ Woman Elf; U+1f9dd U+200d U+2640 U+fe0f
+🧞 Genie; U+1f9de
+🧞‍♂️ Man Genie; U+1f9de U+200d U+2642 U+fe0f
+🧞‍♀️ Woman Genie; U+1f9de U+200d U+2640 U+fe0f
+🧟 Zombie; U+1f9df
+🧟‍♂️ Man Zombie; U+1f9df U+200d U+2642 U+fe0f
+🧟‍♀️ Woman Zombie; U+1f9df U+200d U+2640 U+fe0f
+💆 Person Getting Massage; U+1f486
+💆‍♂️ Man Getting Massage; U+1f486 U+200d U+2642 U+fe0f
+💆‍♀️ Woman Getting Massage; U+1f486 U+200d U+2640 U+fe0f
+💇 Person Getting Haircut; U+1f487
+💇‍♂️ Man Getting Haircut; U+1f487 U+200d U+2642 U+fe0f
+💇‍♀️ Woman Getting Haircut; U+1f487 U+200d U+2640 U+fe0f
+🚶 Person Walking; U+1f6b6
+🚶‍♂️ Man Walking; U+1f6b6 U+200d U+2642 U+fe0f
+🚶‍♀️ Woman Walking; U+1f6b6 U+200d U+2640 U+fe0f
+🏃 Person Running; U+1f3c3
+🏃‍♂️ Man Running; U+1f3c3 U+200d U+2642 U+fe0f
+🏃‍♀️ Woman Running; U+1f3c3 U+200d U+2640 U+fe0f
+💃 Woman Dancing; U+1f483
+🕺 Man Dancing; U+1f57a
+🕴 Man In Suit Levitating; U+1f574
+👯 People With Bunny Ears; U+1f46f
+👯‍♂️ Men With Bunny Ears; U+1f46f U+200d U+2642 U+fe0f
+👯‍♀️ Women With Bunny Ears; U+1f46f U+200d U+2640 U+fe0f
+🧖 Person In Steamy Room; U+1f9d6
+🧖‍♂️ Man In Steamy Room; U+1f9d6 U+200d U+2642 U+fe0f
+🧖‍♀️ Woman In Steamy Room; U+1f9d6 U+200d U+2640 U+fe0f
+🧗 Person Climbing; U+1f9d7
+🧗‍♂️ Man Climbing; U+1f9d7 U+200d U+2642 U+fe0f
+🧗‍♀️ Woman Climbing; U+1f9d7 U+200d U+2640 U+fe0f
+🤺 Person Fencing; U+1f93a
+🏇 Horse Racing; U+1f3c7
+⛷ Skier; U+26f7
+🏂 Snowboarder; U+1f3c2
+🏌 Person Golfing; U+1f3cc
+🏌️‍♂️ Man Golfing; U+1f3cc U+fe0f U+200d U+2642 U+fe0f
+🏌️‍♀️ Woman Golfing; U+1f3cc U+fe0f U+200d U+2640 U+fe0f
+🏄 Person Surfing; U+1f3c4
+🏄‍♂️ Man Surfing; U+1f3c4 U+200d U+2642 U+fe0f
+🏄‍♀️ Woman Surfing; U+1f3c4 U+200d U+2640 U+fe0f
+🚣 Person Rowing Boat; U+1f6a3
+🚣‍♂️ Man Rowing Boat; U+1f6a3 U+200d U+2642 U+fe0f
+🚣‍♀️ Woman Rowing Boat; U+1f6a3 U+200d U+2640 U+fe0f
+🏊 Person Swimming; U+1f3ca
+🏊‍♂️ Man Swimming; U+1f3ca U+200d U+2642 U+fe0f
+🏊‍♀️ Woman Swimming; U+1f3ca U+200d U+2640 U+fe0f
+⛹ Person Bouncing Ball; U+26f9
+⛹️‍♂️ Man Bouncing Ball; U+26f9 U+fe0f U+200d U+2642 U+fe0f
+⛹️‍♀️ Woman Bouncing Ball; U+26f9 U+fe0f U+200d U+2640 U+fe0f
+🏋 Person Lifting Weights; U+1f3cb
+🏋️‍♂️ Man Lifting Weights; U+1f3cb U+fe0f U+200d U+2642 U+fe0f
+🏋️‍♀️ Woman Lifting Weights; U+1f3cb U+fe0f U+200d U+2640 U+fe0f
+🚴 Person Biking; U+1f6b4
+🚴‍♂️ Man Biking; U+1f6b4 U+200d U+2642 U+fe0f
+🚴‍♀️ Woman Biking; U+1f6b4 U+200d U+2640 U+fe0f
+🚵 Person Mountain Biking; U+1f6b5
+🚵‍♂️ Man Mountain Biking; U+1f6b5 U+200d U+2642 U+fe0f
+🚵‍♀️ Woman Mountain Biking; U+1f6b5 U+200d U+2640 U+fe0f
+🤸 Person Cartwheeling; U+1f938
+🤸‍♂️ Man Cartwheeling; U+1f938 U+200d U+2642 U+fe0f
+🤸‍♀️ Woman Cartwheeling; U+1f938 U+200d U+2640 U+fe0f
+🤼 People Wrestling; U+1f93c
+🤼‍♂️ Men Wrestling; U+1f93c U+200d U+2642 U+fe0f
+🤼‍♀️ Women Wrestling; U+1f93c U+200d U+2640 U+fe0f
+🤽 Person Playing Water Polo; U+1f93d
+🤽‍♂️ Man Playing Water Polo; U+1f93d U+200d U+2642 U+fe0f
+🤽‍♀️ Woman Playing Water Polo; U+1f93d U+200d U+2640 U+fe0f
+🤾 Person Playing Handball; U+1f93e
+🤾‍♂️ Man Playing Handball; U+1f93e U+200d U+2642 U+fe0f
+🤾‍♀️ Woman Playing Handball; U+1f93e U+200d U+2640 U+fe0f
+🤹 Person Juggling; U+1f939
+🤹‍♂️ Man Juggling; U+1f939 U+200d U+2642 U+fe0f
+🤹‍♀️ Woman Juggling; U+1f939 U+200d U+2640 U+fe0f
+🧘 Person In Lotus Position; U+1f9d8
+🧘‍♂️ Man In Lotus Position; U+1f9d8 U+200d U+2642 U+fe0f
+🧘‍♀️ Woman In Lotus Position; U+1f9d8 U+200d U+2640 U+fe0f
+🛀 Person Taking Bath; U+1f6c0
+🛌 Person In Bed; U+1f6cc
+👭 Women Holding Hands; U+1f46d
+👫 Woman And Man Holding Hands; U+1f46b
+👬 Men Holding Hands; U+1f46c
+💏 Kiss; U+1f48f
+👩‍❤️‍💋‍👨 Kiss: Woman, Man; U+1f469 U+200d U+2764 U+fe0f U+200d U+1f48b U+200d U+1f468
+👨‍❤️‍💋‍👨 Kiss: Man, Man; U+1f468 U+200d U+2764 U+fe0f U+200d U+1f48b U+200d U+1f468
+👩‍❤️‍💋‍👩 Kiss: Woman, Woman; U+1f469 U+200d U+2764 U+fe0f U+200d U+1f48b U+200d U+1f469
+💑 Couple With Heart; U+1f491
+👩‍❤️‍👨 Couple With Heart: Woman, Man; U+1f469 U+200d U+2764 U+fe0f U+200d U+1f468
+👨‍❤️‍👨 Couple With Heart: Man, Man; U+1f468 U+200d U+2764 U+fe0f U+200d U+1f468
+👩‍❤️‍👩 Couple With Heart: Woman, Woman; U+1f469 U+200d U+2764 U+fe0f U+200d U+1f469
+👪 Family; U+1f46a
+👨‍👩‍👦 Family: Man, Woman, Boy; U+1f468 U+200d U+1f469 U+200d U+1f466
+👨‍👩‍👧 Family: Man, Woman, Girl; U+1f468 U+200d U+1f469 U+200d U+1f467
+👨‍👩‍👧‍👦 Family: Man, Woman, Girl, Boy; U+1f468 U+200d U+1f469 U+200d U+1f467 U+200d U+1f466
+👨‍👩‍👦‍👦 Family: Man, Woman, Boy, Boy; U+1f468 U+200d U+1f469 U+200d U+1f466 U+200d U+1f466
+👨‍👩‍👧‍👧 Family: Man, Woman, Girl, Girl; U+1f468 U+200d U+1f469 U+200d U+1f467 U+200d U+1f467
+👨‍👨‍👦 Family: Man, Man, Boy; U+1f468 U+200d U+1f468 U+200d U+1f466
+👨‍👨‍👧 Family: Man, Man, Girl; U+1f468 U+200d U+1f468 U+200d U+1f467
+👨‍👨‍👧‍👦 Family: Man, Man, Girl, Boy; U+1f468 U+200d U+1f468 U+200d U+1f467 U+200d U+1f466
+👨‍👨‍👦‍👦 Family: Man, Man, Boy, Boy; U+1f468 U+200d U+1f468 U+200d U+1f466 U+200d U+1f466
+👨‍👨‍👧‍👧 Family: Man, Man, Girl, Girl; U+1f468 U+200d U+1f468 U+200d U+1f467 U+200d U+1f467
+👩‍👩‍👦 Family: Woman, Woman, Boy; U+1f469 U+200d U+1f469 U+200d U+1f466
+👩‍👩‍👧 Family: Woman, Woman, Girl; U+1f469 U+200d U+1f469 U+200d U+1f467
+👩‍👩‍👧‍👦 Family: Woman, Woman, Girl, Boy; U+1f469 U+200d U+1f469 U+200d U+1f467 U+200d U+1f466
+👩‍👩‍👦‍👦 Family: Woman, Woman, Boy, Boy; U+1f469 U+200d U+1f469 U+200d U+1f466 U+200d U+1f466
+👩‍👩‍👧‍👧 Family: Woman, Woman, Girl, Girl; U+1f469 U+200d U+1f469 U+200d U+1f467 U+200d U+1f467
+👨‍👦 Family: Man, Boy; U+1f468 U+200d U+1f466
+👨‍👦‍👦 Family: Man, Boy, Boy; U+1f468 U+200d U+1f466 U+200d U+1f466
+👨‍👧 Family: Man, Girl; U+1f468 U+200d U+1f467
+👨‍👧‍👦 Family: Man, Girl, Boy; U+1f468 U+200d U+1f467 U+200d U+1f466
+👨‍👧‍👧 Family: Man, Girl, Girl; U+1f468 U+200d U+1f467 U+200d U+1f467
+👩‍👦 Family: Woman, Boy; U+1f469 U+200d U+1f466
+👩‍👦‍👦 Family: Woman, Boy, Boy; U+1f469 U+200d U+1f466 U+200d U+1f466
+👩‍👧 Family: Woman, Girl; U+1f469 U+200d U+1f467
+👩‍👧‍👦 Family: Woman, Girl, Boy; U+1f469 U+200d U+1f467 U+200d U+1f466
+👩‍👧‍👧 Family: Woman, Girl, Girl; U+1f469 U+200d U+1f467 U+200d U+1f467
+🗣 Speaking Head; U+1f5e3
+👤 Bust In Silhouette; U+1f464
+👥 Busts In Silhouette; U+1f465
+👣 Footprints; U+1f463
+🦰 Red Hair; U+1f9b0
+🦱 Curly Hair; U+1f9b1
+🦳 White Hair; U+1f9b3
+🦲 Bald; U+1f9b2
+🐵 Monkey Face; U+1f435
+🐒 Monkey; U+1f412
+🦍 Gorilla; U+1f98d
+🐶 Dog Face; U+1f436
+🐕 Dog; U+1f415
+🐩 Poodle; U+1f429
+🐺 Wolf Face; U+1f43a
+🦊 Fox Face; U+1f98a
+🦝 Raccoon; U+1f99d
+🐱 Cat Face; U+1f431
+🐈 Cat; U+1f408
+🦁 Lion Face; U+1f981
+🐯 Tiger Face; U+1f42f
+🐅 Tiger; U+1f405
+🐆 Leopard; U+1f406
+🐴 Horse Face; U+1f434
+🐎 Horse; U+1f40e
+🦄 Unicorn Face; U+1f984
+🦓 Zebra; U+1f993
+🦌 Deer; U+1f98c
+🐮 Cow Face; U+1f42e
+🐂 Ox; U+1f402
+🐃 Water Buffalo; U+1f403
+🐄 Cow; U+1f404
+🐷 Pig Face; U+1f437
+🐖 Pig; U+1f416
+🐗 Boar; U+1f417
+🐽 Pig Nose; U+1f43d
+🐏 Ram; U+1f40f
+🐑 Ewe; U+1f411
+🐐 Goat; U+1f410
+🐪 Camel; U+1f42a
+🐫 Two-hump Camel; U+1f42b
+🦙 Llama; U+1f999
+🦒 Giraffe; U+1f992
+🐘 Elephant; U+1f418
+🦏 Rhinoceros; U+1f98f
+🦛 Hippopotamus; U+1f99b
+🐭 Mouse Face; U+1f42d
+🐁 Mouse; U+1f401
+🐀 Rat; U+1f400
+🐹 Hamster Face; U+1f439
+🐰 Rabbit Face; U+1f430
+🐇 Rabbit; U+1f407
+🐿 Chipmunk; U+1f43f
+🦔 Hedgehog; U+1f994
+🦇 Bat; U+1f987
+🐻 Bear Face; U+1f43b
+🐨 Koala; U+1f428
+🐼 Panda Face; U+1f43c
+🦘 Kangaroo; U+1f998
+🦡 Badger; U+1f9a1
+🐾 Paw Prints; U+1f43e
+🦃 Turkey; U+1f983
+🐔 Chicken; U+1f414
+🐓 Rooster; U+1f413
+🐣 Hatching Chick; U+1f423
+🐤 Baby Chick; U+1f424
+🐥 Front-facing Baby Chick; U+1f425
+🐦 Bird; U+1f426
+🐧 Penguin; U+1f427
+🕊 Dove; U+1f54a
+🦅 Eagle; U+1f985
+🦆 Duck; U+1f986
+🦢 Swan; U+1f9a2
+🦉 Owl; U+1f989
+🦚 Peacock; U+1f99a
+🦜 Parrot; U+1f99c
+🐸 Frog Face; U+1f438
+🐊 Crocodile; U+1f40a
+🐢 Turtle; U+1f422
+🦎 Lizard; U+1f98e
+🐍 Snake; U+1f40d
+🐲 Dragon Face; U+1f432
+🐉 Dragon; U+1f409
+🦕 Sauropod; U+1f995
+🦖 T-rex; U+1f996
+🐳 Spouting Whale; U+1f433
+🐋 Whale; U+1f40b
+🐬 Dolphin; U+1f42c
+🐟 Fish; U+1f41f
+🐠 Tropical Fish; U+1f420
+🐡 Blowfish; U+1f421
+🦈 Shark; U+1f988
+🐙 Octopus; U+1f419
+🐚 Spiral Shell; U+1f41a
+🐌 Snail; U+1f40c
+🦋 Butterfly; U+1f98b
+🐛 Bug; U+1f41b
+🐜 Ant; U+1f41c
+🐝 Honeybee; U+1f41d
+🐞 Lady Beetle; U+1f41e
+🦗 Cricket; U+1f997
+🕷 Spider; U+1f577
+🕸 Spider Web; U+1f578
+🦂 Scorpion; U+1f982
+🦟 Mosquito; U+1f99f
+🦠 Microbe; U+1f9a0
+💐 Bouquet; U+1f490
+🌸 Cherry Blossom; U+1f338
+💮 White Flower; U+1f4ae
+🏵 Rosette; U+1f3f5
+🌹 Rose; U+1f339
+🥀 Wilted Flower; U+1f940
+🌺 Hibiscus; U+1f33a
+🌻 Sunflower; U+1f33b
+🌼 Blossom; U+1f33c
+🌷 Tulip; U+1f337
+🌱 Seedling; U+1f331
+🌲 Evergreen Tree; U+1f332
+🌳 Deciduous Tree; U+1f333
+🌴 Palm Tree; U+1f334
+🌵 Cactus; U+1f335
+🌾 Sheaf Of Rice; U+1f33e
+🌿 Herb; U+1f33f
+☘ Shamrock; U+2618
+🍀 Four Leaf Clover; U+1f340
+🍁 Maple Leaf; U+1f341
+🍂 Fallen Leaf; U+1f342
+🍃 Leaf Fluttering In Wind; U+1f343
+🍇 Grapes; U+1f347
+🍈 Melon; U+1f348
+🍉 Watermelon; U+1f349
+🍊 Tangerine; U+1f34a
+🍋 Lemon; U+1f34b
+🍌 Banana; U+1f34c
+🍍 Pineapple; U+1f34d
+🥭 Mango; U+1f96d
+🍎 Red Apple; U+1f34e
+🍏 Green Apple; U+1f34f
+🍐 Pear; U+1f350
+🍑 Peach; U+1f351
+🍒 Cherries; U+1f352
+🍓 Strawberry; U+1f353
+🥝 Kiwi Fruit; U+1f95d
+🍅 Tomato; U+1f345
+🥥 Coconut; U+1f965
+🥑 Avocado; U+1f951
+🍆 Eggplant; U+1f346
+🥔 Potato; U+1f954
+🥕 Carrot; U+1f955
+🌽 Ear Of Corn; U+1f33d
+🌶 Hot Pepper; U+1f336
+🥒 Cucumber; U+1f952
+🥬 Leafy Green; U+1f96c
+🥦 Broccoli; U+1f966
+🍄 Mushroom; U+1f344
+🥜 Peanuts; U+1f95c
+🌰 Chestnut; U+1f330
+🍞 Bread; U+1f35e
+🥐 Croissant; U+1f950
+🥖 Baguette Bread; U+1f956
+🥨 Pretzel; U+1f968
+🥯 Bagel; U+1f96f
+🥞 Pancakes; U+1f95e
+🧀 Cheese Wedge; U+1f9c0
+🍖 Meat On Bone; U+1f356
+🍗 Poultry Leg; U+1f357
+🥩 Cut Of Meat; U+1f969
+🥓 Bacon; U+1f953
+🍔 Hamburger; U+1f354
+🍟 French Fries; U+1f35f
+🍕 Pizza; U+1f355
+🌭 Hot Dog; U+1f32d
+🥪 Sandwich; U+1f96a
+🌮 Taco; U+1f32e
+🌯 Burrito; U+1f32f
+🥙 Stuffed Flatbread; U+1f959
+🥚 Egg; U+1f95a
+🍳 Cooking; U+1f373
+🥘 Shallow Pan Of Food; U+1f958
+🍲 Pot Of Food; U+1f372
+🥣 Bowl With Spoon; U+1f963
+🥗 Green Salad; U+1f957
+🍿 Popcorn; U+1f37f
+🧂 Salt; U+1f9c2
+🥫 Canned Food; U+1f96b
+🍱 Bento Box; U+1f371
+🍘 Rice Cracker; U+1f358
+🍙 Rice Ball; U+1f359
+🍚 Cooked Rice; U+1f35a
+🍛 Curry Rice; U+1f35b
+🍜 Steaming Bowl; U+1f35c
+🍝 Spaghetti; U+1f35d
+🍠 Roasted Sweet Potato; U+1f360
+🍢 Oden; U+1f362
+🍣 Sushi; U+1f363
+🍤 Fried Shrimp; U+1f364
+🍥 Fish Cake With Swirl; U+1f365
+🥮 Moon Cake; U+1f96e
+🍡 Dango; U+1f361
+🥟 Dumpling; U+1f95f
+🥠 Fortune Cookie; U+1f960
+🥡 Takeout Box; U+1f961
+🦀 Crab; U+1f980
+🦞 Lobster; U+1f99e
+🦐 Shrimp; U+1f990
+🦑 Squid; U+1f991
+🍦 Soft Ice Cream; U+1f366
+🍧 Shaved Ice; U+1f367
+🍨 Ice Cream; U+1f368
+🍩 Doughnut; U+1f369
+🍪 Cookie; U+1f36a
+🎂 Birthday Cake; U+1f382
+🍰 Shortcake; U+1f370
+🧁 Cupcake; U+1f9c1
+🥧 Pie; U+1f967
+🍫 Chocolate Bar; U+1f36b
+🍬 Candy; U+1f36c
+🍭 Lollipop; U+1f36d
+🍮 Custard; U+1f36e
+🍯 Honey Pot; U+1f36f
+🍼 Baby Bottle; U+1f37c
+🥛 Glass Of Milk; U+1f95b
+☕ Hot Beverage; U+2615
+🍵 Teacup Without Handle; U+1f375
+🍶 Sake; U+1f376
+🍾 Bottle With Popping Cork; U+1f37e
+🍷 Wine Glass; U+1f377
+🍸 Cocktail Glass; U+1f378
+🍹 Tropical Drink; U+1f379
+🍺 Beer Mug; U+1f37a
+🍻 Clinking Beer Mugs; U+1f37b
+🥂 Clinking Glasses; U+1f942
+🥃 Tumbler Glass; U+1f943
+🥤 Cup With Straw; U+1f964
+🥢 Chopsticks; U+1f962
+🍽 Fork And Knife With Plate; U+1f37d
+🍴 Fork And Knife; U+1f374
+🥄 Spoon; U+1f944
+🔪 Kitchen Knife; U+1f52a
+🏺 Amphora; U+1f3fa
+🌍 Globe Showing Europe-africa; U+1f30d
+🌎 Globe Showing Americas; U+1f30e
+🌏 Globe Showing Asia-australia; U+1f30f
+🌐 Globe With Meridians; U+1f310
+🗺 World Map; U+1f5fa
+🗾 Map Of Japan; U+1f5fe
+🧭 Compass; U+1f9ed
+🏔 Snow-capped Mountain; U+1f3d4
+⛰ Mountain; U+26f0
+🌋 Volcano; U+1f30b
+🗻 Mount Fuji; U+1f5fb
+🏕 Camping; U+1f3d5
+🏖 Beach With Umbrella; U+1f3d6
+🏜 Desert; U+1f3dc
+🏝 Desert Island; U+1f3dd
+🏞 National Park; U+1f3de
+🏟 Stadium; U+1f3df
+🏛 Classical Building; U+1f3db
+🏗 Building Construction; U+1f3d7
+🧱 Brick; U+1f9f1
+🏘 Houses; U+1f3d8
+🏚 Derelict House; U+1f3da
+🏠 House; U+1f3e0
+🏡 House With Garden; U+1f3e1
+🏢 Office Building; U+1f3e2
+🏣 Japanese Post Office; U+1f3e3
+🏤 Post Office; U+1f3e4
+🏥 Hospital; U+1f3e5
+🏦 Bank; U+1f3e6
+🏨 Hotel; U+1f3e8
+🏩 Love Hotel; U+1f3e9
+🏪 Convenience Store; U+1f3ea
+🏫 School; U+1f3eb
+🏬 Department Store; U+1f3ec
+🏭 Factory; U+1f3ed
+🏯 Japanese Castle; U+1f3ef
+🏰 Castle; U+1f3f0
+💒 Wedding; U+1f492
+🗼 Tokyo Tower; U+1f5fc
+🗽 Statue Of Liberty; U+1f5fd
+⛪ Church; U+26ea
+🕌 Mosque; U+1f54c
+🕍 Synagogue; U+1f54d
+⛩ Shinto Shrine; U+26e9
+🕋 Kaaba; U+1f54b
+⛲ Fountain; U+26f2
+⛺ Tent; U+26fa
+🌁 Foggy; U+1f301
+🌃 Night With Stars; U+1f303
+🏙 Cityscape; U+1f3d9
+🌄 Sunrise Over Mountains; U+1f304
+🌅 Sunrise; U+1f305
+🌆 Cityscape At Dusk; U+1f306
+🌇 Sunset; U+1f307
+🌉 Bridge At Night; U+1f309
+♨ Hot Springs; U+2668
+🌌 Milky Way; U+1f30c
+🎠 Carousel Horse; U+1f3a0
+🎡 Ferris Wheel; U+1f3a1
+🎢 Roller Coaster; U+1f3a2
+💈 Barber Pole; U+1f488
+🎪 Circus Tent; U+1f3aa
+🚂 Locomotive; U+1f682
+🚃 Railway Car; U+1f683
+🚄 High-speed Train; U+1f684
+🚅 Bullet Train; U+1f685
+🚆 Train; U+1f686
+🚇 Metro; U+1f687
+🚈 Light Rail; U+1f688
+🚉 Station; U+1f689
+🚊 Tram; U+1f68a
+🚝 Monorail; U+1f69d
+🚞 Mountain Railway; U+1f69e
+🚋 Tram Car; U+1f68b
+🚌 Bus; U+1f68c
+🚍 Oncoming Bus; U+1f68d
+🚎 Trolleybus; U+1f68e
+🚐 Minibus; U+1f690
+🚑 Ambulance; U+1f691
+🚒 Fire Engine; U+1f692
+🚓 Police Car; U+1f693
+🚔 Oncoming Police Car; U+1f694
+🚕 Taxi; U+1f695
+🚖 Oncoming Taxi; U+1f696
+🚗 Automobile; U+1f697
+🚘 Oncoming Automobile; U+1f698
+🚙 Sport Utility Vehicle; U+1f699
+🚚 Delivery Truck; U+1f69a
+🚛 Articulated Lorry; U+1f69b
+🚜 Tractor; U+1f69c
+🏎 Racing Car; U+1f3ce
+🏍 Motorcycle; U+1f3cd
+🛵 Motor Scooter; U+1f6f5
+🚲 Bicycle; U+1f6b2
+🛴 Kick Scooter; U+1f6f4
+🛹 Skateboard; U+1f6f9
+🚏 Bus Stop; U+1f68f
+🛣 Motorway; U+1f6e3
+🛤 Railway Track; U+1f6e4
+🛢 Oil Drum; U+1f6e2
+⛽ Fuel Pump; U+26fd
+🚨 Police Car Light; U+1f6a8
+🚥 Horizontal Traffic Light; U+1f6a5
+🚦 Vertical Traffic Light; U+1f6a6
+🛑 Stop Sign; U+1f6d1
+🚧 Construction; U+1f6a7
+⚓ Anchor; U+2693
+⛵ Sailboat; U+26f5
+🛶 Canoe; U+1f6f6
+🚤 Speedboat; U+1f6a4
+🛳 Passenger Ship; U+1f6f3
+⛴ Ferry; U+26f4
+🛥 Motor Boat; U+1f6e5
+🚢 Ship; U+1f6a2
+✈ Airplane; U+2708
+🛩 Small Airplane; U+1f6e9
+🛫 Airplane Departure; U+1f6eb
+🛬 Airplane Arrival; U+1f6ec
+💺 Seat; U+1f4ba
+🚁 Helicopter; U+1f681
+🚟 Suspension Railway; U+1f69f
+🚠 Mountain Cableway; U+1f6a0
+🚡 Aerial Tramway; U+1f6a1
+🛰 Satellite; U+1f6f0
+🚀 Rocket; U+1f680
+🛸 Flying Saucer; U+1f6f8
+🛎 Bellhop Bell; U+1f6ce
+🧳 Luggage; U+1f9f3
+⌛ Hourglass Done; U+231b
+⏳ Hourglass Not Done; U+23f3
+⌚ Watch; U+231a
+⏰ Alarm Clock; U+23f0
+⏱ Stopwatch; U+23f1
+⏲ Timer Clock; U+23f2
+🕰 Mantelpiece Clock; U+1f570
+🕛 Twelve O’clock; U+1f55b
+🕧 Twelve-thirty; U+1f567
+🕐 One O’clock; U+1f550
+🕜 One-thirty; U+1f55c
+🕑 Two O’clock; U+1f551
+🕝 Two-thirty; U+1f55d
+🕒 Three O’clock; U+1f552
+🕞 Three-thirty; U+1f55e
+🕓 Four O’clock; U+1f553
+🕟 Four-thirty; U+1f55f
+🕔 Five O’clock; U+1f554
+🕠 Five-thirty; U+1f560
+🕕 Six O’clock; U+1f555
+🕡 Six-thirty; U+1f561
+🕖 Seven O’clock; U+1f556
+🕢 Seven-thirty; U+1f562
+🕗 Eight O’clock; U+1f557
+🕣 Eight-thirty; U+1f563
+🕘 Nine O’clock; U+1f558
+🕤 Nine-thirty; U+1f564
+🕙 Ten O’clock; U+1f559
+🕥 Ten-thirty; U+1f565
+🕚 Eleven O’clock; U+1f55a
+🕦 Eleven-thirty; U+1f566
+🌑 New Moon; U+1f311
+🌒 Waxing Crescent Moon; U+1f312
+🌓 First Quarter Moon; U+1f313
+🌔 Waxing Gibbous Moon; U+1f314
+🌕 Full Moon; U+1f315
+🌖 Waning Gibbous Moon; U+1f316
+🌗 Last Quarter Moon; U+1f317
+🌘 Waning Crescent Moon; U+1f318
+🌙 Crescent Moon; U+1f319
+🌚 New Moon Face; U+1f31a
+🌛 First Quarter Moon Face; U+1f31b
+🌜 Last Quarter Moon Face; U+1f31c
+🌡 Thermometer; U+1f321
+☀ Sun; U+2600
+🌝 Full Moon Face; U+1f31d
+🌞 Sun With Face; U+1f31e
+⭐ Star; U+2b50
+🌟 Glowing Star; U+1f31f
+🌠 Shooting Star; U+1f320
+☁ Cloud; U+2601
+⛅ Sun Behind Cloud; U+26c5
+⛈ Cloud With Lightning And Rain; U+26c8
+🌤 Sun Behind Small Cloud; U+1f324
+🌥 Sun Behind Large Cloud; U+1f325
+🌦 Sun Behind Rain Cloud; U+1f326
+🌧 Cloud With Rain; U+1f327
+🌨 Cloud With Snow; U+1f328
+🌩 Cloud With Lightning; U+1f329
+🌪 Tornado; U+1f32a
+🌫 Fog; U+1f32b
+🌬 Wind Face; U+1f32c
+🌀 Cyclone; U+1f300
+🌈 Rainbow; U+1f308
+🌂 Closed Umbrella; U+1f302
+☂ Umbrella; U+2602
+☔ Umbrella With Rain Drops; U+2614
+⛱ Umbrella On Ground; U+26f1
+⚡ High Voltage; U+26a1
+❄ Snowflake; U+2744
+☃ Snowman; U+2603
+⛄ Snowman Without Snow; U+26c4
+☄ Comet; U+2604
+🔥 Fire; U+1f525
+💧 Droplet; U+1f4a7
+🌊 Water Wave; U+1f30a
+🎃 Jack-o-lantern; U+1f383
+🎄 Christmas Tree; U+1f384
+🎆 Fireworks; U+1f386
+🎇 Sparkler; U+1f387
+🧨 Firecracker; U+1f9e8
+✨ Sparkles; U+2728
+🎈 Balloon; U+1f388
+🎉 Party Popper; U+1f389
+🎊 Confetti Ball; U+1f38a
+🎋 Tanabata Tree; U+1f38b
+🎍 Pine Decoration; U+1f38d
+🎎 Japanese Dolls; U+1f38e
+🎏 Carp Streamer; U+1f38f
+🎐 Wind Chime; U+1f390
+🎑 Moon Viewing Ceremony; U+1f391
+🧧 Red Envelope; U+1f9e7
+🎀 Ribbon; U+1f380
+🎁 Wrapped Gift; U+1f381
+🎗 Reminder Ribbon; U+1f397
+🎟 Admission Tickets; U+1f39f
+🎫 Ticket; U+1f3ab
+🎖 Military Medal; U+1f396
+🏆 Trophy; U+1f3c6
+🏅 Sports Medal; U+1f3c5
+1st Place Medal; U+1f947 🥇
+2nd Place Medal; U+1f948 🥈
+3rd Place Medal; U+1f949 🥉
+⚽ Soccer Ball; U+26bd
+⚾ Baseball; U+26be
+🥎 Softball; U+1f94e
+🏀 Basketball; U+1f3c0
+🏐 Volleyball; U+1f3d0
+🏈 American Football; U+1f3c8
+🏉 Rugby Football; U+1f3c9
+🎾 Tennis; U+1f3be
+🥏 Flying Disc; U+1f94f
+🎳 Bowling; U+1f3b3
+🏏 Cricket Game; U+1f3cf
+🏑 Field Hockey; U+1f3d1
+🏒 Ice Hockey; U+1f3d2
+🥍 Lacrosse; U+1f94d
+🏓 Ping Pong; U+1f3d3
+🏸 Badminton; U+1f3f8
+🥊 Boxing Glove; U+1f94a
+🥋 Martial Arts Uniform; U+1f94b
+🥅 Goal Net; U+1f945
+⛳ Flag In Hole; U+26f3
+⛸ Ice Skate; U+26f8
+🎣 Fishing Pole; U+1f3a3
+🎽 Running Shirt; U+1f3bd
+🎿 Skis; U+1f3bf
+🛷 Sled; U+1f6f7
+🥌 Curling Stone; U+1f94c
+🎯 Direct Hit; U+1f3af
+🎱 Pool 8 Ball; U+1f3b1
+🔮 Crystal Ball; U+1f52e
+🧿 Nazar Amulet; U+1f9ff
+🎮 Video Game; U+1f3ae
+🕹 Joystick; U+1f579
+🎰 Slot Machine; U+1f3b0
+🎲 Game Die; U+1f3b2
+🧩 Jigsaw; U+1f9e9
+🧸 Teddy Bear; U+1f9f8
+♠ Spade Suit; U+2660
+♥ Heart Suit; U+2665
+♦ Diamond Suit; U+2666
+♣ Club Suit; U+2663
+♟ Chess Pawn; U+265f
+🃏 Joker; U+1f0cf
+🀄 Mahjong Red Dragon; U+1f004
+🎴 Flower Playing Cards; U+1f3b4
+🎭 Performing Arts; U+1f3ad
+🖼 Framed Picture; U+1f5bc
+🎨 Artist Palette; U+1f3a8
+🧵 Thread; U+1f9f5
+🧶 Yarn; U+1f9f6
+👓 Glasses; U+1f453
+🕶 Sunglasses; U+1f576
+🥽 Goggles; U+1f97d
+🥼 Lab Coat; U+1f97c
+👔 Necktie; U+1f454
+👕 T-shirt; U+1f455
+👖 Jeans; U+1f456
+🧣 Scarf; U+1f9e3
+🧤 Gloves; U+1f9e4
+🧥 Coat; U+1f9e5
+🧦 Socks; U+1f9e6
+👗 Dress; U+1f457
+👘 Kimono; U+1f458
+👙 Bikini; U+1f459
+👚 Woman’s Clothes; U+1f45a
+👛 Purse; U+1f45b
+👜 Handbag; U+1f45c
+👝 Clutch Bag; U+1f45d
+🛍 Shopping Bags; U+1f6cd
+🎒 Backpack; U+1f392
+👞 Man’s Shoe; U+1f45e
+👟 Running Shoe; U+1f45f
+🥾 Hiking Boot; U+1f97e
+🥿 Flat Shoe; U+1f97f
+👠 High-heeled Shoe; U+1f460
+👡 Woman’s Sandal; U+1f461
+👢 Woman’s Boot; U+1f462
+👑 Crown; U+1f451
+👒 Woman’s Hat; U+1f452
+🎩 Top Hat; U+1f3a9
+🎓 Graduation Cap; U+1f393
+🧢 Billed Cap; U+1f9e2
+⛑ Rescue Worker’s Helmet; U+26d1
+📿 Prayer Beads; U+1f4ff
+💄 Lipstick; U+1f484
+💍 Ring; U+1f48d
+💎 Gem Stone; U+1f48e
+🔇 Muted Speaker; U+1f507
+🔈 Speaker Low Volume; U+1f508
+🔉 Speaker Medium Volume; U+1f509
+🔊 Speaker High Volume; U+1f50a
+📢 Loudspeaker; U+1f4e2
+📣 Megaphone; U+1f4e3
+📯 Postal Horn; U+1f4ef
+🔔 Bell; U+1f514
+🔕 Bell With Slash; U+1f515
+🎼 Musical Score; U+1f3bc
+🎵 Musical Note; U+1f3b5
+🎶 Musical Notes; U+1f3b6
+🎙 Studio Microphone; U+1f399
+🎚 Level Slider; U+1f39a
+🎛 Control Knobs; U+1f39b
+🎤 Microphone; U+1f3a4
+🎧 Headphone; U+1f3a7
+📻 Radio; U+1f4fb
+🎷 Saxophone; U+1f3b7
+🎸 Guitar; U+1f3b8
+🎹 Musical Keyboard; U+1f3b9
+🎺 Trumpet; U+1f3ba
+🎻 Violin; U+1f3bb
+🥁 Drum; U+1f941
+📱 Mobile Phone; U+1f4f1
+📲 Mobile Phone With Arrow; U+1f4f2
+☎ Telephone; U+260e
+📞 Telephone Receiver; U+1f4de
+📟 Pager; U+1f4df
+📠 Fax Machine; U+1f4e0
+🔋 Battery; U+1f50b
+🔌 Electric Plug; U+1f50c
+💻 Laptop Computer; U+1f4bb
+🖥 Desktop Computer; U+1f5a5
+🖨 Printer; U+1f5a8
+⌨ Keyboard; U+2328
+🖱 Computer Mouse; U+1f5b1
+🖲 Trackball; U+1f5b2
+💽 Computer Disk; U+1f4bd
+💾 Floppy Disk; U+1f4be
+💿 Optical Disk; U+1f4bf
+📀 Dvd; U+1f4c0
+🧮 Abacus; U+1f9ee
+🎥 Movie Camera; U+1f3a5
+🎞 Film Frames; U+1f39e
+📽 Film Projector; U+1f4fd
+🎬 Clapper Board; U+1f3ac
+📺 Television; U+1f4fa
+📷 Camera; U+1f4f7
+📸 Camera With Flash; U+1f4f8
+📹 Video Camera; U+1f4f9
+📼 Videocassette; U+1f4fc
+🔍 Magnifying Glass Tilted Left; U+1f50d
+🔎 Magnifying Glass Tilted Right; U+1f50e
+🕯 Candle; U+1f56f
+💡 Light Bulb; U+1f4a1
+🔦 Flashlight; U+1f526
+🏮 Red Paper Lantern; U+1f3ee
+📔 Notebook With Decorative Cover; U+1f4d4
+📕 Closed Book; U+1f4d5
+📖 Open Book; U+1f4d6
+📗 Green Book; U+1f4d7
+📘 Blue Book; U+1f4d8
+📙 Orange Book; U+1f4d9
+📚 Books; U+1f4da
+📓 Notebook; U+1f4d3
+📒 Ledger; U+1f4d2
+📃 Page With Curl; U+1f4c3
+📜 Scroll; U+1f4dc
+📄 Page Facing Up; U+1f4c4
+📰 Newspaper; U+1f4f0
+🗞 Rolled-up Newspaper; U+1f5de
+📑 Bookmark Tabs; U+1f4d1
+🔖 Bookmark; U+1f516
+🏷 Label; U+1f3f7
+💰 Money Bag; U+1f4b0
+💴 Yen Banknote; U+1f4b4
+💵 Dollar Banknote; U+1f4b5
+💶 Euro Banknote; U+1f4b6
+💷 Pound Banknote; U+1f4b7
+💸 Money With Wings; U+1f4b8
+💳 Credit Card; U+1f4b3
+🧾 Receipt; U+1f9fe
+💹 Chart Increasing With Yen; U+1f4b9
+💱 Currency Exchange; U+1f4b1
+💲 Heavy Dollar Sign; U+1f4b2
+✉ Envelope; U+2709
+📧 E-mail; U+1f4e7
+📨 Incoming Envelope; U+1f4e8
+📩 Envelope With Arrow; U+1f4e9
+📤 Outbox Tray; U+1f4e4
+📥 Inbox Tray; U+1f4e5
+📦 Package; U+1f4e6
+📫 Closed Mailbox With Raised Flag; U+1f4eb
+📪 Closed Mailbox With Lowered Flag; U+1f4ea
+📬 Open Mailbox With Raised Flag; U+1f4ec
+📭 Open Mailbox With Lowered Flag; U+1f4ed
+📮 Postbox; U+1f4ee
+🗳 Ballot Box With Ballot; U+1f5f3
+✏ Pencil; U+270f
+✒ Black Nib; U+2712
+🖋 Fountain Pen; U+1f58b
+🖊 Pen; U+1f58a
+🖌 Paintbrush; U+1f58c
+🖍 Crayon; U+1f58d
+📝 Memo; U+1f4dd
+💼 Briefcase; U+1f4bc
+📁 File Folder; U+1f4c1
+📂 Open File Folder; U+1f4c2
+🗂 Card Index Dividers; U+1f5c2
+📅 Calendar; U+1f4c5
+📆 Tear-off Calendar; U+1f4c6
+🗒 Spiral Notepad; U+1f5d2
+🗓 Spiral Calendar; U+1f5d3
+📇 Card Index; U+1f4c7
+📈 Chart Increasing; U+1f4c8
+📉 Chart Decreasing; U+1f4c9
+📊 Bar Chart; U+1f4ca
+📋 Clipboard; U+1f4cb
+📌 Pushpin; U+1f4cc
+📍 Round Pushpin; U+1f4cd
+📎 Paperclip; U+1f4ce
+🖇 Linked Paperclips; U+1f587
+📏 Straight Ruler; U+1f4cf
+📐 Triangular Ruler; U+1f4d0
+✂ Scissors; U+2702
+🗃 Card File Box; U+1f5c3
+🗄 File Cabinet; U+1f5c4
+🗑 Wastebasket; U+1f5d1
+🔒 Locked; U+1f512
+🔓 Unlocked; U+1f513
+🔏 Locked With Pen; U+1f50f
+🔐 Locked With Key; U+1f510
+🔑 Key; U+1f511
+🗝 Old Key; U+1f5dd
+🔨 Hammer; U+1f528
+⛏ Pick; U+26cf
+⚒ Hammer And Pick; U+2692
+🛠 Hammer And Wrench; U+1f6e0
+🗡 Dagger; U+1f5e1
+⚔ Crossed Swords; U+2694
+🔫 Pistol; U+1f52b
+🏹 Bow And Arrow; U+1f3f9
+🛡 Shield; U+1f6e1
+🔧 Wrench; U+1f527
+🔩 Nut And Bolt; U+1f529
+⚙ Gear; U+2699
+🗜 Clamp; U+1f5dc
+⚖ Balance Scale; U+2696
+🔗 Link; U+1f517
+⛓ Chains; U+26d3
+🧰 Toolbox; U+1f9f0
+🧲 Magnet; U+1f9f2
+⚗ Alembic; U+2697
+🧪 Test Tube; U+1f9ea
+🧫 Petri Dish; U+1f9eb
+🧬 Dna; U+1f9ec
+🔬 Microscope; U+1f52c
+🔭 Telescope; U+1f52d
+📡 Satellite Antenna; U+1f4e1
+💉 Syringe; U+1f489
+💊 Pill; U+1f48a
+🚪 Door; U+1f6aa
+🛏 Bed; U+1f6cf
+🛋 Couch And Lamp; U+1f6cb
+🚽 Toilet; U+1f6bd
+🚿 Shower; U+1f6bf
+🛁 Bathtub; U+1f6c1
+🧴 Lotion Bottle; U+1f9f4
+🧷 Safety Pin; U+1f9f7
+🧹 Broom; U+1f9f9
+🧺 Basket; U+1f9fa
+🧻 Roll Of Paper; U+1f9fb
+🧼 Soap; U+1f9fc
+🧽 Sponge; U+1f9fd
+🧯 Fire Extinguisher; U+1f9ef
+🛒 Shopping Cart; U+1f6d2
+🚬 Cigarette; U+1f6ac
+⚰ Coffin; U+26b0
+⚱ Funeral Urn; U+26b1
+🗿 Moai; U+1f5ff
+🏧 Atm Sign; U+1f3e7
+🚮 Litter In Bin Sign; U+1f6ae
+🚰 Potable Water; U+1f6b0
+♿ Wheelchair Symbol; U+267f
+🚹 Men’s Room; U+1f6b9
+🚺 Women’s Room; U+1f6ba
+🚻 Restroom; U+1f6bb
+🚼 Baby Symbol; U+1f6bc
+🚾 Water Closet; U+1f6be
+🛂 Passport Control; U+1f6c2
+🛃 Customs; U+1f6c3
+🛄 Baggage Claim; U+1f6c4
+🛅 Left Luggage; U+1f6c5
+⚠ Warning; U+26a0
+🚸 Children Crossing; U+1f6b8
+⛔ No Entry; U+26d4
+🚫 Prohibited; U+1f6ab
+🚳 No Bicycles; U+1f6b3
+🚭 No Smoking; U+1f6ad
+🚯 No Littering; U+1f6af
+🚱 Non-potable Water; U+1f6b1
+🚷 No Pedestrians; U+1f6b7
+📵 No Mobile Phones; U+1f4f5
+🔞 No One Under Eighteen; U+1f51e
+☢ Radioactive; U+2622
+☣ Biohazard; U+2623
+⬆ Up Arrow; U+2b06
+↗ Up-right Arrow; U+2197
+➡ Right Arrow; U+27a1
+↘ Down-right Arrow; U+2198
+⬇ Down Arrow; U+2b07
+↙ Down-left Arrow; U+2199
+⬅ Left Arrow; U+2b05
+↖ Up-left Arrow; U+2196
+↕ Up-down Arrow; U+2195
+↔ Left-right Arrow; U+2194
+↩ Right Arrow Curving Left; U+21a9
+↪ Left Arrow Curving Right; U+21aa
+⤴ Right Arrow Curving Up; U+2934
+⤵ Right Arrow Curving Down; U+2935
+🔃 Clockwise Vertical Arrows; U+1f503
+🔄 Counterclockwise Arrows Button; U+1f504
+🔙 Back Arrow; U+1f519
+🔚 End Arrow; U+1f51a
+🔛 On! Arrow; U+1f51b
+🔜 Soon Arrow; U+1f51c
+🔝 Top Arrow; U+1f51d
+🛐 Place Of Worship; U+1f6d0
+⚛ Atom Symbol; U+269b
+🕉 Om; U+1f549
+✡ Star Of David; U+2721
+☸ Wheel Of Dharma; U+2638
+☯ Yin Yang; U+262f
+✝ Latin Cross; U+271d
+☦ Orthodox Cross; U+2626
+☪ Star And Crescent; U+262a
+☮ Peace Symbol; U+262e
+🕎 Menorah; U+1f54e
+🔯 Dotted Six-pointed Star; U+1f52f
+♈ Aries; U+2648
+♉ Taurus; U+2649
+♊ Gemini; U+264a
+♋ Cancer; U+264b
+♌ Leo; U+264c
+♍ Virgo; U+264d
+♎ Libra; U+264e
+♏ Scorpio; U+264f
+♐ Sagittarius; U+2650
+♑ Capricorn; U+2651
+♒ Aquarius; U+2652
+♓ Pisces; U+2653
+⛎ Ophiuchus; U+26ce
+🔀 Shuffle Tracks Button; U+1f500
+🔁 Repeat Button; U+1f501
+🔂 Repeat Single Button; U+1f502
+▶ Play Button; U+25b6
+⏩ Fast-forward Button; U+23e9
+⏭ Next Track Button; U+23ed
+⏯ Play Or Pause Button; U+23ef
+◀ Reverse Button; U+25c0
+⏪ Fast Reverse Button; U+23ea
+⏮ Last Track Button; U+23ee
+🔼 Upwards Button; U+1f53c
+⏫ Fast Up Button; U+23eb
+🔽 Downwards Button; U+1f53d
+⏬ Fast Down Button; U+23ec
+⏸ Pause Button; U+23f8
+⏹ Stop Button; U+23f9
+⏺ Record Button; U+23fa
+⏏ Eject Button; U+23cf
+🎦 Cinema; U+1f3a6
+🔅 Dim Button; U+1f505
+🔆 Bright Button; U+1f506
+📶 Antenna Bars; U+1f4f6
+📳 Vibration Mode; U+1f4f3
+📴 Mobile Phone Off; U+1f4f4
+♀ Female Sign; U+2640
+♂ Male Sign; U+2642
+⚕ Medical Symbol; U+2695
+♾ Infinity; U+267e
+♻ Recycling Symbol; U+267b
+⚜ Fleur-de-lis; U+269c
+🔱 Trident Emblem; U+1f531
+📛 Name Badge; U+1f4db
+🔰 Japanese Symbol For Beginner; U+1f530
+⭕ Heavy Large Circle; U+2b55
+✅ White Heavy Check Mark; U+2705
+☑ Ballot Box With Check; U+2611
+✔ Heavy Check Mark; U+2714
+✖ Heavy Multiplication X; U+2716
+❌ Cross Mark; U+274c
+❎ Cross Mark Button; U+274e
+➕ Heavy Plus Sign; U+2795
+➖ Heavy Minus Sign; U+2796
+➗ Heavy Division Sign; U+2797
+➰ Curly Loop; U+27b0
+➿ Double Curly Loop; U+27bf
+〽 Part Alternation Mark; U+303d
+✳ Eight-spoked Asterisk; U+2733
+✴ Eight-pointed Star; U+2734
+❇ Sparkle; U+2747
+‼ Double Exclamation Mark; U+203c
+⁉ Exclamation Question Mark; U+2049
+❓ Question Mark; U+2753
+❔ White Question Mark; U+2754
+❕ White Exclamation Mark; U+2755
+❗ Exclamation Mark; U+2757
+〰 Wavy Dash; U+3030
+© Copyright; U+00a9
+® Registered; U+00ae
+™ Trade Mark; U+2122
+#️⃣ Keycap: #; U+0023 U+fe0f U+20e3
+*️⃣ Keycap: *; U+002a U+fe0f U+20e3
+0️⃣ Keycap: 0; U+0030 U+fe0f U+20e3
+1️⃣ Keycap: 1; U+0031 U+fe0f U+20e3
+2️⃣ Keycap: 2; U+0032 U+fe0f U+20e3
+3️⃣ Keycap: 3; U+0033 U+fe0f U+20e3
+4️⃣ Keycap: 4; U+0034 U+fe0f U+20e3
+5️⃣ Keycap: 5; U+0035 U+fe0f U+20e3
+6️⃣ Keycap: 6; U+0036 U+fe0f U+20e3
+7️⃣ Keycap: 7; U+0037 U+fe0f U+20e3
+8️⃣ Keycap: 8; U+0038 U+fe0f U+20e3
+9️⃣ Keycap: 9; U+0039 U+fe0f U+20e3
+🔟 Keycap: 10; U+1f51f
+🔠 Input Latin Uppercase; U+1f520
+🔡 Input Latin Lowercase; U+1f521
+🔢 Input Numbers; U+1f522
+🔣 Input Symbols; U+1f523
+🔤 Input Latin Letters; U+1f524
+🅰 A Button (blood Type); U+1f170
+🆎 Ab Button (blood Type); U+1f18e
+🅱 B Button (blood Type); U+1f171
+🆑 Cl Button; U+1f191
+🆒 Cool Button; U+1f192
+🆓 Free Button; U+1f193
+ℹ Information; U+2139
+🆔 Id Button; U+1f194
+ⓜ Circled M; U+24c2
+🆕 New Button; U+1f195
+🆖 Ng Button; U+1f196
+🅾 O Button (blood Type); U+1f17e
+🆗 Ok Button; U+1f197
+🅿 P Button; U+1f17f
+🆘 Sos Button; U+1f198
+🆙 Up! Button; U+1f199
+🆚 Vs Button; U+1f19a
+🈁 Japanese “here” Button; U+1f201
+🈂 Japanese “service Charge” Button; U+1f202
+🈷 Japanese “monthly Amount” Button; U+1f237
+🈶 Japanese “not Free Of Charge” Button; U+1f236
+🈯 Japanese “reserved” Button; U+1f22f
+🉐 Japanese “bargain” Button; U+1f250
+🈹 Japanese “discount” Button; U+1f239
+🈚 Japanese “free Of Charge” Button; U+1f21a
+🈲 Japanese “prohibited” Button; U+1f232
+🉑 Japanese “acceptable” Button; U+1f251
+🈸 Japanese “application” Button; U+1f238
+🈴 Japanese “passing Grade” Button; U+1f234
+🈳 Japanese “vacancy” Button; U+1f233
+㊗ Japanese “congratulations” Button; U+3297
+㊙ Japanese “secret” Button; U+3299
+🈺 Japanese “open For Business” Button; U+1f23a
+🈵 Japanese “no Vacancy” Button; U+1f235
+🔴 Red Circle; U+1f534
+🔵 Blue Circle; U+1f535
+⚪ White Circle; U+26aa
+⚫ Black Circle; U+26ab
+⬜ White Large Square; U+2b1c
+⬛ Black Large Square; U+2b1b
+◼ Black Medium Square; U+25fc
+◻ White Medium Square; U+25fb
+◽ White Medium-small Square; U+25fd
+◾ Black Medium-small Square; U+25fe
+▫ White Small Square; U+25ab
+▪ Black Small Square; U+25aa
+🔶 Large Orange Diamond; U+1f536
+🔷 Large Blue Diamond; U+1f537
+🔸 Small Orange Diamond; U+1f538
+🔹 Small Blue Diamond; U+1f539
+🔺 Red Triangle Pointed Up; U+1f53a
+🔻 Red Triangle Pointed Down; U+1f53b
+💠 Diamond With A Dot; U+1f4a0
+🔘 Radio Button; U+1f518
+🔲 Black Square Button; U+1f532
+🔳 White Square Button; U+1f533
+🏁 Chequered Flag; U+1f3c1
+🚩 Triangular Flag; U+1f6a9
+🎌 Crossed Flags; U+1f38c
+🏴 Black Flag; U+1f3f4
+🏳 White Flag; U+1f3f3
+🏳️‍🌈 Pride Flag; U+1f3f3 U+fe0f U+200d U+1f308
+🏳️‍⚧️ Trans Pride Flag; U+1f3f3 U+fe0f U+200d U+26a7 U+fe0f
+🏴‍☠️  Pirate Flag; U+1f3f4 U+200d U+2620 U+fe0f
+🇦🇨 Flag: Ascension Island; U+1f1e6 U+1f1e8
+🇦🇩 Flag: Andorra; U+1f1e6 U+1f1e9
+🇦🇪 Flag: United Arab Emirates; U+1f1e6 U+1f1ea
+🇦🇫 Flag: Afghanistan; U+1f1e6 U+1f1eb
+🇦🇬 Flag: Antigua & Barbuda; U+1f1e6 U+1f1ec
+🇦🇮 Flag: Anguilla; U+1f1e6 U+1f1ee
+🇦🇱 Flag: Albania; U+1f1e6 U+1f1f1
+🇦🇲 Flag: Armenia; U+1f1e6 U+1f1f2
+🇦🇴 Flag: Angola; U+1f1e6 U+1f1f4
+🇦🇶 Flag: Antarctica; U+1f1e6 U+1f1f6
+🇦🇷 Flag: Argentina; U+1f1e6 U+1f1f7
+🇦🇸 Flag: American Samoa; U+1f1e6 U+1f1f8
+🇦🇹 Flag: Austria; U+1f1e6 U+1f1f9
+🇦🇺 Flag: Australia; U+1f1e6 U+1f1fa
+🇦🇼 Flag: Aruba; U+1f1e6 U+1f1fc
+🇦🇽 Flag: Åland Islands; U+1f1e6 U+1f1fd
+🇦🇿 Flag: Azerbaijan; U+1f1e6 U+1f1ff
+🇧🇦 Flag: Bosnia & Herzegovina; U+1f1e7 U+1f1e6
+🇧🇧 Flag: Barbados; U+1f1e7 U+1f1e7
+🇧🇩 Flag: Bangladesh; U+1f1e7 U+1f1e9
+🇧🇪 Flag: Belgium; U+1f1e7 U+1f1ea
+🇧🇫 Flag: Burkina Faso; U+1f1e7 U+1f1eb
+🇧🇬 Flag: Bulgaria; U+1f1e7 U+1f1ec
+🇧🇭 Flag: Bahrain; U+1f1e7 U+1f1ed
+🇧🇮 Flag: Burundi; U+1f1e7 U+1f1ee
+🇧🇯 Flag: Benin; U+1f1e7 U+1f1ef
+🇧🇱 Flag: St. Barthélemy; U+1f1e7 U+1f1f1
+🇧🇲 Flag: Bermuda; U+1f1e7 U+1f1f2
+🇧🇳 Flag: Brunei; U+1f1e7 U+1f1f3
+🇧🇴 Flag: Bolivia; U+1f1e7 U+1f1f4
+🇧🇶 Flag: Caribbean Netherlands; U+1f1e7 U+1f1f6
+🇧🇷 Flag: Brazil; U+1f1e7 U+1f1f7
+🇧🇸 Flag: Bahamas; U+1f1e7 U+1f1f8
+🇧🇹 Flag: Bhutan; U+1f1e7 U+1f1f9
+🇧🇻 Flag: Bouvet Island; U+1f1e7 U+1f1fb
+🇧🇼 Flag: Botswana; U+1f1e7 U+1f1fc
+🇧🇾 Flag: Belarus; U+1f1e7 U+1f1fe
+🇧🇿 Flag: Belize; U+1f1e7 U+1f1ff
+🇨🇦 Flag: Canada; U+1f1e8 U+1f1e6
+🇨🇨 Flag: Cocos (keeling) Islands; U+1f1e8 U+1f1e8
+🇨🇩 Flag: Congo - Kinshasa; U+1f1e8 U+1f1e9
+🇨🇫 Flag: Central African Republic; U+1f1e8 U+1f1eb
+🇨🇬 Flag: Congo - Brazzaville; U+1f1e8 U+1f1ec
+🇨🇭 Flag: Switzerland; U+1f1e8 U+1f1ed
+🇨🇮 Flag: Côte D’ivoire; U+1f1e8 U+1f1ee
+🇨🇰 Flag: Cook Islands; U+1f1e8 U+1f1f0
+🇨🇱 Flag: Chile; U+1f1e8 U+1f1f1
+🇨🇲 Flag: Cameroon; U+1f1e8 U+1f1f2
+🇨🇳 Flag: China; U+1f1e8 U+1f1f3
+🇨🇴 Flag: Colombia; U+1f1e8 U+1f1f4
+🇨🇵 Flag: Clipperton Island; U+1f1e8 U+1f1f5
+🇨🇷 Flag: Costa Rica; U+1f1e8 U+1f1f7
+🇨🇺 Flag: Cuba; U+1f1e8 U+1f1fa
+🇨🇻 Flag: Cape Verde; U+1f1e8 U+1f1fb
+🇨🇼 Flag: Curaçao; U+1f1e8 U+1f1fc
+🇨🇽 Flag: Christmas Island; U+1f1e8 U+1f1fd
+🇨🇾 Flag: Cyprus; U+1f1e8 U+1f1fe
+🇨🇿 Flag: Czechia; U+1f1e8 U+1f1ff
+🇩🇪 Flag: Germany; U+1f1e9 U+1f1ea
+🇩🇬 Flag: Diego Garcia; U+1f1e9 U+1f1ec
+🇩🇯 Flag: Djibouti; U+1f1e9 U+1f1ef
+🇩🇰 Flag: Denmark; U+1f1e9 U+1f1f0
+🇩🇲 Flag: Dominica; U+1f1e9 U+1f1f2
+🇩🇴 Flag: Dominican Republic; U+1f1e9 U+1f1f4
+🇩🇿 Flag: Algeria; U+1f1e9 U+1f1ff
+🇪🇦 Flag: Ceuta & Melilla; U+1f1ea U+1f1e6
+🇪🇨 Flag: Ecuador; U+1f1ea U+1f1e8
+🇪🇪 Flag: Estonia; U+1f1ea U+1f1ea
+🇪🇬 Flag: Egypt; U+1f1ea U+1f1ec
+🇪🇭 Flag: Western Sahara; U+1f1ea U+1f1ed
+🇪🇷 Flag: Eritrea; U+1f1ea U+1f1f7
+🇪🇸 Flag: Spain; U+1f1ea U+1f1f8
+🇪🇹 Flag: Ethiopia; U+1f1ea U+1f1f9
+🇪🇺 Flag: European Union; U+1f1ea U+1f1fa
+🇫🇮 Flag: Finland; U+1f1eb U+1f1ee
+🇫🇯 Flag: Fiji; U+1f1eb U+1f1ef
+🇫🇰 Flag: Falkland Islands; U+1f1eb U+1f1f0
+🇫🇲 Flag: Micronesia; U+1f1eb U+1f1f2
+🇫🇴 Flag: Faroe Islands; U+1f1eb U+1f1f4
+🇫🇷 Flag: France; U+1f1eb U+1f1f7
+🇬🇦 Flag: Gabon; U+1f1ec U+1f1e6
+🇬🇧 Flag: United Kingdom; U+1f1ec U+1f1e7
+🇬🇩 Flag: Grenada; U+1f1ec U+1f1e9
+🇬🇪 Flag: Georgia; U+1f1ec U+1f1ea
+🇬🇫 Flag: French Guiana; U+1f1ec U+1f1eb
+🇬🇬 Flag: Guernsey; U+1f1ec U+1f1ec
+🇬🇭 Flag: Ghana; U+1f1ec U+1f1ed
+🇬🇮 Flag: Gibraltar; U+1f1ec U+1f1ee
+🇬🇱 Flag: Greenland; U+1f1ec U+1f1f1
+🇬🇲 Flag: Gambia; U+1f1ec U+1f1f2
+🇬🇳 Flag: Guinea; U+1f1ec U+1f1f3
+🇬🇵 Flag: Guadeloupe; U+1f1ec U+1f1f5
+🇬🇶 Flag: Equatorial Guinea; U+1f1ec U+1f1f6
+🇬🇷 Flag: Greece; U+1f1ec U+1f1f7
+🇬🇸 Flag: South Georgia & South Sandwich Islands; U+1f1ec U+1f1f8
+🇬🇹 Flag: Guatemala; U+1f1ec U+1f1f9
+🇬🇺 Flag: Guam; U+1f1ec U+1f1fa
+🇬🇼 Flag: Guinea-bissau; U+1f1ec U+1f1fc
+🇬🇾 Flag: Guyana; U+1f1ec U+1f1fe
+🇭🇰 Flag: Hong Kong Sar China; U+1f1ed U+1f1f0
+🇭🇲 Flag: Heard & Mcdonald Islands; U+1f1ed U+1f1f2
+🇭🇳 Flag: Honduras; U+1f1ed U+1f1f3
+🇭🇷 Flag: Croatia; U+1f1ed U+1f1f7
+🇭🇹 Flag: Haiti; U+1f1ed U+1f1f9
+🇭🇺 Flag: Hungary; U+1f1ed U+1f1fa
+🇮🇨 Flag: Canary Islands; U+1f1ee U+1f1e8
+🇮🇩 Flag: Indonesia; U+1f1ee U+1f1e9
+🇮🇪 Flag: Ireland; U+1f1ee U+1f1ea
+🇮🇱 Flag: Israel; U+1f1ee U+1f1f1
+🇮🇲 Flag: Isle Of Man; U+1f1ee U+1f1f2
+🇮🇳 Flag: India; U+1f1ee U+1f1f3
+🇮🇴 Flag: British Indian Ocean Territory; U+1f1ee U+1f1f4
+🇮🇶 Flag: Iraq; U+1f1ee U+1f1f6
+🇮🇷 Flag: Iran; U+1f1ee U+1f1f7
+🇮🇸 Flag: Iceland; U+1f1ee U+1f1f8
+🇮🇹 Flag: Italy; U+1f1ee U+1f1f9
+🇯🇪 Flag: Jersey; U+1f1ef U+1f1ea
+🇯🇲 Flag: Jamaica; U+1f1ef U+1f1f2
+🇯🇴 Flag: Jordan; U+1f1ef U+1f1f4
+🇯🇵 Flag: Japan; U+1f1ef U+1f1f5
+🇰🇪 Flag: Kenya; U+1f1f0 U+1f1ea
+🇰🇬 Flag: Kyrgyzstan; U+1f1f0 U+1f1ec
+🇰🇭 Flag: Cambodia; U+1f1f0 U+1f1ed
+🇰🇮 Flag: Kiribati; U+1f1f0 U+1f1ee
+🇰🇲 Flag: Comoros; U+1f1f0 U+1f1f2
+🇰🇳 Flag: St. Kitts & Nevis; U+1f1f0 U+1f1f3
+🇰🇵 Flag: North Korea; U+1f1f0 U+1f1f5
+🇰🇷 Flag: South Korea; U+1f1f0 U+1f1f7
+🇰🇼 Flag: Kuwait; U+1f1f0 U+1f1fc
+🇰🇾 Flag: Cayman Islands; U+1f1f0 U+1f1fe
+🇰🇿 Flag: Kazakhstan; U+1f1f0 U+1f1ff
+🇱🇦 Flag: Laos; U+1f1f1 U+1f1e6
+🇱🇧 Flag: Lebanon; U+1f1f1 U+1f1e7
+🇱🇨 Flag: St. Lucia; U+1f1f1 U+1f1e8
+🇱🇮 Flag: Liechtenstein; U+1f1f1 U+1f1ee
+🇱🇰 Flag: Sri Lanka; U+1f1f1 U+1f1f0
+🇱🇷 Flag: Liberia; U+1f1f1 U+1f1f7
+🇱🇸 Flag: Lesotho; U+1f1f1 U+1f1f8
+🇱🇹 Flag: Lithuania; U+1f1f1 U+1f1f9
+🇱🇺 Flag: Luxembourg; U+1f1f1 U+1f1fa
+🇱🇻 Flag: Latvia; U+1f1f1 U+1f1fb
+🇱🇾 Flag: Libya; U+1f1f1 U+1f1fe
+🇲🇦 Flag: Morocco; U+1f1f2 U+1f1e6
+🇲🇨 Flag: Monaco; U+1f1f2 U+1f1e8
+🇲🇩 Flag: Moldova; U+1f1f2 U+1f1e9
+🇲🇪 Flag: Montenegro; U+1f1f2 U+1f1ea
+🇲🇫 Flag: St. Martin; U+1f1f2 U+1f1eb
+🇲🇬 Flag: Madagascar; U+1f1f2 U+1f1ec
+🇲🇭 Flag: Marshall Islands; U+1f1f2 U+1f1ed
+🇲🇰 Flag: Macedonia; U+1f1f2 U+1f1f0
+🇲🇱 Flag: Mali; U+1f1f2 U+1f1f1
+🇲🇲 Flag: Myanmar (burma); U+1f1f2 U+1f1f2
+🇲🇳 Flag: Mongolia; U+1f1f2 U+1f1f3
+🇲🇴 Flag: Macau Sar China; U+1f1f2 U+1f1f4
+🇲🇵 Flag: Northern Mariana Islands; U+1f1f2 U+1f1f5
+🇲🇶 Flag: Martinique; U+1f1f2 U+1f1f6
+🇲🇷 Flag: Mauritania; U+1f1f2 U+1f1f7
+🇲🇸 Flag: Montserrat; U+1f1f2 U+1f1f8
+🇲🇹 Flag: Malta; U+1f1f2 U+1f1f9
+🇲🇺 Flag: Mauritius; U+1f1f2 U+1f1fa
+🇲🇻 Flag: Maldives; U+1f1f2 U+1f1fb
+🇲🇼 Flag: Malawi; U+1f1f2 U+1f1fc
+🇲🇽 Flag: Mexico; U+1f1f2 U+1f1fd
+🇲🇾 Flag: Malaysia; U+1f1f2 U+1f1fe
+🇲🇿 Flag: Mozambique; U+1f1f2 U+1f1ff
+🇳🇦 Flag: Namibia; U+1f1f3 U+1f1e6
+🇳🇨 Flag: New Caledonia; U+1f1f3 U+1f1e8
+🇳🇪 Flag: Niger; U+1f1f3 U+1f1ea
+🇳🇫 Flag: Norfolk Island; U+1f1f3 U+1f1eb
+🇳🇬 Flag: Nigeria; U+1f1f3 U+1f1ec
+🇳🇮 Flag: Nicaragua; U+1f1f3 U+1f1ee
+🇳🇱 Flag: Netherlands; U+1f1f3 U+1f1f1
+🇳🇴 Flag: Norway; U+1f1f3 U+1f1f4
+🇳🇵 Flag: Nepal; U+1f1f3 U+1f1f5
+🇳🇷 Flag: Nauru; U+1f1f3 U+1f1f7
+🇳🇺 Flag: Niue; U+1f1f3 U+1f1fa
+🇳🇿 Flag: New Zealand; U+1f1f3 U+1f1ff
+🇴🇲 Flag: Oman; U+1f1f4 U+1f1f2
+🇵🇦 Flag: Panama; U+1f1f5 U+1f1e6
+🇵🇪 Flag: Peru; U+1f1f5 U+1f1ea
+🇵🇫 Flag: French Polynesia; U+1f1f5 U+1f1eb
+🇵🇬 Flag: Papua New Guinea; U+1f1f5 U+1f1ec
+🇵🇭 Flag: Philippines; U+1f1f5 U+1f1ed
+🇵🇰 Flag: Pakistan; U+1f1f5 U+1f1f0
+🇵🇱 Flag: Poland; U+1f1f5 U+1f1f1
+🇵🇲 Flag: St. Pierre & Miquelon; U+1f1f5 U+1f1f2
+🇵🇳 Flag: Pitcairn Islands; U+1f1f5 U+1f1f3
+🇵🇷 Flag: Puerto Rico; U+1f1f5 U+1f1f7
+🇵🇸 Flag: Palestinian Territories; U+1f1f5 U+1f1f8
+🇵🇹 Flag: Portugal; U+1f1f5 U+1f1f9
+🇵🇼 Flag: Palau; U+1f1f5 U+1f1fc
+🇵🇾 Flag: Paraguay; U+1f1f5 U+1f1fe
+🇶🇦 Flag: Qatar; U+1f1f6 U+1f1e6
+🇷🇪 Flag: Réunion; U+1f1f7 U+1f1ea
+🇷🇴 Flag: Romania; U+1f1f7 U+1f1f4
+🇷🇸 Flag: Serbia; U+1f1f7 U+1f1f8
+🇷🇺 Flag: Russia; U+1f1f7 U+1f1fa
+🇷🇼 Flag: Rwanda; U+1f1f7 U+1f1fc
+🇸🇦 Flag: Saudi Arabia; U+1f1f8 U+1f1e6
+🇸🇧 Flag: Solomon Islands; U+1f1f8 U+1f1e7
+🇸🇨 Flag: Seychelles; U+1f1f8 U+1f1e8
+🇸🇩 Flag: Sudan; U+1f1f8 U+1f1e9
+🇸🇪 Flag: Sweden; U+1f1f8 U+1f1ea
+🇸🇬 Flag: Singapore; U+1f1f8 U+1f1ec
+🇸🇭 Flag: St. Helena; U+1f1f8 U+1f1ed
+🇸🇮 Flag: Slovenia; U+1f1f8 U+1f1ee
+🇸🇯 Flag: Svalbard & Jan Mayen; U+1f1f8 U+1f1ef
+🇸🇰 Flag: Slovakia; U+1f1f8 U+1f1f0
+🇸🇱 Flag: Sierra Leone; U+1f1f8 U+1f1f1
+🇸🇲 Flag: San Marino; U+1f1f8 U+1f1f2
+🇸🇳 Flag: Senegal; U+1f1f8 U+1f1f3
+🇸🇴 Flag: Somalia; U+1f1f8 U+1f1f4
+🇸🇷 Flag: Suriname; U+1f1f8 U+1f1f7
+🇸🇸 Flag: South Sudan; U+1f1f8 U+1f1f8
+🇸🇹 Flag: São Tomé & Príncipe; U+1f1f8 U+1f1f9
+🇸🇻 Flag: El Salvador; U+1f1f8 U+1f1fb
+🇸🇽 Flag: Sint Maarten; U+1f1f8 U+1f1fd
+🇸🇾 Flag: Syria; U+1f1f8 U+1f1fe
+🇸🇿 Flag: Swaziland; U+1f1f8 U+1f1ff
+🇹🇦 Flag: Tristan Da Cunha; U+1f1f9 U+1f1e6
+🇹🇨 Flag: Turks & Caicos Islands; U+1f1f9 U+1f1e8
+🇹🇩 Flag: Chad; U+1f1f9 U+1f1e9
+🇹🇫 Flag: French Southern Territories; U+1f1f9 U+1f1eb
+🇹🇬 Flag: Togo; U+1f1f9 U+1f1ec
+🇹🇭 Flag: Thailand; U+1f1f9 U+1f1ed
+🇹🇯 Flag: Tajikistan; U+1f1f9 U+1f1ef
+🇹🇰 Flag: Tokelau; U+1f1f9 U+1f1f0
+🇹🇱 Flag: Timor-leste; U+1f1f9 U+1f1f1
+🇹🇲 Flag: Turkmenistan; U+1f1f9 U+1f1f2
+🇹🇳 Flag: Tunisia; U+1f1f9 U+1f1f3
+🇹🇴 Flag: Tonga; U+1f1f9 U+1f1f4
+🇹🇷 Flag: Turkey; U+1f1f9 U+1f1f7
+🇹🇹 Flag: Trinidad & Tobago; U+1f1f9 U+1f1f9
+🇹🇻 Flag: Tuvalu; U+1f1f9 U+1f1fb
+🇹🇼 Flag: Taiwan; U+1f1f9 U+1f1fc
+🇹🇿 Flag: Tanzania; U+1f1f9 U+1f1ff
+🇺🇦 Flag: Ukraine; U+1f1fa U+1f1e6
+🇺🇬 Flag: Uganda; U+1f1fa U+1f1ec
+🇺🇲 Flag: U.s. Outlying Islands; U+1f1fa U+1f1f2
+🇺🇳 Flag: United Nations; U+1f1fa U+1f1f3
+🇺🇸 Flag: United States; U+1f1fa U+1f1f8
+🇺🇾 Flag: Uruguay; U+1f1fa U+1f1fe
+🇺🇿 Flag: Uzbekistan; U+1f1fa U+1f1ff
+🇻🇦 Flag: Vatican City; U+1f1fb U+1f1e6
+🇻🇨 Flag: St. Vincent & Grenadines; U+1f1fb U+1f1e8
+🇻🇪 Flag: Venezuela; U+1f1fb U+1f1ea
+🇻🇬 Flag: British Virgin Islands; U+1f1fb U+1f1ec
+🇻🇮 Flag: U.s. Virgin Islands; U+1f1fb U+1f1ee
+🇻🇳 Flag: Vietnam; U+1f1fb U+1f1f3
+🇻🇺 Flag: Vanuatu; U+1f1fb U+1f1fa
+🇼🇫 Flag: Wallis & Futuna; U+1f1fc U+1f1eb
+🇼🇸 Flag: Samoa; U+1f1fc U+1f1f8
+🇽🇰 Flag: Kosovo; U+1f1fd U+1f1f0
+🇾🇪 Flag: Yemen; U+1f1fe U+1f1ea
+🇾🇹 Flag: Mayotte; U+1f1fe U+1f1f9
+🇿🇦 Flag: South Africa; U+1f1ff U+1f1e6
+🇿🇲 Flag: Zambia; U+1f1ff U+1f1f2
+🇿🇼 Flag: Zimbabwe; U+1f1ff U+1f1fc
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Flag: England; U+1f3f4 U+e0067 U+e0062 U+e0065 U+e006e U+e0067 U+e007f
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 Flag: Scotland; U+1f3f4 U+e0067 U+e0062 U+e0073 U+e0063 U+e0074 U+e007f
+🏴󠁧󠁢󠁷󠁬󠁳󠁿 Flag: Wales; U+1f3f4 U+e0067 U+e0062 U+e0077 U+e006c U+e0073 U+e007f
+ Fa-ad; U+f641
+ Fa-address-book; U+f2b9
+ Fa-address-card; U+f2bb
+ Fa-adjust; U+f042
+ Fa-air-freshener; U+f5d0
+ Fa-align-center; U+f037
+ Fa-align-justify; U+f039
+ Fa-align-left; U+f036
+ Fa-align-right; U+f038
+ Fa-allergies; U+f461
+ Fa-ambulance; U+f0f9
+ Fa-american-sign-language-interpreting; U+f2a3
+ Fa-anchor; U+f13d
+ Fa-angle-double-down; U+f103
+ Fa-angle-double-left; U+f100
+ Fa-angle-double-right; U+f101
+ Fa-angle-double-up; U+f102
+ Fa-angle-down; U+f107
+ Fa-angle-left; U+f104
+ Fa-angle-right; U+f105
+ Fa-angle-up; U+f106
+ Fa-angry; U+f556
+ Fa-ankh; U+f644
+ Fa-apple-alt; U+f5d1
+ Fa-archive; U+f187
+ Fa-archway; U+f557
+ Fa-arrow-alt-circle-down; U+f358
+ Fa-arrow-alt-circle-left; U+f359
+ Fa-arrow-alt-circle-right; U+f35a
+ Fa-arrow-alt-circle-up; U+f35b
+ Fa-arrow-circle-down; U+f0ab
+ Fa-arrow-circle-left; U+f0a8
+ Fa-arrow-circle-right; U+f0a9
+ Fa-arrow-circle-up; U+f0aa
+ Fa-arrow-down; U+f063
+ Fa-arrow-left; U+f060
+ Fa-arrow-right; U+f061
+ Fa-arrow-up; U+f062
+ Fa-arrows-alt; U+f0b2
+ Fa-arrows-alt-h; U+f337
+ Fa-arrows-alt-v; U+f338
+ Fa-assistive-listening-systems; U+f2a2
+ Fa-asterisk; U+f069
+ Fa-at; U+f1fa
+ Fa-atlas; U+f558
+ Fa-atom; U+f5d2
+ Fa-audio-description; U+f29e
+ Fa-award; U+f559
+ Fa-baby; U+f77c
+ Fa-baby-carriage; U+f77d
+ Fa-backspace; U+f55a
+ Fa-backward; U+f04a
+ Fa-balance-scale; U+f24e
+ Fa-ban; U+f05e
+ Fa-band-aid; U+f462
+ Fa-barcode; U+f02a
+ Fa-bars; U+f0c9
+ Fa-baseball-ball; U+f433
+ Fa-basketball-ball; U+f434
+ Fa-bath; U+f2cd
+ Fa-battery-empty; U+f244
+ Fa-battery-full; U+f240
+ Fa-battery-half; U+f242
+ Fa-battery-quarter; U+f243
+ Fa-battery-three-quarters; U+f241
+ Fa-bed; U+f236
+ Fa-beer; U+f0fc
+ Fa-bell; U+f0f3
+ Fa-bell-slash; U+f1f6
+ Fa-bezier-curve; U+f55b
+ Fa-bible; U+f647
+ Fa-bicycle; U+f206
+ Fa-binoculars; U+f1e5
+ Fa-biohazard; U+f780
+ Fa-birthday-cake; U+f1fd
+ Fa-blender; U+f517
+ Fa-blender-phone; U+f6b6
+ Fa-blind; U+f29d
+ Fa-blog; U+f781
+ Fa-bold; U+f032
+ Fa-bolt; U+f0e7
+ Fa-bomb; U+f1e2
+ Fa-bone; U+f5d7
+ Fa-bong; U+f55c
+ Fa-book; U+f02d
+ Fa-book-dead; U+f6b7
+ Fa-book-open; U+f518
+ Fa-book-reader; U+f5da
+ Fa-bookmark; U+f02e
+ Fa-bowling-ball; U+f436
+ Fa-box; U+f466
+ Fa-box-open; U+f49e
+ Fa-boxes; U+f468
+ Fa-braille; U+f2a1
+ Fa-brain; U+f5dc
+ Fa-briefcase; U+f0b1
+ Fa-briefcase-medical; U+f469
+ Fa-broadcast-tower; U+f519
+ Fa-broom; U+f51a
+ Fa-brush; U+f55d
+ Fa-bug; U+f188
+ Fa-building; U+f1ad
+ Fa-bullhorn; U+f0a1
+ Fa-bullseye; U+f140
+ Fa-burn; U+f46a
+ Fa-bus; U+f207
+ Fa-bus-alt; U+f55e
+ Fa-business-time; U+f64a
+ Fa-calculator; U+f1ec
+ Fa-calendar; U+f133
+ Fa-calendar-alt; U+f073
+ Fa-calendar-check; U+f274
+ Fa-calendar-day; U+f783
+ Fa-calendar-minus; U+f272
+ Fa-calendar-plus; U+f271
+ Fa-calendar-times; U+f273
+ Fa-calendar-week; U+f784
+ Fa-camera; U+f030
+ Fa-camera-retro; U+f083
+ Fa-campground; U+f6bb
+ Fa-candy-cane; U+f786
+ Fa-cannabis; U+f55f
+ Fa-capsules; U+f46b
+ Fa-car; U+f1b9
+ Fa-car-alt; U+f5de
+ Fa-car-battery; U+f5df
+ Fa-car-crash; U+f5e1
+ Fa-car-side; U+f5e4
+ Fa-caret-down; U+f0d7
+ Fa-caret-left; U+f0d9
+ Fa-caret-right; U+f0da
+ Fa-caret-square-down; U+f150
+ Fa-caret-square-left; U+f191
+ Fa-caret-square-right; U+f152
+ Fa-caret-square-up; U+f151
+ Fa-caret-up; U+f0d8
+ Fa-carrot; U+f787
+ Fa-cart-arrow-down; U+f218
+ Fa-cart-plus; U+f217
+ Fa-cash-register; U+f788
+ Fa-cat; U+f6be
+ Fa-certificate; U+f0a3
+ Fa-chair; U+f6c0
+ Fa-chalkboard; U+f51b
+ Fa-chalkboard-teacher; U+f51c
+ Fa-charging-station; U+f5e7
+ Fa-chart-area; U+f1fe
+ Fa-chart-bar; U+f080
+ Fa-chart-line; U+f201
+ Fa-chart-pie; U+f200
+ Fa-check; U+f00c
+ Fa-check-circle; U+f058
+ Fa-check-double; U+f560
+ Fa-check-square; U+f14a
+ Fa-chess; U+f439
+ Fa-chess-bishop; U+f43a
+ Fa-chess-board; U+f43c
+ Fa-chess-king; U+f43f
+ Fa-chess-knight; U+f441
+ Fa-chess-pawn; U+f443
+ Fa-chess-queen; U+f445
+ Fa-chess-rook; U+f447
+ Fa-chevron-circle-down; U+f13a
+ Fa-chevron-circle-left; U+f137
+ Fa-chevron-circle-right; U+f138
+ Fa-chevron-circle-up; U+f139
+ Fa-chevron-down; U+f078
+ Fa-chevron-left; U+f053
+ Fa-chevron-right; U+f054
+ Fa-chevron-up; U+f077
+ Fa-child; U+f1ae
+ Fa-church; U+f51d
+ Fa-circle; U+f111
+ Fa-circle-notch; U+f1ce
+ Fa-city; U+f64f
+ Fa-clipboard; U+f328
+ Fa-clipboard-check; U+f46c
+ Fa-clipboard-list; U+f46d
+ Fa-clock; U+f017
+ Fa-clone; U+f24d
+ Fa-closed-captioning; U+f20a
+ Fa-cloud; U+f0c2
+ Fa-cloud-download-alt; U+f381
+ Fa-cloud-meatball; U+f73b
+ Fa-cloud-moon; U+f6c3
+ Fa-cloud-moon-rain; U+f73c
+ Fa-cloud-rain; U+f73d
+ Fa-cloud-showers-heavy; U+f740
+ Fa-cloud-sun; U+f6c4
+ Fa-cloud-sun-rain; U+f743
+ Fa-cloud-upload-alt; U+f382
+ Fa-cocktail; U+f561
+ Fa-code; U+f121
+ Fa-code-branch; U+f126
+ Fa-coffee; U+f0f4
+ Fa-cog; U+f013
+ Fa-cogs; U+f085
+ Fa-coins; U+f51e
+ Fa-columns; U+f0db
+ Fa-comment; U+f075
+ Fa-comment-alt; U+f27a
+ Fa-comment-dollar; U+f651
+ Fa-comment-dots; U+f4ad
+ Fa-comment-slash; U+f4b3
+ Fa-comments; U+f086
+ Fa-comments-dollar; U+f653
+ Fa-compact-disc; U+f51f
+ Fa-compass; U+f14e
+ Fa-compress; U+f066
+ Fa-compress-arrows-alt; U+f78c
+ Fa-concierge-bell; U+f562
+ Fa-cookie; U+f563
+ Fa-cookie-bite; U+f564
+ Fa-copy; U+f0c5
+ Fa-copyright; U+f1f9
+ Fa-couch; U+f4b8
+ Fa-credit-card; U+f09d
+ Fa-crop; U+f125
+ Fa-crop-alt; U+f565
+ Fa-cross; U+f654
+ Fa-crosshairs; U+f05b
+ Fa-crow; U+f520
+ Fa-crown; U+f521
+ Fa-cube; U+f1b2
+ Fa-cubes; U+f1b3
+ Fa-cut; U+f0c4
+ Fa-database; U+f1c0
+ Fa-deaf; U+f2a4
+ Fa-democrat; U+f747
+ Fa-desktop; U+f108
+ Fa-dharmachakra; U+f655
+ Fa-diagnoses; U+f470
+ Fa-dice; U+f522
+ Fa-dice-d20; U+f6cf
+ Fa-dice-d6; U+f6d1
+ Fa-dice-five; U+f523
+ Fa-dice-four; U+f524
+ Fa-dice-one; U+f525
+ Fa-dice-six; U+f526
+ Fa-dice-three; U+f527
+ Fa-dice-two; U+f528
+ Fa-digital-tachograph; U+f566
+ Fa-directions; U+f5eb
+ Fa-divide; U+f529
+ Fa-dizzy; U+f567
+ Fa-dna; U+f471
+ Fa-dog; U+f6d3
+ Fa-dollar-sign; U+f155
+ Fa-dolly; U+f472
+ Fa-dolly-flatbed; U+f474
+ Fa-donate; U+f4b9
+ Fa-door-closed; U+f52a
+ Fa-door-open; U+f52b
+ Fa-dot-circle; U+f192
+ Fa-dove; U+f4ba
+ Fa-download; U+f019
+ Fa-drafting-compass; U+f568
+ Fa-dragon; U+f6d5
+ Fa-draw-polygon; U+f5ee
+ Fa-drum; U+f569
+ Fa-drum-steelpan; U+f56a
+ Fa-drumstick-bite; U+f6d7
+ Fa-dumbbell; U+f44b
+ Fa-dumpster; U+f793
+ Fa-dumpster-fire; U+f794
+ Fa-dungeon; U+f6d9
+ Fa-edit; U+f044
+ Fa-eject; U+f052
+ Fa-ellipsis-h; U+f141
+ Fa-ellipsis-v; U+f142
+ Fa-envelope; U+f0e0
+ Fa-envelope-open; U+f2b6
+ Fa-envelope-open-text; U+f658
+ Fa-envelope-square; U+f199
+ Fa-equals; U+f52c
+ Fa-eraser; U+f12d
+ Fa-ethernet; U+f796
+ Fa-euro-sign; U+f153
+ Fa-exchange-alt; U+f362
+ Fa-exclamation; U+f12a
+ Fa-exclamation-circle; U+f06a
+ Fa-exclamation-triangle; U+f071
+ Fa-expand; U+f065
+ Fa-expand-arrows-alt; U+f31e
+ Fa-external-link-alt; U+f35d
+ Fa-external-link-square-alt; U+f360
+ Fa-eye; U+f06e
+ Fa-eye-dropper; U+f1fb
+ Fa-eye-slash; U+f070
+ Fa-fast-backward; U+f049
+ Fa-fast-forward; U+f050
+ Fa-fax; U+f1ac
+ Fa-feather; U+f52d
+ Fa-feather-alt; U+f56b
+ Fa-female; U+f182
+ Fa-fighter-jet; U+f0fb
+ Fa-file; U+f15b
+ Fa-file-alt; U+f15c
+ Fa-file-archive; U+f1c6
+ Fa-file-audio; U+f1c7
+ Fa-file-code; U+f1c9
+ Fa-file-contract; U+f56c
+ Fa-file-csv; U+f6dd
+ Fa-file-download; U+f56d
+ Fa-file-excel; U+f1c3
+ Fa-file-export; U+f56e
+ Fa-file-image; U+f1c5
+ Fa-file-import; U+f56f
+ Fa-file-invoice; U+f570
+ Fa-file-invoice-dollar; U+f571
+ Fa-file-medical; U+f477
+ Fa-file-medical-alt; U+f478
+ Fa-file-pdf; U+f1c1
+ Fa-file-powerpoint; U+f1c4
+ Fa-file-prescription; U+f572
+ Fa-file-signature; U+f573
+ Fa-file-upload; U+f574
+ Fa-file-video; U+f1c8
+ Fa-file-word; U+f1c2
+ Fa-fill; U+f575
+ Fa-fill-drip; U+f576
+ Fa-film; U+f008
+ Fa-filter; U+f0b0
+ Fa-fingerprint; U+f577
+ Fa-fire; U+f06d
+ Fa-fire-alt; U+f7e4
+ Fa-fire-extinguisher; U+f134
+ Fa-first-aid; U+f479
+ Fa-fish; U+f578
+ Fa-fist-raised; U+f6de
+ Fa-flag; U+f024
+ Fa-flag-checkered; U+f11e
+ Fa-flag-usa; U+f74d
+ Fa-flask; U+f0c3
+ Fa-flushed; U+f579
+ Fa-folder; U+f07b
+ Fa-folder-minus; U+f65d
+ Fa-folder-open; U+f07c
+ Fa-folder-plus; U+f65e
+ Fa-font; U+f031
+ Fa-font-awesome-logo-full; U+f4e6
+ Fa-football-ball; U+f44e
+ Fa-forward; U+f04e
+ Fa-frog; U+f52e
+ Fa-frown; U+f119
+ Fa-frown-open; U+f57a
+ Fa-funnel-dollar; U+f662
+ Fa-futbol; U+f1e3
+ Fa-gamepad; U+f11b
+ Fa-gas-pump; U+f52f
+ Fa-gavel; U+f0e3
+ Fa-gem; U+f3a5
+ Fa-genderless; U+f22d
+ Fa-ghost; U+f6e2
+ Fa-gift; U+f06b
+ Fa-gifts; U+f79c
+ Fa-glass-cheers; U+f79f
+ Fa-glass-martini; U+f000
+ Fa-glass-martini-alt; U+f57b
+ Fa-glass-whiskey; U+f7a0
+ Fa-glasses; U+f530
+ Fa-globe; U+f0ac
+ Fa-globe-africa; U+f57c
+ Fa-globe-americas; U+f57d
+ Fa-globe-asia; U+f57e
+ Fa-globe-europe; U+f7a2
+ Fa-golf-ball; U+f450
+ Fa-gopuram; U+f664
+ Fa-graduation-cap; U+f19d
+ Fa-greater-than; U+f531
+ Fa-greater-than-equal; U+f532
+ Fa-grimace; U+f57f
+ Fa-grin; U+f580
+ Fa-grin-alt; U+f581
+ Fa-grin-beam; U+f582
+ Fa-grin-beam-sweat; U+f583
+ Fa-grin-hearts; U+f584
+ Fa-grin-squint; U+f585
+ Fa-grin-squint-tears; U+f586
+ Fa-grin-stars; U+f587
+ Fa-grin-tears; U+f588
+ Fa-grin-tongue; U+f589
+ Fa-grin-tongue-squint; U+f58a
+ Fa-grin-tongue-wink; U+f58b
+ Fa-grin-wink; U+f58c
+ Fa-grip-horizontal; U+f58d
+ Fa-grip-lines; U+f7a4
+ Fa-grip-lines-vertical; U+f7a5
+ Fa-grip-vertical; U+f58e
+ Fa-guitar; U+f7a6
+ Fa-h-square; U+f0fd
+ Fa-hammer; U+f6e3
+ Fa-hamsa; U+f665
+ Fa-hand-holding; U+f4bd
+ Fa-hand-holding-heart; U+f4be
+ Fa-hand-holding-usd; U+f4c0
+ Fa-hand-lizard; U+f258
+ Fa-hand-paper; U+f256
+ Fa-hand-peace; U+f25b
+ Fa-hand-point-down; U+f0a7
+ Fa-hand-point-left; U+f0a5
+ Fa-hand-point-right; U+f0a4
+ Fa-hand-point-up; U+f0a6
+ Fa-hand-pointer; U+f25a
+ Fa-hand-rock; U+f255
+ Fa-hand-scissors; U+f257
+ Fa-hand-spock; U+f259
+ Fa-hands; U+f4c2
+ Fa-hands-helping; U+f4c4
+ Fa-handshake; U+f2b5
+ Fa-hanukiah; U+f6e6
+ Fa-hashtag; U+f292
+ Fa-hat-wizard; U+f6e8
+ Fa-haykal; U+f666
+ Fa-hdd; U+f0a0
+ Fa-heading; U+f1dc
+ Fa-headphones; U+f025
+ Fa-headphones-alt; U+f58f
+ Fa-headset; U+f590
+ Fa-heart; U+f004
+ Fa-heart-broken; U+f7a9
+ Fa-heartbeat; U+f21e
+ Fa-helicopter; U+f533
+ Fa-highlighter; U+f591
+ Fa-hiking; U+f6ec
+ Fa-hippo; U+f6ed
+ Fa-history; U+f1da
+ Fa-hockey-puck; U+f453
+ Fa-holly-berry; U+f7aa
+ Fa-home; U+f015
+ Fa-horse; U+f6f0
+ Fa-horse-head; U+f7ab
+ Fa-hospital; U+f0f8
+ Fa-hospital-alt; U+f47d
+ Fa-hospital-symbol; U+f47e
+ Fa-hot-tub; U+f593
+ Fa-hotel; U+f594
+ Fa-hourglass; U+f254
+ Fa-hourglass-end; U+f253
+ Fa-hourglass-half; U+f252
+ Fa-hourglass-start; U+f251
+ Fa-house-damage; U+f6f1
+ Fa-hryvnia; U+f6f2
+ Fa-i-cursor; U+f246
+ Fa-icicles; U+f7ad
+ Fa-id-badge; U+f2c1
+ Fa-id-card; U+f2c2
+ Fa-id-card-alt; U+f47f
+ Fa-igloo; U+f7ae
+ Fa-image; U+f03e
+ Fa-images; U+f302
+ Fa-inbox; U+f01c
+ Fa-indent; U+f03c
+ Fa-industry; U+f275
+ Fa-infinity; U+f534
+ Fa-info; U+f129
+ Fa-info-circle; U+f05a
+ Fa-italic; U+f033
+ Fa-jedi; U+f669
+ Fa-joint; U+f595
+ Fa-journal-whills; U+f66a
+ Fa-kaaba; U+f66b
+ Fa-key; U+f084
+ Fa-keyboard; U+f11c
+ Fa-khanda; U+f66d
+ Fa-kiss; U+f596
+ Fa-kiss-beam; U+f597
+ Fa-kiss-wink-heart; U+f598
+ Fa-kiwi-bird; U+f535
+ Fa-landmark; U+f66f
+ Fa-language; U+f1ab
+ Fa-laptop; U+f109
+ Fa-laptop-code; U+f5fc
+ Fa-laugh; U+f599
+ Fa-laugh-beam; U+f59a
+ Fa-laugh-squint; U+f59b
+ Fa-laugh-wink; U+f59c
+ Fa-layer-group; U+f5fd
+ Fa-leaf; U+f06c
+ Fa-lemon; U+f094
+ Fa-less-than; U+f536
+ Fa-less-than-equal; U+f537
+ Fa-level-down-alt; U+f3be
+ Fa-level-up-alt; U+f3bf
+ Fa-life-ring; U+f1cd
+ Fa-lightbulb; U+f0eb
+ Fa-link; U+f0c1
+ Fa-lira-sign; U+f195
+ Fa-list; U+f03a
+ Fa-list-alt; U+f022
+ Fa-list-ol; U+f0cb
+ Fa-list-ul; U+f0ca
+ Fa-location-arrow; U+f124
+ Fa-lock; U+f023
+ Fa-lock-open; U+f3c1
+ Fa-long-arrow-alt-down; U+f309
+ Fa-long-arrow-alt-left; U+f30a
+ Fa-long-arrow-alt-right; U+f30b
+ Fa-long-arrow-alt-up; U+f30c
+ Fa-low-vision; U+f2a8
+ Fa-luggage-cart; U+f59d
+ Fa-magic; U+f0d0
+ Fa-magnet; U+f076
+ Fa-mail-bulk; U+f674
+ Fa-male; U+f183
+ Fa-map; U+f279
+ Fa-map-marked; U+f59f
+ Fa-map-marked-alt; U+f5a0
+ Fa-map-marker; U+f041
+ Fa-map-marker-alt; U+f3c5
+ Fa-map-pin; U+f276
+ Fa-map-signs; U+f277
+ Fa-marker; U+f5a1
+ Fa-mars; U+f222
+ Fa-mars-double; U+f227
+ Fa-mars-stroke; U+f229
+ Fa-mars-stroke-h; U+f22b
+ Fa-mars-stroke-v; U+f22a
+ Fa-mask; U+f6fa
+ Fa-medal; U+f5a2
+ Fa-medkit; U+f0fa
+ Fa-meh; U+f11a
+ Fa-meh-blank; U+f5a4
+ Fa-meh-rolling-eyes; U+f5a5
+ Fa-memory; U+f538
+ Fa-menorah; U+f676
+ Fa-mercury; U+f223
+ Fa-meteor; U+f753
+ Fa-microchip; U+f2db
+ Fa-microphone; U+f130
+ Fa-microphone-alt; U+f3c9
+ Fa-microphone-alt-slash; U+f539
+ Fa-microphone-slash; U+f131
+ Fa-microscope; U+f610
+ Fa-minus; U+f068
+ Fa-minus-circle; U+f056
+ Fa-minus-square; U+f146
+ Fa-mitten; U+f7b5
+ Fa-mobile; U+f10b
+ Fa-mobile-alt; U+f3cd
+ Fa-money-bill; U+f0d6
+ Fa-money-bill-alt; U+f3d1
+ Fa-money-bill-wave; U+f53a
+ Fa-money-bill-wave-alt; U+f53b
+ Fa-money-check; U+f53c
+ Fa-money-check-alt; U+f53d
+ Fa-monument; U+f5a6
+ Fa-moon; U+f186
+ Fa-mortar-pestle; U+f5a7
+ Fa-mosque; U+f678
+ Fa-motorcycle; U+f21c
+ Fa-mountain; U+f6fc
+ Fa-mouse-pointer; U+f245
+ Fa-mug-hot; U+f7b6
+ Fa-music; U+f001
+ Fa-network-wired; U+f6ff
+ Fa-neuter; U+f22c
+ Fa-newspaper; U+f1ea
+ Fa-not-equal; U+f53e
+ Fa-notes-medical; U+f481
+ Fa-object-group; U+f247
+ Fa-object-ungroup; U+f248
+ Fa-oil-can; U+f613
+ Fa-om; U+f679
+ Fa-otter; U+f700
+ Fa-outdent; U+f03b
+ Fa-paint-brush; U+f1fc
+ Fa-paint-roller; U+f5aa
+ Fa-palette; U+f53f
+ Fa-pallet; U+f482
+ Fa-paper-plane; U+f1d8
+ Fa-paperclip; U+f0c6
+ Fa-parachute-box; U+f4cd
+ Fa-paragraph; U+f1dd
+ Fa-parking; U+f540
+ Fa-passport; U+f5ab
+ Fa-pastafarianism; U+f67b
+ Fa-paste; U+f0ea
+ Fa-pause; U+f04c
+ Fa-pause-circle; U+f28b
+ Fa-paw; U+f1b0
+ Fa-peace; U+f67c
+ Fa-pen; U+f304
+ Fa-pen-alt; U+f305
+ Fa-pen-fancy; U+f5ac
+ Fa-pen-nib; U+f5ad
+ Fa-pen-square; U+f14b
+ Fa-pencil-alt; U+f303
+ Fa-pencil-ruler; U+f5ae
+ Fa-people-carry; U+f4ce
+ Fa-percent; U+f295
+ Fa-percentage; U+f541
+ Fa-person-booth; U+f756
+ Fa-phone; U+f095
+ Fa-phone-slash; U+f3dd
+ Fa-phone-square; U+f098
+ Fa-phone-volume; U+f2a0
+ Fa-piggy-bank; U+f4d3
+ Fa-pills; U+f484
+ Fa-place-of-worship; U+f67f
+ Fa-plane; U+f072
+ Fa-plane-arrival; U+f5af
+ Fa-plane-departure; U+f5b0
+ Fa-play; U+f04b
+ Fa-play-circle; U+f144
+ Fa-plug; U+f1e6
+ Fa-plus; U+f067
+ Fa-plus-circle; U+f055
+ Fa-plus-square; U+f0fe
+ Fa-podcast; U+f2ce
+ Fa-poll; U+f681
+ Fa-poll-h; U+f682
+ Fa-poo; U+f2fe
+ Fa-poo-storm; U+f75a
+ Fa-poop; U+f619
+ Fa-portrait; U+f3e0
+ Fa-pound-sign; U+f154
+ Fa-power-off; U+f011
+ Fa-pray; U+f683
+ Fa-praying-hands; U+f684
+ Fa-prescription; U+f5b1
+ Fa-prescription-bottle; U+f485
+ Fa-prescription-bottle-alt; U+f486
+ Fa-print; U+f02f
+ Fa-procedures; U+f487
+ Fa-project-diagram; U+f542
+ Fa-puzzle-piece; U+f12e
+ Fa-qrcode; U+f029
+ Fa-question; U+f128
+ Fa-question-circle; U+f059
+ Fa-quidditch; U+f458
+ Fa-quote-left; U+f10d
+ Fa-quote-right; U+f10e
+ Fa-quran; U+f687
+ Fa-radiation; U+f7b9
+ Fa-radiation-alt; U+f7ba
+ Fa-rainbow; U+f75b
+ Fa-random; U+f074
+ Fa-receipt; U+f543
+ Fa-recycle; U+f1b8
+ Fa-redo; U+f01e
+ Fa-redo-alt; U+f2f9
+ Fa-registered; U+f25d
+ Fa-reply; U+f3e5
+ Fa-reply-all; U+f122
+ Fa-republican; U+f75e
+ Fa-restroom; U+f7bd
+ Fa-retweet; U+f079
+ Fa-ribbon; U+f4d6
+ Fa-ring; U+f70b
+ Fa-road; U+f018
+ Fa-robot; U+f544
+ Fa-rocket; U+f135
+ Fa-route; U+f4d7
+ Fa-rss; U+f09e
+ Fa-rss-square; U+f143
+ Fa-ruble-sign; U+f158
+ Fa-ruler; U+f545
+ Fa-ruler-combined; U+f546
+ Fa-ruler-horizontal; U+f547
+ Fa-ruler-vertical; U+f548
+ Fa-running; U+f70c
+ Fa-rupee-sign; U+f156
+ Fa-sad-cry; U+f5b3
+ Fa-sad-tear; U+f5b4
+ Fa-satellite; U+f7bf
+ Fa-satellite-dish; U+f7c0
+ Fa-save; U+f0c7
+ Fa-school; U+f549
+ Fa-screwdriver; U+f54a
+ Fa-scroll; U+f70e
+ Fa-sd-card; U+f7c2
+ Fa-search; U+f002
+ Fa-search-dollar; U+f688
+ Fa-search-location; U+f689
+ Fa-search-minus; U+f010
+ Fa-search-plus; U+f00e
+ Fa-seedling; U+f4d8
+ Fa-server; U+f233
+ Fa-shapes; U+f61f
+ Fa-share; U+f064
+ Fa-share-alt; U+f1e0
+ Fa-share-alt-square; U+f1e1
+ Fa-share-square; U+f14d
+ Fa-shekel-sign; U+f20b
+ Fa-shield-alt; U+f3ed
+ Fa-ship; U+f21a
+ Fa-shipping-fast; U+f48b
+ Fa-shoe-prints; U+f54b
+ Fa-shopping-bag; U+f290
+ Fa-shopping-basket; U+f291
+ Fa-shopping-cart; U+f07a
+ Fa-shower; U+f2cc
+ Fa-shuttle-van; U+f5b6
+ Fa-sign; U+f4d9
+ Fa-sign-in-alt; U+f2f6
+ Fa-sign-language; U+f2a7
+ Fa-sign-out-alt; U+f2f5
+ Fa-signal; U+f012
+ Fa-signature; U+f5b7
+ Fa-sim-card; U+f7c4
+ Fa-sitemap; U+f0e8
+ Fa-skating; U+f7c5
+ Fa-skiing; U+f7c9
+ Fa-skiing-nordic; U+f7ca
+ Fa-skull; U+f54c
+ Fa-skull-crossbones; U+f714
+ Fa-slash; U+f715
+ Fa-sleigh; U+f7cc
+ Fa-sliders-h; U+f1de
+ Fa-smile; U+f118
+ Fa-smile-beam; U+f5b8
+ Fa-smile-wink; U+f4da
+ Fa-smog; U+f75f
+ Fa-smoking; U+f48d
+ Fa-smoking-ban; U+f54d
+ Fa-sms; U+f7cd
+ Fa-snowboarding; U+f7ce
+ Fa-snowflake; U+f2dc
+ Fa-snowman; U+f7d0
+ Fa-snowplow; U+f7d2
+ Fa-socks; U+f696
+ Fa-solar-panel; U+f5ba
+ Fa-sort; U+f0dc
+ Fa-sort-alpha-down; U+f15d
+ Fa-sort-alpha-up; U+f15e
+ Fa-sort-amount-down; U+f160
+ Fa-sort-amount-up; U+f161
+ Fa-sort-down; U+f0dd
+ Fa-sort-numeric-down; U+f162
+ Fa-sort-numeric-up; U+f163
+ Fa-sort-up; U+f0de
+ Fa-spa; U+f5bb
+ Fa-space-shuttle; U+f197
+ Fa-spider; U+f717
+ Fa-spinner; U+f110
+ Fa-splotch; U+f5bc
+ Fa-spray-can; U+f5bd
+ Fa-square; U+f0c8
+ Fa-square-full; U+f45c
+ Fa-square-root-alt; U+f698
+ Fa-stamp; U+f5bf
+ Fa-star; U+f005
+ Fa-star-and-crescent; U+f699
+ Fa-star-half; U+f089
+ Fa-star-half-alt; U+f5c0
+ Fa-star-of-david; U+f69a
+ Fa-star-of-life; U+f621
+ Fa-step-backward; U+f048
+ Fa-step-forward; U+f051
+ Fa-stethoscope; U+f0f1
+ Fa-sticky-note; U+f249
+ Fa-stop; U+f04d
+ Fa-stop-circle; U+f28d
+ Fa-stopwatch; U+f2f2
+ Fa-store; U+f54e
+ Fa-store-alt; U+f54f
+ Fa-stream; U+f550
+ Fa-street-view; U+f21d
+ Fa-strikethrough; U+f0cc
+ Fa-stroopwafel; U+f551
+ Fa-subscript; U+f12c
+ Fa-subway; U+f239
+ Fa-suitcase; U+f0f2
+ Fa-suitcase-rolling; U+f5c1
+ Fa-sun; U+f185
+ Fa-superscript; U+f12b
+ Fa-surprise; U+f5c2
+ Fa-swatchbook; U+f5c3
+ Fa-swimmer; U+f5c4
+ Fa-swimming-pool; U+f5c5
+ Fa-synagogue; U+f69b
+ Fa-sync; U+f021
+ Fa-sync-alt; U+f2f1
+ Fa-syringe; U+f48e
+ Fa-table; U+f0ce
+ Fa-table-tennis; U+f45d
+ Fa-tablet; U+f10a
+ Fa-tablet-alt; U+f3fa
+ Fa-tablets; U+f490
+ Fa-tachometer-alt; U+f3fd
+ Fa-tag; U+f02b
+ Fa-tags; U+f02c
+ Fa-tape; U+f4db
+ Fa-tasks; U+f0ae
+ Fa-taxi; U+f1ba
+ Fa-teeth; U+f62e
+ Fa-teeth-open; U+f62f
+ Fa-temperature-high; U+f769
+ Fa-temperature-low; U+f76b
+ Fa-tenge; U+f7d7
+ Fa-terminal; U+f120
+ Fa-text-height; U+f034
+ Fa-text-width; U+f035
+ Fa-th; U+f00a
+ Fa-th-large; U+f009
+ Fa-th-list; U+f00b
+ Fa-theater-masks; U+f630
+ Fa-thermometer; U+f491
+ Fa-thermometer-empty; U+f2cb
+ Fa-thermometer-full; U+f2c7
+ Fa-thermometer-half; U+f2c9
+ Fa-thermometer-quarter; U+f2ca
+ Fa-thermometer-three-quarters; U+f2c8
+ Fa-thumbs-down; U+f165
+ Fa-thumbs-up; U+f164
+ Fa-thumbtack; U+f08d
+ Fa-ticket-alt; U+f3ff
+ Fa-times; U+f00d
+ Fa-times-circle; U+f057
+ Fa-tint; U+f043
+ Fa-tint-slash; U+f5c7
+ Fa-tired; U+f5c8
+ Fa-toggle-off; U+f204
+ Fa-toggle-on; U+f205
+ Fa-toilet; U+f7d8
+ Fa-toilet-paper; U+f71e
+ Fa-toolbox; U+f552
+ Fa-tools; U+f7d9
+ Fa-tooth; U+f5c9
+ Fa-torah; U+f6a0
+ Fa-torii-gate; U+f6a1
+ Fa-tractor; U+f722
+ Fa-trademark; U+f25c
+ Fa-traffic-light; U+f637
+ Fa-train; U+f238
+ Fa-tram; U+f7da
+ Fa-transgender; U+f224
+ Fa-transgender-alt; U+f225
+ Fa-trash; U+f1f8
+ Fa-trash-alt; U+f2ed
+ Fa-tree; U+f1bb
+ Fa-trophy; U+f091
+ Fa-truck; U+f0d1
+ Fa-truck-loading; U+f4de
+ Fa-truck-monster; U+f63b
+ Fa-truck-moving; U+f4df
+ Fa-truck-pickup; U+f63c
+ Fa-tshirt; U+f553
+ Fa-tty; U+f1e4
+ Fa-tv; U+f26c
+ Fa-umbrella; U+f0e9
+ Fa-umbrella-beach; U+f5ca
+ Fa-underline; U+f0cd
+ Fa-undo; U+f0e2
+ Fa-undo-alt; U+f2ea
+ Fa-universal-access; U+f29a
+ Fa-university; U+f19c
+ Fa-unlink; U+f127
+ Fa-unlock; U+f09c
+ Fa-unlock-alt; U+f13e
+ Fa-upload; U+f093
+ Fa-user; U+f007
+ Fa-user-alt; U+f406
+ Fa-user-alt-slash; U+f4fa
+ Fa-user-astronaut; U+f4fb
+ Fa-user-check; U+f4fc
+ Fa-user-circle; U+f2bd
+ Fa-user-clock; U+f4fd
+ Fa-user-cog; U+f4fe
+ Fa-user-edit; U+f4ff
+ Fa-user-friends; U+f500
+ Fa-user-graduate; U+f501
+ Fa-user-injured; U+f728
+ Fa-user-lock; U+f502
+ Fa-user-md; U+f0f0
+ Fa-user-minus; U+f503
+ Fa-user-ninja; U+f504
+ Fa-user-plus; U+f234
+ Fa-user-secret; U+f21b
+ Fa-user-shield; U+f505
+ Fa-user-slash; U+f506
+ Fa-user-tag; U+f507
+ Fa-user-tie; U+f508
+ Fa-user-times; U+f235
+ Fa-users; U+f0c0
+ Fa-users-cog; U+f509
+ Fa-utensil-spoon; U+f2e5
+ Fa-utensils; U+f2e7
+ Fa-vector-square; U+f5cb
+ Fa-venus; U+f221
+ Fa-venus-double; U+f226
+ Fa-venus-mars; U+f228
+ Fa-vial; U+f492
+ Fa-vials; U+f493
+ Fa-video; U+f03d
+ Fa-video-slash; U+f4e2
+ Fa-vihara; U+f6a7
+ Fa-volleyball-ball; U+f45f
+ Fa-volume-down; U+f027
+ Fa-volume-mute; U+f6a9
+ Fa-volume-off; U+f026
+ Fa-volume-up; U+f028
+ Fa-vote-yea; U+f772
+ Fa-vr-cardboard; U+f729
+ Fa-walking; U+f554
+ Fa-wallet; U+f555
+ Fa-warehouse; U+f494
+ Fa-water; U+f773
+ Fa-weight; U+f496
+ Fa-weight-hanging; U+f5cd
+ Fa-wheelchair; U+f193
+ Fa-wifi; U+f1eb
+ Fa-wind; U+f72e
+ Fa-window-close; U+f410
+ Fa-window-maximize; U+f2d0
+ Fa-window-minimize; U+f2d1
+ Fa-window-restore; U+f2d2
+ Fa-wine-bottle; U+f72f
+ Fa-wine-glass; U+f4e3
+ Fa-wine-glass-alt; U+f5ce
+ Fa-won-sign; U+f159
+ Fa-wrench; U+f0ad
+ Fa-x-ray; U+f497
+ Fa-yen-sign; U+f157
+ Fa-yin-yang; U+f6ad
+ Fa-address-book; U+f2b9
+ Fa-address-card; U+f2bb
+ Fa-angry; U+f556
+ Fa-arrow-alt-circle-down; U+f358
+ Fa-arrow-alt-circle-left; U+f359
+ Fa-arrow-alt-circle-right; U+f35a
+ Fa-arrow-alt-circle-up; U+f35b
+ Fa-bell; U+f0f3
+ Fa-bell-slash; U+f1f6
+ Fa-bookmark; U+f02e
+ Fa-building; U+f1ad
+ Fa-calendar; U+f133
+ Fa-calendar-alt; U+f073
+ Fa-calendar-check; U+f274
+ Fa-calendar-minus; U+f272
+ Fa-calendar-plus; U+f271
+ Fa-calendar-times; U+f273
+ Fa-caret-square-down; U+f150
+ Fa-caret-square-left; U+f191
+ Fa-caret-square-right; U+f152
+ Fa-caret-square-up; U+f151
+ Fa-chart-bar; U+f080
+ Fa-check-circle; U+f058
+ Fa-check-square; U+f14a
+ Fa-circle; U+f111
+ Fa-clipboard; U+f328
+ Fa-clock; U+f017
+ Fa-clone; U+f24d
+ Fa-closed-captioning; U+f20a
+ Fa-comment; U+f075
+ Fa-comment-alt; U+f27a
+ Fa-comment-dots; U+f4ad
+ Fa-comments; U+f086
+ Fa-compass; U+f14e
+ Fa-copy; U+f0c5
+ Fa-copyright; U+f1f9
+ Fa-credit-card; U+f09d
+ Fa-dizzy; U+f567
+ Fa-dot-circle; U+f192
+ Fa-edit; U+f044
+ Fa-envelope; U+f0e0
+ Fa-envelope-open; U+f2b6
+ Fa-eye; U+f06e
+ Fa-eye-slash; U+f070
+ Fa-file; U+f15b
+ Fa-file-alt; U+f15c
+ Fa-file-archive; U+f1c6
+ Fa-file-audio; U+f1c7
+ Fa-file-code; U+f1c9
+ Fa-file-excel; U+f1c3
+ Fa-file-image; U+f1c5
+ Fa-file-pdf; U+f1c1
+ Fa-file-powerpoint; U+f1c4
+ Fa-file-video; U+f1c8
+ Fa-file-word; U+f1c2
+ Fa-flag; U+f024
+ Fa-flushed; U+f579
+ Fa-folder; U+f07b
+ Fa-folder-open; U+f07c
+ Fa-font-awesome-logo-full; U+f4e6
+ Fa-frown; U+f119
+ Fa-frown-open; U+f57a
+ Fa-futbol; U+f1e3
+ Fa-gem; U+f3a5
+ Fa-grimace; U+f57f
+ Fa-grin; U+f580
+ Fa-grin-alt; U+f581
+ Fa-grin-beam; U+f582
+ Fa-grin-beam-sweat; U+f583
+ Fa-grin-hearts; U+f584
+ Fa-grin-squint; U+f585
+ Fa-grin-squint-tears; U+f586
+ Fa-grin-stars; U+f587
+ Fa-grin-tears; U+f588
+ Fa-grin-tongue; U+f589
+ Fa-grin-tongue-squint; U+f58a
+ Fa-grin-tongue-wink; U+f58b
+ Fa-grin-wink; U+f58c
+ Fa-hand-lizard; U+f258
+ Fa-hand-paper; U+f256
+ Fa-hand-peace; U+f25b
+ Fa-hand-point-down; U+f0a7
+ Fa-hand-point-left; U+f0a5
+ Fa-hand-point-right; U+f0a4
+ Fa-hand-point-up; U+f0a6
+ Fa-hand-pointer; U+f25a
+ Fa-hand-rock; U+f255
+ Fa-hand-scissors; U+f257
+ Fa-hand-spock; U+f259
+ Fa-handshake; U+f2b5
+ Fa-hdd; U+f0a0
+ Fa-heart; U+f004
+ Fa-hospital; U+f0f8
+ Fa-hourglass; U+f254
+ Fa-id-badge; U+f2c1
+ Fa-id-card; U+f2c2
+ Fa-image; U+f03e
+ Fa-images; U+f302
+ Fa-keyboard; U+f11c
+ Fa-kiss; U+f596
+ Fa-kiss-beam; U+f597
+ Fa-kiss-wink-heart; U+f598
+ Fa-laugh; U+f599
+ Fa-laugh-beam; U+f59a
+ Fa-laugh-squint; U+f59b
+ Fa-laugh-wink; U+f59c
+ Fa-lemon; U+f094
+ Fa-life-ring; U+f1cd
+ Fa-lightbulb; U+f0eb
+ Fa-list-alt; U+f022
+ Fa-map; U+f279
+ Fa-meh; U+f11a
+ Fa-meh-blank; U+f5a4
+ Fa-meh-rolling-eyes; U+f5a5
+ Fa-minus-square; U+f146
+ Fa-money-bill-alt; U+f3d1
+ Fa-moon; U+f186
+ Fa-newspaper; U+f1ea
+ Fa-object-group; U+f247
+ Fa-object-ungroup; U+f248
+ Fa-paper-plane; U+f1d8
+ Fa-pause-circle; U+f28b
+ Fa-play-circle; U+f144
+ Fa-plus-square; U+f0fe
+ Fa-question-circle; U+f059
+ Fa-registered; U+f25d
+ Fa-sad-cry; U+f5b3
+ Fa-sad-tear; U+f5b4
+ Fa-save; U+f0c7
+ Fa-share-square; U+f14d
+ Fa-smile; U+f118
+ Fa-smile-beam; U+f5b8
+ Fa-smile-wink; U+f4da
+ Fa-snowflake; U+f2dc
+ Fa-square; U+f0c8
+ Fa-star; U+f005
+ Fa-star-half; U+f089
+ Fa-sticky-note; U+f249
+ Fa-stop-circle; U+f28d
+ Fa-sun; U+f185
+ Fa-surprise; U+f5c2
+ Fa-thumbs-down; U+f165
+ Fa-thumbs-up; U+f164
+ Fa-times-circle; U+f057
+ Fa-tired; U+f5c8
+ Fa-trash-alt; U+f2ed
+ Fa-user; U+f007
+ Fa-user-circle; U+f2bd
+ Fa-window-close; U+f410
+ Fa-window-maximize; U+f2d0
+ Fa-window-minimize; U+f2d1
+ Fa-window-restore; U+f2d2
+ Fa-500px; U+f26e
+ Fa-accessible-icon; U+f368
+ Fa-accusoft; U+f369
+ Fa-acquisitions-incorporated; U+f6af
+ Fa-adn; U+f170
+ Fa-adobe; U+f778
+ Fa-adversal; U+f36a
+ Fa-affiliatetheme; U+f36b
+ Fa-algolia; U+f36c
+ Fa-alipay; U+f642
+ Fa-amazon; U+f270
+ Fa-amazon-pay; U+f42c
+ Fa-amilia; U+f36d
+ Fa-android; U+f17b
+ Fa-angellist; U+f209
+ Fa-angrycreative; U+f36e
+ Fa-angular; U+f420
+ Fa-app-store; U+f36f
+ Fa-app-store-ios; U+f370
+ Fa-apper; U+f371
+ Fa-apple; U+f179
+ Fa-apple-pay; U+f415
+ Fa-artstation; U+f77a
+ Fa-asymmetrik; U+f372
+ Fa-atlassian; U+f77b
+ Fa-audible; U+f373
+ Fa-autoprefixer; U+f41c
+ Fa-avianex; U+f374
+ Fa-aviato; U+f421
+ Fa-aws; U+f375
+ Fa-bandcamp; U+f2d5
+ Fa-behance; U+f1b4
+ Fa-behance-square; U+f1b5
+ Fa-bimobject; U+f378
+ Fa-bitbucket; U+f171
+ Fa-bitcoin; U+f379
+ Fa-bity; U+f37a
+ Fa-black-tie; U+f27e
+ Fa-blackberry; U+f37b
+ Fa-blogger; U+f37c
+ Fa-blogger-b; U+f37d
+ Fa-bluetooth; U+f293
+ Fa-bluetooth-b; U+f294
+ Fa-btc; U+f15a
+ Fa-buromobelexperte; U+f37f
+ Fa-buysellads; U+f20d
+ Fa-canadian-maple-leaf; U+f785
+ Fa-cc-amazon-pay; U+f42d
+ Fa-cc-amex; U+f1f3
+ Fa-cc-apple-pay; U+f416
+ Fa-cc-diners-club; U+f24c
+ Fa-cc-discover; U+f1f2
+ Fa-cc-jcb; U+f24b
+ Fa-cc-mastercard; U+f1f1
+ Fa-cc-paypal; U+f1f4
+ Fa-cc-stripe; U+f1f5
+ Fa-cc-visa; U+f1f0
+ Fa-centercode; U+f380
+ Fa-centos; U+f789
+ Fa-chrome; U+f268
+ Fa-cloudscale; U+f383
+ Fa-cloudsmith; U+f384
+ Fa-cloudversify; U+f385
+ Fa-codepen; U+f1cb
+ Fa-codiepie; U+f284
+ Fa-confluence; U+f78d
+ Fa-connectdevelop; U+f20e
+ Fa-contao; U+f26d
+ Fa-cpanel; U+f388
+ Fa-creative-commons; U+f25e
+ Fa-creative-commons-by; U+f4e7
+ Fa-creative-commons-nc; U+f4e8
+ Fa-creative-commons-nc-eu; U+f4e9
+ Fa-creative-commons-nc-jp; U+f4ea
+ Fa-creative-commons-nd; U+f4eb
+ Fa-creative-commons-pd; U+f4ec
+ Fa-creative-commons-pd-alt; U+f4ed
+ Fa-creative-commons-remix; U+f4ee
+ Fa-creative-commons-sa; U+f4ef
+ Fa-creative-commons-sampling; U+f4f0
+ Fa-creative-commons-sampling-plus; U+f4f1
+ Fa-creative-commons-share; U+f4f2
+ Fa-creative-commons-zero; U+f4f3
+ Fa-critical-role; U+f6c9
+ Fa-css3; U+f13c
+ Fa-css3-alt; U+f38b
+ Fa-cuttlefish; U+f38c
+ Fa-d-and-d; U+f38d
+ Fa-d-and-d-beyond; U+f6ca
+ Fa-dashcube; U+f210
+ Fa-delicious; U+f1a5
+ Fa-deploydog; U+f38e
+ Fa-deskpro; U+f38f
+ Fa-dev; U+f6cc
+ Fa-deviantart; U+f1bd
+ Fa-dhl; U+f790
+ Fa-diaspora; U+f791
+ Fa-digg; U+f1a6
+ Fa-digital-ocean; U+f391
+ Fa-discord; U+f392
+ Fa-discourse; U+f393
+ Fa-dochub; U+f394
+ Fa-docker; U+f395
+ Fa-draft2digital; U+f396
+ Fa-dribbble; U+f17d
+ Fa-dribbble-square; U+f397
+ Fa-dropbox; U+f16b
+ Fa-drupal; U+f1a9
+ Fa-dyalog; U+f399
+ Fa-earlybirds; U+f39a
+ Fa-ebay; U+f4f4
+ Fa-edge; U+f282
+ Fa-elementor; U+f430
+ Fa-ello; U+f5f1
+ Fa-ember; U+f423
+ Fa-empire; U+f1d1
+ Fa-envira; U+f299
+ Fa-erlang; U+f39d
+ Fa-ethereum; U+f42e
+ Fa-etsy; U+f2d7
+ Fa-expeditedssl; U+f23e
+ Fa-facebook; U+f09a
+ Fa-facebook-f; U+f39e
+ Fa-facebook-messenger; U+f39f
+ Fa-facebook-square; U+f082
+ Fa-fantasy-flight-games; U+f6dc
+ Fa-fedex; U+f797
+ Fa-fedora; U+f798
+ Fa-figma; U+f799
+ Fa-firefox; U+f269
+ Fa-first-order; U+f2b0
+ Fa-first-order-alt; U+f50a
+ Fa-firstdraft; U+f3a1
+ Fa-flickr; U+f16e
+ Fa-flipboard; U+f44d
+ Fa-fly; U+f417
+ Fa-font-awesome; U+f2b4
+ Fa-font-awesome-alt; U+f35c
+ Fa-font-awesome-flag; U+f425
+ Fa-font-awesome-logo-full; U+f4e6
+ Fa-fonticons; U+f280
+ Fa-fonticons-fi; U+f3a2
+ Fa-fort-awesome; U+f286
+ Fa-fort-awesome-alt; U+f3a3
+ Fa-forumbee; U+f211
+ Fa-foursquare; U+f180
+ Fa-free-code-camp; U+f2c5
+ Fa-freebsd; U+f3a4
+ Fa-fulcrum; U+f50b
+ Fa-galactic-republic; U+f50c
+ Fa-galactic-senate; U+f50d
+ Fa-get-pocket; U+f265
+ Fa-gg; U+f260
+ Fa-gg-circle; U+f261
+ Fa-git; U+f1d3
+ Fa-git-square; U+f1d2
+ Fa-github; U+f09b
+ Fa-github-alt; U+f113
+ Fa-github-square; U+f092
+ Fa-gitkraken; U+f3a6
+ Fa-gitlab; U+f296
+ Fa-gitter; U+f426
+ Fa-glide; U+f2a5
+ Fa-glide-g; U+f2a6
+ Fa-gofore; U+f3a7
+ Fa-goodreads; U+f3a8
+ Fa-goodreads-g; U+f3a9
+ Fa-google; U+f1a0
+ Fa-google-drive; U+f3aa
+ Fa-google-play; U+f3ab
+ Fa-google-plus; U+f2b3
+ Fa-google-plus-g; U+f0d5
+ Fa-google-plus-square; U+f0d4
+ Fa-google-wallet; U+f1ee
+ Fa-gratipay; U+f184
+ Fa-grav; U+f2d6
+ Fa-gripfire; U+f3ac
+ Fa-grunt; U+f3ad
+ Fa-gulp; U+f3ae
+ Fa-hacker-news; U+f1d4
+ Fa-hacker-news-square; U+f3af
+ Fa-hackerrank; U+f5f7
+ Fa-hips; U+f452
+ Fa-hire-a-helper; U+f3b0
+ Fa-hooli; U+f427
+ Fa-hornbill; U+f592
+ Fa-hotjar; U+f3b1
+ Fa-houzz; U+f27c
+ Fa-html5; U+f13b
+ Fa-hubspot; U+f3b2
+ Fa-imdb; U+f2d8
+ Fa-instagram; U+f16d
+ Fa-intercom; U+f7af
+ Fa-internet-explorer; U+f26b
+ Fa-invision; U+f7b0
+ Fa-ioxhost; U+f208
+ Fa-itunes; U+f3b4
+ Fa-itunes-note; U+f3b5
+ Fa-java; U+f4e4
+ Fa-jedi-order; U+f50e
+ Fa-jenkins; U+f3b6
+ Fa-jira; U+f7b1
+ Fa-joget; U+f3b7
+ Fa-joomla; U+f1aa
+ Fa-js; U+f3b8
+ Fa-js-square; U+f3b9
+ Fa-jsfiddle; U+f1cc
+ Fa-kaggle; U+f5fa
+ Fa-keybase; U+f4f5
+ Fa-keycdn; U+f3ba
+ Fa-kickstarter; U+f3bb
+ Fa-kickstarter-k; U+f3bc
+ Fa-korvue; U+f42f
+ Fa-laravel; U+f3bd
+ Fa-lastfm; U+f202
+ Fa-lastfm-square; U+f203
+ Fa-leanpub; U+f212
+ Fa-less; U+f41d
+ Fa-line; U+f3c0
+ Fa-linkedin; U+f08c
+ Fa-linkedin-in; U+f0e1
+ Fa-linode; U+f2b8
+ Fa-linux; U+f17c
+ Fa-lyft; U+f3c3
+ Fa-magento; U+f3c4
+ Fa-mailchimp; U+f59e
+ Fa-mandalorian; U+f50f
+ Fa-markdown; U+f60f
+ Fa-mastodon; U+f4f6
+ Fa-maxcdn; U+f136
+ Fa-medapps; U+f3c6
+ Fa-medium; U+f23a
+ Fa-medium-m; U+f3c7
+ Fa-medrt; U+f3c8
+ Fa-meetup; U+f2e0
+ Fa-megaport; U+f5a3
+ Fa-mendeley; U+f7b3
+ Fa-microsoft; U+f3ca
+ Fa-mix; U+f3cb
+ Fa-mixcloud; U+f289
+ Fa-mizuni; U+f3cc
+ Fa-modx; U+f285
+ Fa-monero; U+f3d0
+ Fa-napster; U+f3d2
+ Fa-neos; U+f612
+ Fa-nimblr; U+f5a8
+ Fa-nintendo-switch; U+f418
+ Fa-node; U+f419
+ Fa-node-js; U+f3d3
+ Fa-npm; U+f3d4
+ Fa-ns8; U+f3d5
+ Fa-nutritionix; U+f3d6
+ Fa-odnoklassniki; U+f263
+ Fa-odnoklassniki-square; U+f264
+ Fa-old-republic; U+f510
+ Fa-opencart; U+f23d
+ Fa-openid; U+f19b
+ Fa-opera; U+f26a
+ Fa-optin-monster; U+f23c
+ Fa-osi; U+f41a
+ Fa-page4; U+f3d7
+ Fa-pagelines; U+f18c
+ Fa-palfed; U+f3d8
+ Fa-patreon; U+f3d9
+ Fa-paypal; U+f1ed
+ Fa-penny-arcade; U+f704
+ Fa-periscope; U+f3da
+ Fa-phabricator; U+f3db
+ Fa-phoenix-framework; U+f3dc
+ Fa-phoenix-squadron; U+f511
+ Fa-php; U+f457
+ Fa-pied-piper; U+f2ae
+ Fa-pied-piper-alt; U+f1a8
+ Fa-pied-piper-hat; U+f4e5
+ Fa-pied-piper-pp; U+f1a7
+ Fa-pinterest; U+f0d2
+ Fa-pinterest-p; U+f231
+ Fa-pinterest-square; U+f0d3
+ Fa-playstation; U+f3df
+ Fa-product-hunt; U+f288
+ Fa-pushed; U+f3e1
+ Fa-python; U+f3e2
+ Fa-qq; U+f1d6
+ Fa-quinscape; U+f459
+ Fa-quora; U+f2c4
+ Fa-r-project; U+f4f7
+ Fa-raspberry-pi; U+f7bb
+ Fa-ravelry; U+f2d9
+ Fa-react; U+f41b
+ Fa-reacteurope; U+f75d
+ Fa-readme; U+f4d5
+ Fa-rebel; U+f1d0
+ Fa-red-river; U+f3e3
+ Fa-reddit; U+f1a1
+ Fa-reddit-alien; U+f281
+ Fa-reddit-square; U+f1a2
+ Fa-redhat; U+f7bc
+ Fa-renren; U+f18b
+ Fa-replyd; U+f3e6
+ Fa-researchgate; U+f4f8
+ Fa-resolving; U+f3e7
+ Fa-rev; U+f5b2
+ Fa-rocketchat; U+f3e8
+ Fa-rockrms; U+f3e9
+ Fa-safari; U+f267
+ Fa-sass; U+f41e
+ Fa-schlix; U+f3ea
+ Fa-scribd; U+f28a
+ Fa-searchengin; U+f3eb
+ Fa-sellcast; U+f2da
+ Fa-sellsy; U+f213
+ Fa-servicestack; U+f3ec
+ Fa-shirtsinbulk; U+f214
+ Fa-shopware; U+f5b5
+ Fa-simplybuilt; U+f215
+ Fa-sistrix; U+f3ee
+ Fa-sith; U+f512
+ Fa-sketch; U+f7c6
+ Fa-skyatlas; U+f216
+ Fa-skype; U+f17e
+ Fa-slack; U+f198
+ Fa-slack-hash; U+f3ef
+ Fa-slideshare; U+f1e7
+ Fa-snapchat; U+f2ab
+ Fa-snapchat-ghost; U+f2ac
+ Fa-snapchat-square; U+f2ad
+ Fa-soundcloud; U+f1be
+ Fa-sourcetree; U+f7d3
+ Fa-speakap; U+f3f3
+ Fa-spotify; U+f1bc
+ Fa-squarespace; U+f5be
+ Fa-stack-exchange; U+f18d
+ Fa-stack-overflow; U+f16c
+ Fa-staylinked; U+f3f5
+ Fa-steam; U+f1b6
+ Fa-steam-square; U+f1b7
+ Fa-steam-symbol; U+f3f6
+ Fa-sticker-mule; U+f3f7
+ Fa-strava; U+f428
+ Fa-stripe; U+f429
+ Fa-stripe-s; U+f42a
+ Fa-studiovinari; U+f3f8
+ Fa-stumbleupon; U+f1a4
+ Fa-stumbleupon-circle; U+f1a3
+ Fa-superpowers; U+f2dd
+ Fa-supple; U+f3f9
+ Fa-suse; U+f7d6
+ Fa-teamspeak; U+f4f9
+ Fa-telegram; U+f2c6
+ Fa-telegram-plane; U+f3fe
+ Fa-tencent-weibo; U+f1d5
+ Fa-the-red-yeti; U+f69d
+ Fa-themeco; U+f5c6
+ Fa-themeisle; U+f2b2
+ Fa-think-peaks; U+f731
+ Fa-trade-federation; U+f513
+ Fa-trello; U+f181
+ Fa-tripadvisor; U+f262
+ Fa-tumblr; U+f173
+ Fa-tumblr-square; U+f174
+ Fa-twitch; U+f1e8
+ Fa-twitter; U+f099
+ Fa-twitter-square; U+f081
+ Fa-typo3; U+f42b
+ Fa-uber; U+f402
+ Fa-ubuntu; U+f7df
+ Fa-uikit; U+f403
+ Fa-uniregistry; U+f404
+ Fa-untappd; U+f405
+ Fa-ups; U+f7e0
+ Fa-usb; U+f287
+ Fa-usps; U+f7e1
+ Fa-ussunnah; U+f407
+ Fa-vaadin; U+f408
+ Fa-viacoin; U+f237
+ Fa-viadeo; U+f2a9
+ Fa-viadeo-square; U+f2aa
+ Fa-viber; U+f409
+ Fa-vimeo; U+f40a
+ Fa-vimeo-square; U+f194
+ Fa-vimeo-v; U+f27d
+ Fa-vine; U+f1ca
+ Fa-vk; U+f189
+ Fa-vnv; U+f40b
+ Fa-vuejs; U+f41f
+ Fa-weebly; U+f5cc
+ Fa-weibo; U+f18a
+ Fa-weixin; U+f1d7
+ Fa-whatsapp; U+f232
+ Fa-whatsapp-square; U+f40c
+ Fa-whmcs; U+f40d
+ Fa-wikipedia-w; U+f266
+ Fa-windows; U+f17a
+ Fa-wix; U+f5cf
+ Fa-wizards-of-the-coast; U+f730
+ Fa-wolf-pack-battalion; U+f514
+ Fa-wordpress; U+f19a
+ Fa-wordpress-simple; U+f411
+ Fa-wpbeginner; U+f297
+ Fa-wpexplorer; U+f2de
+ Fa-wpforms; U+f298
+ Fa-wpressr; U+f3e4
+ Fa-xbox; U+f412
+ Fa-xing; U+f168
+ Fa-xing-square; U+f169
+ Fa-y-combinator; U+f23b
+ Fa-yahoo; U+f19e
+ Fa-yandex; U+f413
+ Fa-yandex-international; U+f414
+ Fa-yarn; U+f7e3
+ Fa-yelp; U+f1e9
+ Fa-yoast; U+f2b1
+ Fa-youtube; U+f167
+ Fa-youtube-square; U+f431
+ Fa-zhihu; U+f63f

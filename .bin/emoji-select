@@ -1,0 +1,26 @@
+#!/bin/sh
+
+emoji="$(cut -d ';' -f1 ~/.local/share/emoji.txt \
+    | dmenu -i -p Emoji \
+    | sed 's/ .*//')"
+
+[ -z "$emoji" ] && exit
+
+cat > /tmp/emoji.svg <<- XML
+<svg viewbox="0 0 512 512"
+     width="512" height="512"
+     xmlns="http://www.w3.org/2000/svg">
+    <style>
+        text {
+            font-size: 420px;
+            font-family: 'Noto Color Emoji';
+        }
+    </style>
+    <text x="0" y="400" >$emoji</text>
+</svg>
+XML
+
+echo "$emoji" | tr -d "\n" | xclip -sel clip
+dunstify -I /tmp/emoji.svg \
+    "Emoji" "Copied to clipboard."
+
