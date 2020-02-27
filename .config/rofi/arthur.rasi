@@ -71,9 +71,9 @@ configuration {
     transparency: "real";
     padding: 0px; //10px;
     border:  0px;
-    border-radius: 7px;
+    border-radius: 15px;
     color: @magenta;
-	width: 700px;
+	width: 1100px;
     background-color: @transparent;
     spacing: 0;
     children:  [vertb, mainbox];
@@ -99,10 +99,10 @@ configuration {
 
 #inputbar {
     color: @foreground;
-    padding: 11px;
+    padding: 18px;
     background-color: @background;
     border: 1px;
-    border-radius:  7px 7px 0px 0px;
+    border-radius:  15px 15px 0px 0px;
     border-color: @border;
     font: "Fira Code 18";
 }
@@ -111,11 +111,11 @@ configuration {
     text-color:inherit;
 }
 #prompt {
-    margin:     0px 0.3em 0em 0em ;
+    margin:     4px 0.6em 0em 0em ;
 }
 #listview {
     padding: 8px 0px;
-    border-radius: 0px 0px 7px 7px;
+    border-radius: 0px 0px 15px 15px;
     border-color: @border;
     border: 0px 1px 1px 1px;
     background-color: @background;
@@ -123,7 +123,7 @@ configuration {
     lines: 10;
 }
 #element {
-    padding: 8px;
+    padding: 12px;
     vertical-align: 0.5;
 //    border: 2px;
     border-radius: 0px;

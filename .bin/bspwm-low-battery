@@ -1,0 +1,32 @@
+#!/bin/zsh
+
+BATTS=(${(f)"$(acpi -b | awk '{ $1=$2=""; print $0 }')"})
+DISCHARGING="$(echo $BATTS[1] | grep 'Discharging')"
+
+[[ -z "$DISCHARGING" ]] && exit
+
+BAT0=$BATTS[1]
+BAT1=$BATTS[2]
+
+TIME0="$(echo $BAT0 | awk '{print $3}' | awk -F: '{ print ($1 * 3600) + ($2 * 60) + $3 }')"
+TIME1="$(echo $BAT1 | awk '{print $3}' | awk -F: '{ print ($1 * 3600) + ($2 * 60) + $3 }')"
+TIMETOT=$(( $TIME0 + $TIME1 ))
+
+PERC0="$(echo $BAT0 | awk '{print $2}' | sed 's/%,*//')"
+PERC1="$(echo $BAT1 | awk '{print $2}' | sed 's/%,*//')"
+PERCAVG=$(( ($PERC1 + $PERC0) / 2 ))
+
+echo "Batt_1: $PERC0%; Batt_2: $PERC1%"
+
+WARN_TIME=1000
+WARN_PERC=15
+echo "Time: $TIMETOT < $WARN_TIME?"
+echo "Percentage:  $PERCAVG < $WARN_PERC?"
+
+[[ -n "$DISCHARGING" ]] && echo "Discharging!"
+[[ "$TIMETOT" -lt "$WARN_TIME" ]] && echo "Below warning time!"
+
+if [[ -n "$DISCHARGING" && ("$TIMETOT" -lt "$WARN_TIME" || "$PERCAVG" -lt "$WARN_PERC") ]]; then
+	echo "Send warning notification."
+	dunstify -i ~/Pictures/.icons/warn.png "Warning: Low Battery!" "At $PERCAVG% with $(( $TIMETOT / 60 )) min left."
+fi

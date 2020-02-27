@@ -1,0 +1,14 @@
+#!/bin/sh
+
+conf="$HOME/.cache/sys-conf.json"
+
+if [ "$1" = set ]; then
+    OUT="$(jq ".$2 = \"$3\"" "$conf")"
+    echo "$OUT" > "$conf"
+elif [ "$1" = get ]; then
+    jq -r ".$2" "$conf"
+elif [ "$1" = view ]; then
+    bat --paging=never "$conf"
+else
+    echo "Unknown option '$1'."
+fi

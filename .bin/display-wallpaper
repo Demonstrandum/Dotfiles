@@ -6,5 +6,10 @@ HOME = ENV['HOME']
 WALL_CONF = HOME + '/.config/.wall-conf.json'
 CONF = JSON.parse File.read WALL_CONF
 
-%x{ cp "#{CONF['path']}/#{CONF['wallpaper']}" /usr/share/backgrounds/deepin/desktop.jpg }
+%x{ sudo rm -f /usr/share/backgrounds/deepin/desktop.jpg }
+%x{ sudo rm -f /usr/share/wallpapers/deepin/desktop.jpg }
+%x{ sudo cp "#{CONF['path']}/#{CONF['wallpaper']}" /usr/share/backgrounds/deepin/desktop.jpg }
+%x{ rm -f /usr/share/wallpapers/deepin/0A.jpg }
+%x{ ln -s /usr/share/backgrounds/deepin/desktop.jpg /usr/share/wallpapers/deepin/0A.jpg }
+%x{ ln -s /usr/share/backgrounds/deepin/desktop.jpg /usr/share/wallpapers/deepin/desktop.jpg }
 %x{ feh --bg-#{CONF['mode']} "#{CONF['path']}/#{CONF['wallpaper']}" }

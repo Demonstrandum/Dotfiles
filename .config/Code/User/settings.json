@@ -1,9 +1,0 @@
-{
-    "editor.fontFamily": "'Fira Code'",
-    "workbench.statusBar.visible": true,
-    "window.menuBarVisibility": "toggle",
-    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
-    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
-    "python.linting.pep8Enabled": true,
-    "window.zoomLevel": 0
-}

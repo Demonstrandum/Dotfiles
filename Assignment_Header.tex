@@ -1,0 +1,173 @@
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{varwidth}
+\usepackage{svg}
+\usepackage{tikz}
+\usetikzlibrary{calc,math}
+\usepackage{pgfplots}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{makecell}
+\usepackage{tabularx}
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\usepackage{array}
+\usepackage{amsmath,mleftright,amsthm,amsfonts,amssymb,amscd}
+\usepackage{xparse}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{accents}
+\usepackage{mathtools}
+\usepackage{mathrsfs}
+\usepackage{bbding}
+\usepackage{calligra}
+\usepackage{calrsfs}
+\usepackage{eufrak}
+\usepackage[mathscr]{euscript}
+\usepackage{parskip}
+\usepackage{enumerate}
+\usepackage{enumitem}
+%\usepackage[shortlabels]{enumitem}
+\setlength{\labelsep}{1em}
+
+\everymath{\displaystyle}
+
+\DeclareMathAlphabet{\mathcalligra}{T1}{calligra}{m}{n}
+
+\newcommand\bfit[1]{\textbf{\textit{#1}}}
+
+\newlist{questions}{enumerate}{2}
+\setlist[questions,1]{align=left,label={\bfseries\large {Question} \numero\arabic*}}
+\setlist[questions,2]{align=left,label={(\alph*)}}
+\newcommand\question[2]{\item #1\hfill[#2]\vspace{5mm}}
+
+\setlength{\jot}{10pt}
+
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}%
+\DeclarePairedDelimiter\norm{\lVert}{\rVert}%
+
+\makeatletter
+\let\oldabs\abs
+\def\abs{\@ifstar{\oldabs}{\oldabs*}}
+
+\let\oldnorm\norm
+\def\norm{\@ifstar{\oldnorm}{\oldnorm*}}
+\makeatother
+
+\newcommand{\infdiv}{D\infdivx}
+\DeclarePairedDelimiter{\enorm}{\lVert}{\rVert}
+\titleformat*{\section}{\large\bfseries}
+
+
+\geometry{
+ a4paper,
+ total={170mm,240mm},
+ left=20mm,
+ top=30mm,
+ }
+
+\date{}
+
+\NewDocumentCommand{\evalat}{sO{\big}mm}{%
+  \IfBooleanTF{#1}
+   {\mleft. #3 \mright|_{#4}}
+   {#3#2|_{#4}}%
+}
+
+\newcommand\m{\:\textrm{m}}
+\newcommand\M{\:\Big[\textrm{m}\Big]}
+\newcommand\mm{\:\textrm{mm}}
+\newcommand\MM{\:\Big[\textrm{mm}\Big]}
+\newcommand\un{\underline}
+\newcommand\s{\:\textrm{s}}
+\newcommand\bS{\:\Big[\textrm{S}\Big]}
+\newcommand\ms{\:\frac{\textrm{m}}{\textrm{s}}}
+\newcommand\MS{\:\Big[\frac{\textrm{m}}{\textrm{s}}\Big]}
+\newcommand\mss{\:\frac{\textrm{m}}{\textrm{s}^2}}
+\newcommand\MSS{\:\Big[\frac{\textrm{m}}{\textrm{s}^2}\Big]}
+
+\makeatletter
+\newcommand*\MY@leftharpoonupfill@{
+    \arrowfill@\leftharpoonup\relbar\relbar
+}
+\newcommand*\MY@rightharpoonupfill@{
+    \arrowfill@\relbar\relbar\rightharpoonup
+}
+\newcommand*\overleftharpoon{
+    \mathpalette{\overarrow@\MY@leftharpoonupfill@}
+}
+\newcommand*\overrightharpoon{
+    \mathpalette{\overarrow@\MY@rightharpoonupfill@}
+}
+
+\newcommand*\@dblsty@mathpalette[2]{
+    \mathchoice
+        {#1\displaystyle       \scriptstyle       {#2}}
+        {#1\textstyle          \scriptstyle       {#2}}
+        {#1\scriptstyle        \scriptscriptstyle {#2}}
+        {#1\scriptscriptstyle  \scriptscriptstyle {#2}}
+}
+\newcommand*\@dblsty@overarrow@[4]{
+    \vbox{\ialign{##\crcr
+        #1#3\crcr
+        \noalign{\nointerlineskip}
+        $\m@th\hfil #2#4\hfil$\crcr
+    }}
+}
+\newcommand*\smalloverleftharpoon{%
+    \@dblsty@mathpalette{\@dblsty@overarrow@\MY@leftharpoonupfill@}%
+}
+\newcommand*\smalloverrightharpoon{%
+    \@dblsty@mathpalette{\@dblsty@overarrow@\MY@rightharpoonupfill@}%
+}
+\makeatother
+\newcommand{\poon}{\overrightharpoon}
+\newcommand{\dom}{\textrm{dom\ }}
+\newcommand{\ran}{\textrm{ran\ }}
+\newcommand{\set}[1]{\left\{\,#1\,\right\}}
+\newcommand{\st}{\::\:}
+\newcommand{\Lim}[1]{\raisebox{0.5ex}{\scalebox{0.8}{$\displaystyle \lim_{#1}\;$}}}
+
+\newcommand{\super}{\textsuperscript}
+\renewcommand{\deg}{{\super$\circ$}}
+\newcommand{\numero}{N\super{\underline{o}}}
+\newcommand{\ihat}{\hat{{\imath}}}
+\newcommand{\jhat}{\hat{{\jmath}}}
+
+\newcommand{\smallerrel}[1]{\mathrel{\mathpalette\smallerrelaux{#1}}}
+\newcommand{\smallerrelaux}[2]{\raisebox{.1ex}{\scalebox{.75}{$#1#2$}}}
+
+\newcommand{\shrink}{\smallerrel}
+\newcommand{\comp}{\shrink{\circ}}
+
+\newcommand{\then}{\Rightarrow\ }
+\newcommand{\btw}[1]{\noalign{\centering\parbox{8cm}{#1}}}
+
+\pagestyle{fancyplain}
+\headheight 35pt
+\lhead{\Name\\\Neptun}
+\chead{\textsc{\Large Assignment {\numero}\hwnumber}}
+\rhead{\course \\ \today}
+\lfoot{}
+\cfoot{}
+\rfoot{\small\thepage}
+\headsep 1.5em
+
+\usepackage{fourier-orns}
+\usepackage{lmodern}
+
+\usetikzlibrary{patterns}
+
+\makeatletter
+\newcommand{\pgfplotsdrawaxis}{\pgfplots@draw@axis}
+\makeatother
+\pgfplotsset{only axis on top/.style={axis on top=false, after end axis/.code={
+             \pgfplotsset{axis line style=opaque, ticklabel style=opaque, tick style=opaque,
+                          grid=none}\pgfplotsdrawaxis}}}
+
+\newcommand{\drawge}{-- (rel axis cs:1,0) -- (rel axis cs:1,1) -- (rel axis cs:0,1) \closedcycle}
+\newcommand{\drawle}{-- (rel axis cs:1,1) -- (rel axis cs:1,0) -- (rel axis cs:0,0) \closedcycle}
+
+
+\newcommand{\NB}{\,{\large \lefthand}\ \,}
+%\newcommand{\NB}{\,{\bfseries N\hspace{-1.6mm}B}\ \,}

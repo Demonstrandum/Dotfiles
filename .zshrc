@@ -1,6 +1,6 @@
+source "$HOME/.profile"
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="/home/weet/.cargo/bin:/home/weet/.rvm/gems/ruby-2.7.0-preview1/bin:/home/weet/.rvm/gems/ruby-2.7.0-preview1@global/bin:/home/weet/.rvm/rubies/ruby-2.7.0-preview1/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/weet/.rvm/bin:/home/weet/.bin:/home/weet/.scripts"
 
 # Path to your oh-my-zsh installation.
 export ZSH="/home/weet/.oh-my-zsh"
@@ -10,6 +10,11 @@ export ZSH="/home/weet/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 ZSH_THEME="bira"
+
+if [[ $TERM == xterm-termite ]]; then
+  . /etc/profile.d/vte.sh
+  __vte_osc7
+fi
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -101,3 +106,6 @@ source $ZSH/oh-my-zsh.sh
 #
 . ~/.aliases
 . ~/.functions
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"

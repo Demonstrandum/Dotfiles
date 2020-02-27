@@ -7,6 +7,8 @@ alias loc='git ls-files | xargs wc -l'
 alias clear-tmp='sudo /bin/rm -rf /tmp/* /tmp/.*'
 alias ls='exa'
 alias swim='sudo vim'
-
+alias ifetch='PF_COL1=1 PF_COL2=1 PF_COL3=5 PF_INFO="ascii title os uptime pkgs editor wm" pfetch'
+alias wake-wifi='sudo /lib/systemd/system-sleep/reset_wifi.sh post'
+alias webcam='mplayer tv:// -tv driver=v4l2:width=640:height=480:device=/dev/video0'
 alias youtube-audio='youtube-dl --extract-audio --audio-format mp3 --audio-quality 0'
 
