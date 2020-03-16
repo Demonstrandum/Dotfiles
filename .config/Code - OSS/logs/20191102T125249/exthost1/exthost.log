@@ -1,0 +1,56 @@
+[2019-11-02 12:52:53.941] [exthost] [info] extension host started
+[2019-11-02 12:52:54.253] [exthost] [info] ExtensionService#_doActivateExtension kalitaalexey.vscode-rust {"startup":false,"activationEvent":"onLanguage:rust"}
+[2019-11-02 12:52:54.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/kalitaalexey.vscode-rust-0.4.2/out/src/extension
+[2019-11-02 12:52:54.604] [exthost] [info] ExtensionService#_doActivateExtension rust-lang.rust {"startup":false,"activationEvent":"onLanguage:rust"}
+[2019-11-02 12:52:54.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/extension.js
+[2019-11-02 12:52:54.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:54.735] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2019-11-02 12:52:54.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:54.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2019-11-02 12:52:54.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:54.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2019-11-02 12:52:55.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:55.079] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2019-11-02 12:52:55.105] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:55.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/equinusocio.vsc-material-theme-30.0.0/out/src/material.theme.config
+[2019-11-02 12:52:55.127] [exthost] [info] ExtensionService#_doActivateExtension KnisterPeter.vscode-github {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:55.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/knisterpeter.vscode-github-0.30.2/out/src/main
+[2019-11-02 12:52:55.621] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:55.622] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/ms-vsliveshare.vsliveshare-1.0.1056/out/prod/extension-prod
+[2019-11-02 12:52:56.805] [exthost] [info] ExtensionService#_doActivateExtension shardulm94.trailing-spaces {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:56.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/shardulm94.trailing-spaces-0.3.1/out/src/extension
+[2019-11-02 12:52:56.856] [exthost] [info] ExtensionService#_doActivateExtension slevesque.vscode-hexdump {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:56.856] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/slevesque.vscode-hexdump-1.7.2/out/src/extension
+[2019-11-02 12:52:56.974] [exthost] [info] ExtensionService#_doActivateExtension spikespaz.vscode-smoothtype {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:56.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/spikespaz.vscode-smoothtype-1.2.0/extension
+[2019-11-02 12:52:56.989] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:56.989] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/streetsidesoftware.code-spell-checker-1.7.18/dist/extension
+[2019-11-02 12:52:57.165] [exthost] [info] ExtensionService#_doActivateExtension xiaomingplus.type-music {"startup":true,"activationEvent":"*"}
+[2019-11-02 12:52:57.165] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/weet/.vscode-oss/extensions/xiaomingplus.type-music-0.0.3/out/extension
+[2019-11-02 12:52:57.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"activationEvent":"workspaceContains:package.json"}
+[2019-11-02 12:52:57.327] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/main
+[2019-11-02 12:52:58.945] [exthost] [info] eager extensions activated
+[2019-11-02 13:07:31.067] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-02 13:07:31.067] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-02 13:09:42.390] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-02 13:09:42.390] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-02 13:26:28.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-11-02 13:26:28.110] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2019-11-02 13:26:28.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-11-02 13:26:28.135] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2019-11-02 13:26:28.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-11-02 13:26:28.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2019-11-02 13:52:42.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-11-02 13:52:42.240] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extension
+[2019-11-02 14:00:42.204] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-02 14:00:42.205] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)
+[2019-11-02 14:06:28.444] [exthost] [error] [rust-lang.rust] provider FAILED
+[2019-11-02 14:06:28.444] [exthost] [error] TypeError: Cannot read property 'value' of undefined
+	at SignatureHelpProvider.hoverToSignatureHelp (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:75:41)
+	at provideSignatureHelp.provideHover.then.hover (/home/weet/.vscode-oss/extensions/rust-lang.rust-0.7.0/out/src/providers/signatureHelpProvider.js:15:105)

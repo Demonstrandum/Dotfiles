@@ -1,0 +1,18 @@
+[2019-12-15 01:50:33.550] [renderer1] [error] Error: Unable to read file (Error: File not found (/home/weet/rb.rb))
+    at Object.t.createErrorWithActions (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:58:379)
+    at w.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4837:647)
+    at w.handleSetInputError (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4840:376)
+    at w.setInput (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4837:358)
+[2019-12-15 01:51:13.889] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 01:51:22.868] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 01:51:49.148] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:07:17.045] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:07:23.890] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:07:36.863] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:07:38.415] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:07:39.429] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:08:08.014] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:09:34.603] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:10:31.520] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-15 02:10:34.724] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-12-17 15:09:08.549] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

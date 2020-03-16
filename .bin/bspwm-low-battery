@@ -12,6 +12,7 @@ TIME0="$(echo $BAT0 | awk '{print $3}' | awk -F: '{ print ($1 * 3600) + ($2 * 60
 TIME1="$(echo $BAT1 | awk '{print $3}' | awk -F: '{ print ($1 * 3600) + ($2 * 60) + $3 }')"
 TIMETOT=$(( $TIME0 + $TIME1 ))
 
+<<<<<<< HEAD
 PERC0="$(echo $BAT0 | awk '{print $2}' | sed 's/%,*//')"
 PERC1="$(echo $BAT1 | awk '{print $2}' | sed 's/%,*//')"
 PERCAVG=$(( ($PERC1 + $PERC0) / 2 ))
@@ -22,11 +23,23 @@ WARN_TIME=1000
 WARN_PERC=15
 echo "Time: $TIMETOT < $WARN_TIME?"
 echo "Percentage:  $PERCAVG < $WARN_PERC?"
+=======
+PERC0="$(echo $BAT0 | awk '{print $2}' | sed 's/%,//')"
+PERC1="$(echo $BAT1 | awk '{print $2}' | sed 's/%,//')"
+PERCAVG=$(( ($PERC1 + $PERC0) / 2 ))
+
+WARN_TIME=1000
+echo "$TIMETOT < $WARN_TIME?"
+>>>>>>> 8fceaec6a16480a7c55e0b1ad19f096369e5c3dd
 
 [[ -n "$DISCHARGING" ]] && echo "Discharging!"
 [[ "$TIMETOT" -lt "$WARN_TIME" ]] && echo "Below warning time!"
 
+<<<<<<< HEAD
 if [[ -n "$DISCHARGING" && ("$TIMETOT" -lt "$WARN_TIME" || "$PERCAVG" -lt "$WARN_PERC") ]]; then
+=======
+if [[ -n "$DISCHARGING" && "$TIMETOT" -lt "$WARN_TIME" ]]; then
+>>>>>>> 8fceaec6a16480a7c55e0b1ad19f096369e5c3dd
 	echo "Send warning notification."
 	dunstify -i ~/Pictures/.icons/warn.png "Warning: Low Battery!" "At $PERCAVG% with $(( $TIMETOT / 60 )) min left."
 fi

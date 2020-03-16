@@ -1,0 +1,22 @@
+[2019-12-31 17:42:20.108] [renderer1] [error] Command failed: rustup component list --toolchain 
+error: The argument '--toolchain <toolchain>' requires a value but none was supplied
+
+USAGE:
+    rustup component list --toolchain <toolchain>
+
+For more information try --help
+: Error: Command failed: rustup component list --toolchain 
+error: The argument '--toolchain <toolchain>' requires a value but none was supplied
+
+USAGE:
+    rustup component list --toolchain <toolchain>
+
+For more information try --help
+
+	at ChildProcess.exithandler (child_process.js:303:12)
+	at ChildProcess.emit (events.js:200:13)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:200:13)
+	at Pipe.<anonymous> (net.js:586:12)
+[2019-12-31 17:43:03.278] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,28 @@
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/unicode_xid-51af41cde10d0cc9.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libunicode_xid-51af41cde10d0cc9.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libunicode_xid-51af41cde10d0cc9.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libunicode_xid-51af41cde10d0cc9.rlib","emit":"link"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/quote-d4d0c8dddcbb606f.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libquote-d4d0c8dddcbb606f.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libquote-d4d0c8dddcbb606f.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libquote-d4d0c8dddcbb606f.rlib","emit":"link"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/synom-f4f18e31f04af440.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libsynom-f4f18e31f04af440.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libsynom-f4f18e31f04af440.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libsynom-f4f18e31f04af440.rlib","emit":"link"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/num_traits-95e197f9d1ba8bad.d","emit":"dep-info"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/save-analysis/libnum_traits-95e197f9d1ba8bad.json","emit":"save-analysis"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libnum_traits-95e197f9d1ba8bad.rmeta","emit":"metadata"}
+{"artifact":"/home/weet/Git/valhallac/target/rls/debug/deps/libnum_traits-95e197f9d1ba8bad.rlib","emit":"link"}
+error: expected one of `->`, `where`, or `{`, found `pub`
+ --> <stdin>:3:1
+  |
+1 | impl Dummy { fn marshal_consts()
+  |                                 - expected one of `->`, `where`, or `{` here
+2 | 
+3 | pub fn make_binary(blk : &block::LocalBlock) -> String { unimplemented!() } }
+  | ^^^ unexpected token
+
+[2019-11-03T15:03:01Z ERROR rls::actions::hover] format_method: error: Failed, input: "impl Dummy { fn marshal_consts()\n\npub fn make_binary(blk : &block::LocalBlock) -> String { unimplemented!() } }"
+thread 'request-worker-0' panicked at 'byte index 18446744073709551615 is out of bounds of `:V`', src/libcore/str/mod.rs:2051:9
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace.

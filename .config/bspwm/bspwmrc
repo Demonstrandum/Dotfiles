@@ -43,12 +43,16 @@ MALAYALAM=(൧ ൨ ൩ ൪ ൫ ൬ ൭ ൮ ൯ ൰)
 bspc monitor -d $CHINESE
 
 # Window decoration
-bspc config border_width 0
 bspc config window_gap 40
 bspc config top_padding 100
 bspc config focus_follows_pointer true
-bspc config focused_border_color "#657185"
-bspc config normal_border_color  "#322f54"
+
+BW="$(sys-conf get border_width)"
+[ -z "$BW" ] && BW=3
+bspc config border_width "$BW"
+bspc config  normal_border_color "#2a2a2a"
+bspc config focused_border_color "#333333"
+
 
 # Let onscreen keyboard be floating
 #bspc rule -a onboard state=floating
@@ -96,7 +100,9 @@ bspc desktop -f '^1'
 sleep 0.2
 
 # Finally apply border radius
-bspc config border_radius 19
+BR="$(sys-conf get border_radius)"
+[ -z "$BR" ] && BR=17
+bspc config border_radius "$BR"
 
 ~/.scripts/border-refresh.sh
 
