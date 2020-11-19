@@ -1,0 +1,96 @@
+#!/usr/bin/env ruby
+
+pc = 0
+INFILE = ARGV[0]
+prog = File.read(INFILE)
+
+$indent = 0
+$c_source = <<EOS
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+
+size_t tape_capacity;
+ssize_t *tape;
+ssize_t *tape_start;
+
+void realloc_check(void)
+{
+    size_t old_tape_len = tape - tape_start;
+    if (old_tape_len >= tape_capacity) {
+        tape_capacity = (size_t)(tape_capacity * 1.5);
+        tape = (ssize_t *)realloc(tape, tape_capacity * sizeof(ssize_t));
+        tape_start = tape;
+
+        // Zero initialize.
+        for (size_t i = old_tape_len; i < tape_capacity; ++i)
+          *(tape + i) = 0;
+    }
+}
+
+int main(int argc, char **argv)
+{
+    tape_capacity = 100;
+    tape = (ssize_t *)calloc(tape_capacity, sizeof(ssize_t));
+    tape_start = tape;
+
+EOS
+
+REALLOC_CHECK = 'realloc_check();'
+
+$indent += 1
+TAB = '    '
+
+def emit code
+  $c_source += code.split("\n")
+    .map { |line| (TAB * $indent) + line }
+    .join "\n"
+  $c_source += "\n"
+end
+
+while pc < prog.size
+  char = prog[pc]
+  pc += 1
+  case char
+  when '>'
+    emit REALLOC_CHECK
+    emit 'tape++;'
+  when '<'
+    emit 'tape--;'
+  when '+'
+    emit '(*tape)++;'
+  when '-'
+    emit '(*tape)--;'
+  when '.'
+    emit 'putchar(*((char *)tape));'
+  when ','
+    emit '*tape = (ssize_t)getchar();'
+  when '['
+    emit 'while (*tape != 0) {'
+    $indent += 1
+  when ']'
+    $indent -= 1
+    emit '}'
+  else
+    next
+  end
+end
+
+$c_source += <<EOS
+
+    putchar('\\n');
+    return EXIT_SUCCESS;
+}
+EOS
+
+$indent -= 1
+
+OUTFILE = File.basename(INFILE, '.*')
+GCC_COMMAND = "gcc -Wall -Wpedantic -O3 -x c - -o #{OUTFILE}"
+output = IO.popen GCC_COMMAND, 'r+' do |io|
+  io.write $c_source
+  io.close_write
+  io.read
+end
+
+STDERR.puts "Compiled #{INFILE}, output: ./#{OUTFILE}."

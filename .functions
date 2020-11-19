@@ -1,14 +1,28 @@
+#!/bin/zsh
+
+function 0x0 {
+	curl -F"file=@$1" https://0x0.st
+}
+
+function pushurl {
+	git remote set-url --push --add origin "$1"
+}
+
 function say {
   espeak "$1" >/dev/null 2>&1
 }
 
+function ssc {
+	echo "(compile-file \"$1\")" | scheme -q "${@:2}"
+}
+
 function please {
   HIST="$1"
-  if [ -z "$1" ]; then
-    HIST="1"
-  fi
+  [ -z "$1" ] && HIST="1"
 
-  sudo $(history -p !-$HIST)
+  COMMAND="$(history -$HIST | cut -c 8-)"
+  echo $COMMAND
+  sudo ${=COMMAND}
 }
 
 function webm2gif {

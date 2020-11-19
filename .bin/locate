@@ -1,0 +1,20 @@
+#!/usr/bin/env zsh
+
+ignore_names=(.png .jpg .pdf .jpeg)
+
+ignore_paths=(.cache .rvm .nvm
+              .vscode extensions
+              .local/share)
+
+names_str="$(printf " ! -iname \\*%s\\* " $ignore_names)"
+paths_str="$(printf " ! -ipath \\*%s\\* " $ignore_paths)"
+
+eval "ignore_names=($names_str)"
+eval "ignore_paths=($paths_str)"
+
+find "$PWD" \( \
+      -iname "*$1*" \
+    ! -iname "*.cache*" \
+    ! -ipath "*.nvm*" \
+    $ignore_names \
+    $ignore_paths \) -type f 2>/dev/null

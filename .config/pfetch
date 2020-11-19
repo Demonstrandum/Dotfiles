@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#export PF_INFO="ascii title kernel os host wm editor shell pkgs uptime memory palette"
+export PF_INFO="ascii title os wm editor shell pkgs memory"
+export PF_SEP=""
+

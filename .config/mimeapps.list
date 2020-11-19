@@ -1,0 +1,25 @@
+[Default Applications]
+application/x-gnome-saved-search=org.kde.dolphin.desktop
+text/html=chromium.desktop
+x-scheme-handler/http=chromium.desktop
+x-scheme-handler/https=chromium.desktop
+x-scheme-handler/about=chromium.desktop
+x-scheme-handler/unknown=chromium.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop
+x-scheme-handler/lbry=lbry.desktop
+font/ttf=org.gnome.FontViewer.desktop
+text/plain=typora.desktop
+x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
+inode/directory=org.kde.dolphin.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-6SHZP0.desktop
+message/rfc822=userapp-Thunderbird-6SHZP0.desktop
+x-scheme-handler/msteams=teams.desktop
+
+[Added Associations]
+application/x-gnome-saved-search=org.kde.dolphin.desktop
+application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;
+font/ttf=org.gnome.FontViewer.desktop;
+text/plain=typora.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-6SHZP0.desktop;
+message/rfc822=userapp-Thunderbird-6SHZP0.desktop;
+font/otf=org.gnome.FontViewer.desktop;org.gnome.FontManager.desktop;

@@ -6,7 +6,9 @@ if [ "$1" = set ]; then
     OUT="$(jq ".$2 = \"$3\"" "$conf")"
     echo "$OUT" > "$conf"
 elif [ "$1" = get ]; then
-    jq -r ".$2" "$conf"
+	result="$(jq -r ".$2" "$conf")"
+	[ "$result" = null ] && exit 1
+	echo "$result"
 elif [ "$1" = view ]; then
     bat --paging=never "$conf"
 else

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+[ -z "$TERMINAL" ] && TERMINAL="$(sys-conf get terminal)"
+[ "$TERMINAL" = "null" ] && TERMINAL="xterm"
+
+$TERMINAL

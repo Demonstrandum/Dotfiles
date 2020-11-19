@@ -1,0 +1,9 @@
+#!/bin/sh
+
+THIS_TTY="$(tty)"
+
+for file in /dev/pts/*; do
+	[ "$file" = "$THIS_TTY" ] && continue
+	printf "Writing to %s: " "$file"
+	printf "%s\n" "$*" | sudo tee "$file"
+done

@@ -1,5 +1,8 @@
-#!/bin/bash
+#!/bin/sh
 
-xwobf -f -s 9 /tmp/.i3lock.png
-i3lock -i /tmp/.i3lock.png
+#xwobf -f -s 9 /tmp/lock.png
+rm -f /tmp/lock.png /tmp/lock_s.png
+scrot /tmp/lock.png
+convert /tmp/lock.png -scale 5% -scale 2000% /tmp/lock_s.png
+sudo i3lock -i /tmp/lock_s.png
 

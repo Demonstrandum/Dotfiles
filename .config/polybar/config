@@ -1,7 +1,55 @@
-[colors]
-transparent = #00000000
+[white-colors]
+;; White Theme
+t1		= #dddddd
+t2		= ${colors.t1}
+t6		= ${colors.t1}
+
+t3		= #cccccc
+t4  	= #aaaaaa
+t5		= #e4e4e4
+t7		= #d3d3d3
+t8		= #eeeeee
+t9		= #b8b8b8
+t10		= #222222
+t11		= #333333
 foreground  = #3c3836
-background  = #eeeeee
+background  = ${colors.t8}
+
+[dark-colors]
+;; Dark Theme
+opacity = 33
+t1		= #dd333333
+t2		= ${colors.t1}
+t6		= ${colors.t1}
+
+t3		= #99333333
+t4  	= #99353535
+t5		= #99222222
+t7		= #99252525
+t8		= #99212121
+t9		= #99343434
+t10		= #99dddddd
+t11		= #eeaaaaaa
+
+#t1 = ${colors.t8}
+#t2 = ${colors.t8}
+#t6 = ${colors.t8}
+#t3 = ${colors.t8}
+#t4 = ${colors.t8}
+#t5 = ${colors.t8}
+#t7 = ${colors.t8}
+#t9 = ${colors.t8}
+#t10= ${colors.t8}
+
+foreground  = ${colors.t11}
+background  = ${colors.t8}
+
+
+
+
+[colors]
+inherit = dark-colors
+transparent = #00000000
 
 black       = ${xrdb:color8}
 red         = ${xrdb:color9}
@@ -11,7 +59,7 @@ blue        = ${xrdb:color12}
 magenta     = ${xrdb:color13}
 cyan        = ${xrdb:color14}
 white       = ${xrdb:color15}
-grey        = #eeeeee
+grey        = ${colors.t8}
 
 bblack    = ${xrdb:color0}
 bred      = ${xrdb:color1}
@@ -23,17 +71,6 @@ bcyan     = ${xrdb:color6}
 bwhite    = ${xrdb:color7}
 bgrey     = #7c6f64
 
-
-t1		= #dddddd
-t2		= #dddddd
-t6		= #dddddd
-
-t3		= #cccccc
-t4  	= #aaaaaa
-t5		= #e4e4e4
-t7		= #D3D3D3
-t8		= #EEEEEE
-
 [global/wm]
 margin-top    = 0
 margin-bottom = 0
@@ -41,20 +78,27 @@ margin-bottom = 0
 
 
 
-[bar/top]
+[bar/landscape]
 override-redirect = false
-wm-restack = i3
+wm-restack = bspwm
 
-monitor = LVDS-1
+scroll-up = bspwm-desknext
+scroll-down = bspwm-deskprev
+
+monitor = eDP1
 fixed-center = true
 bottom = false
-width = 1341
-height = 25
+#width = 2960
+width = 3000
+height = 60
 
-radius = 7
+#border-left-size = 40
+#border-top-size = 40
+border-left-size = 0
+border-top-size = 0
 
-scroll-up = i3wm-wsnext
-scroll-down = i3wm-wsprev
+#radius = 16
+radius = 0
 
 enable-ipc = true
 
@@ -67,116 +111,73 @@ tray-detached = false
 tray-position = right
 tray-offset-x = 0
 tray-offset-y = 0
-tray-maxsize = 0
+tray-maxsize = 16
 tray-padding = 0
-tray-scale = 0
+tray-scale = 1.0
+tray-background = ${colors.background}
 
 background = ${colors.background}
 foreground = ${colors.foreground}
 
 border-color = #00000000
-border-left-size = 25
-border-top-size = 15
 border-bottom-size = 0
 
 margin-top = 0
 margin-bottom = 0
 
 
-font-0 = PowerlineSymbols:size=17;5
-;font-1 = t cherry:size=12;2
-font-1 = Fira Code:size=10;2
-font-2 = FontAwesome:size=10;2
-font-3 = Ricty:size=12;2
+font-0 = PowerlineSymbols:size=39;11
+font-1 = Input Mono:size=17;6
+font-2 = FontAwesome:size=19;6
+font-3 = DejaVu Sans:size=20;6
+font-4 = Noto Sans:size=20;6
+font-5 = Roboto:size=20;6
+font-6 = Noto Sans Bengali:size=20;6
+font-7 = Noto Sans Hebrew:size=40;6
+font-8 = Noto Sans Malayalam:size=20;6
+font-9 = Noto Sans Tamil:size=20;6
+font-10= Noto Sans Phoenician:size=20;6
+font-11= Noto Sans CJK JP:size=20;6
+font-12= Noto Sans Thai:size=25;6
 
-modules-right  = pkg volume battery clock
-modules-left  =  i3 mpd
-
-
-
-
-[bar/top_dp1]
-override-redirect = false
-wm-restack = i3
-
-monitor = DP-1
-fixed-center = true
-bottom = false
-width = 2530
-height = 25
-
-radius = 7
-
-scroll-up = i3wm-wsnext
-scroll-down = i3wm-wsprev
-
-enable-ipc = true
-
-padding-left = 0
-padding-right = 0
-offset-x = 0
-offset-y = 0
-
-tray-detached = false
-tray-position = right
-tray-offset-x = 0
-tray-offset-y = 0
-tray-maxsize = 0
-tray-padding = 0
-tray-scale = 0
-
-background = ${colors.background}
-foreground = ${colors.foreground}
-
-border-color = #00000000
-border-left-size = 25
-border-top-size = 15
-border-bottom-size = 0
-
-margin-top = 0
-margin-bottom = 0
+modules-right  = pkg onscreen volume wlan battery weather clock
+modules-left  =  bspwm mpd
 
 
-font-0 = PowerlineSymbols:size=17;5
-;font-1 = t cherry:size=12;2
-font-1 = Fira Code:size=10;2
-font-2 = FontAwesome:size=10;2
-font-3 = Ricty:size=12;2
-
-modules-right  = pkg volume battery clock
-modules-left  =  i3 mpd
-
-
+[bar/portrait]
+inherit = bar/landscape
+width = 2000
 
 
 [module/mpd]
 type                  = internal/mpd
-host = 127.0.0.1
+host = 0.0.0.0
 port = 6600
 
-label-song            =   %artist% - %title%
-label-song-maxlen     = 40
+label-song            =    %artist% — %title%
+label-song-maxlen     = 60
 label-song-ellipsis   = true
 
 format-online         = <label-song><toggle>
 #     <icon-seekb>  <toggle>  <icon-seekf>    <icon-next>     <icon-random>  <icon-repeat>
 
 label-song-foreground = ${colors.foreground}
-label-song-background = ${colors.t5}
-icon-pause-background = ${self.label-song-background}
-icon-play-background  = ${self.label-song-background}
-icon-pause-foreground = ${self.label-song-foreground}
-icon-play-foreground  = ${self.label-song-foreground}
-icon-next-background  = ${self.label-song-background}
-icon-next-foreground  = ${self.label-song-foreground}
-icon-prev-background  = ${self.label-song-background}
-icon-prev-foreground  = ${self.label-song-foreground}
-gap-foreground = ${self.label-song-background}
-space-background = ${self.label-song-background}
+#label-song-background = ${colors.t5}
+#icon-pause-background = ${self.label-song-background}
+#icon-play-background  = ${self.label-song-background}
+#icon-pause-foreground = ${self.label-song-foreground}
+#icon-play-foreground  = ${self.label-song-foreground}
+#icon-next-background  = ${self.label-song-background}
+#icon-next-foreground  = ${self.label-song-foreground}
+#icon-prev-background  = ${self.label-song-background}
+#icon-prev-foreground  = ${self.label-song-foreground}
+#gap-foreground = ${self.label-song-background}
+#space-background = ${self.label-song-background}
 
-label-song-padding = 2
-icon-pause-padding-right = 2
-icon-play-padding-right = 2
+label-song-padding = 3
+icon-pause-padding-right = 3
+icon-play-padding-right = 3
+icon-play-padding-left = 3
 
 icon-prev  = 
 icon-seekb = 
@@ -192,11 +193,9 @@ toggle-off-foreground = ${colors.grey}
 toggle-on-foreground  = ${colors.blue}
 
 
-format-online-prefix            = 
 format-online-prefix-foreground = ${colors.background}
 format-online-prefix-background = ${self.label-song-background}
 
-format-online-suffix            = 
 format-online-suffix-foreground = ${self.label-song-background}
 label-offline = 🎜 mpd is offline
 
@@ -216,7 +215,7 @@ format-underline = ${colors.cyan}
 label-padding   =  2
 
 format-prefix            = 
-format-prefix-background = #aaaaaa
+format-prefix-background = ${colors.t4}
 format-prefix-foreground = ${self.label-background}
 
 format-suffix            = 
@@ -238,17 +237,17 @@ padding   = 0
 
 [module/wlan]
 type      = internal/network
-interface = wlp3s0
+interface = wlp1s0
 interval  = 3.0
 
-label-connected-padding      = 2
+label-connected-padding      = 1
 label-disconnected-padding   = 2
 
 format-connected              = <label-connected>
 format-disconnected           = <label-disconnected>
 
 label-connected-foreground    = ${colors.foreground}
-label-connected-background    = ${colors.t7}
+label-connected-background    = ${colors.t8}
 
 label-disconnected-foreground    = ${colors.bgrey}
 label-disconnected-background    = ${colors.t7}
@@ -256,13 +255,17 @@ label-disconnected-background    = ${colors.t7}
 label-connected    =  %essid%
 label-disconnected = 
 
+format-connected-suffix-background    = ${colors.t8}
+format-connected-suffix-foreground    = ${colors.t1}
 
-format-connected-prefix               = 
-format-connected-prefix-background    = ${module/cpu.format-background}
+format-disconnected-suffix-background = ${colors.t8}
+format-disconnected-suffix-foreground = ${colors.t1}
+
+
+format-connected-prefix-background    = ${colors.t9}
 format-connected-prefix-foreground    = ${self.label-connected-background}
 
-format-disconnected-prefix            = 
-format-disconnected-prefix-background = ${module/cpu.format-background}
+format-disconnected-prefix-background = ${colors.t9}
 format-disconnected-prefix-foreground = ${self.label-connected-background}
 
 
@@ -286,11 +289,9 @@ label-connected-background    = ${colors.t7}
 label-disconnected-foreground    = ${colors.bgrey}
 label-disconnected-background    = ${colors.t7}
 
-format-connected-suffix               = 
 format-connected-suffix-foreground    = ${module/battery.format-background}
 format-connected-foreground           = ${self.label-connected-background}
 
-format-disconnected-suffix            = 
 format-disconnected-suffix-foreground = ${module/battery.format-background}
 format-disconnected-suffix-background = ${self.label-connected-background}
 
@@ -302,7 +303,7 @@ interval = 2
 date     = " %d.%m.%Y"
 date-alt = "  %A, %d. %B"
 
-time     = " %H:%M"
+time     = " %H:%M:%S"
 time-alt = "%H:%M:%S"
 
 label-background = ${colors.t7}
@@ -317,72 +318,70 @@ format-prefix-foreground = ${self.label-background}
 format-suffix            = 
 format-suffix-foreground = ${self.label-background}
 
+[module/onscreen]
+type = custom/script
+exec = echo 1
+click-left = ~/.scripts/toggle-onboard.sh
+format = <label>
+label = "  "
+
+
 [module/volume]
 type                      		= internal/volume
 
 format = <label>
-format-muted-background  		= #B8B8B8
-format-volume-background  		= #B8B8B8
+format-muted-background  		= ${colors.t8}
+format-volume-background  		= ${colors.t8}
 
-format-volume 					= <bar-volume>
-format-muted  					= <label-muted>
+format-volume 					= "  <bar-volume>  "
+format-muted  					= " <label-muted> "
 
-label-muted   					=   sound muted
+label-muted   					= "  sound muted "
 format-muted-padding 			= 0
-format-padding 					= 2
+format-padding 					= 4
 
 bar-volume-width                = 8
 bar-volume-gradient             = false
-bar-volume-indicator            = 
+bar-volume-indicator            = ""
 bar-volume-indicator-font       = 4
-bar-volume-indicator-foreground = #222222
-bar-volume-fill                 = 
+bar-volume-indicator-foreground = ${colors.t10}
+bar-volume-fill                 = ""
 bar-volume-fill-font            = 4
-bar-volume-fill-foreground     	= #222222
-bar-volume-empty                = 
+bar-volume-fill-foreground     	= ${colors.t10}
+bar-volume-empty                = ""
 bar-volume-empty-font           = 4
-bar-volume-empty-foreground 	= #222222
+bar-volume-empty-foreground 	= #33ffffff
 
-bar-volume-background 			= ${colors.t4}
-label-muted-background 			= ${colors.t4}
+bar-volume-background 			= ${colors.t8}
+label-muted-background 			= ${colors.t8}
 
-bar-volume-empty-background		= #B8B8B8
-bar-volume-fill-background		= #B8B8B8
-bar-volume-indicator-background	= #B8B8B8
+bar-volume-empty-background		= ${colors.t8}
+bar-volume-fill-background		= ${colors.t8}
+bar-volume-indicator-background	= ${colors.t8}
 
-format-volume-prefix 			= 
-format-volume-prefix-foreground = #B8B8B8
-format-volume-prefix-background = #EEEEEE
+label-padding = 4
 
-format-volume-suffix 			= 
-format-volume-suffix-foreground = #DDDDDD
-format-volume-suffix-background = #B8B8B8
-
-format-muted-prefix 			= 
-format-muted-prefix-foreground 	= #B8B8B8
-format-muted-prefix-background 	= #EEEEEE
-
-format-muted-suffix 			= 
-format-muted-suffix-foreground 	= #DDDDDD
-format-muted-suffix-background 	= #B8B8B8
+#format-muted-suffix 			= 
+#format-muted-suffix-foreground 	= ${colors.t1}
+#format-muted-suffix-background 	= ${colors.t9}
 
 
 [module/battery]
 type    = internal/battery
-battery = BAT0
-adapter = AC
-full-at = 98
+battery = BAT1
+adapter = ADP1
+full-at = 95
 
 format-charging    = <animation-charging> <label-charging>
 time-format        = %H:%M
 
 format-discharging = <ramp-capacity> <label-discharging>
-label-discharging  = %percentage%%  (%time%)
+label-discharging  = %percentage%%
 
-format-full-prefix = "  "
+format-full-prefix = " "
 format-padding     = 2
 
-format-background = #dddddd
+format-background = ${colors.t8}
 #format-foreground = ${colors.magenta}
 format-foreground = ${colors.foreground}
 
@@ -453,18 +452,10 @@ type = custom/script
 interval = 300
 format = <label>
 exec = .config/polybar/weather.sh
+click-left = .config/polybar/weather.sh comment notify
 
-label-background = ${colors.t7}
-format-underline = ${colors.cyan}
-label-padding   =  2
-
-format-prefix            = 
-format-prefix-background = ${colors.t3}
-format-prefix-foreground = ${self.label-background}
-
-format-suffix            = 
-format-suffix-background = ${self.label-background}
-format-suffix-foreground = #DDDDDD
+label-background = ${colors.t8}
+label-padding   =  1
 
 [module/clock]
 type = custom/script
@@ -476,14 +467,6 @@ label-background = ${colors.t8}
 format-underline = ${colors.cyan}
 label-padding   =  2
 
-format-prefix            = 
-format-prefix-background = #DDDDDD
-format-prefix-foreground = ${self.label-background}
-
-format-suffix            = 
-format-suffix-background = #EEEEEE
-format-suffix-foreground = #EEEEEE
-tempCore3=$(sensors | grep -i "Core 3" | head -n1 | sed -r 's/.*:\s+[\+-]?(.*C)\s+.*/\1/' | grep -oP '.*?(?=\.)')
 
 [module/pkg]
 type = custom/script
@@ -491,19 +474,11 @@ interval = 120
 format = <label>
 label = "%output:0:30%"
 exec = .config/polybar/pkg.sh
-exec-if = "ping -q -w 2 -c 1 176.34.135.167 > /dev/null"
 
-label-background = ${colors.t3}
+label-background = ${colors.background}
 format-underline = ${colors.cyan}
 label-padding   =  2
 
-format-prefix            = 
-format-prefix-background = #eeeeee
-format-prefix-foreground = ${self.label-background}
-
-format-suffix            = 
-format-suffix-background = ${self.label-background}
-format-suffix-foreground = #EEEEEE
 
 [module/temps]
 type = custom/script
@@ -516,20 +491,21 @@ format-underline = ${colors.cyan}
 label-padding   =  2
 
 format-prefix            = 
-format-prefix-background = #aaaaaa
+format-prefix-background = ${colors.t4}
 format-prefix-foreground = ${self.label-background}
 
 format-suffix            = 
 format-suffix-background = ${self.label-background}
-format-suffix-foreground = #aaaaaa
+format-suffix-foreground = ${colors.t4}
 
-[module/i3]
-type = internal/i3
-index-sort = true
+
+
+[module/bspwm]
+type = internal/bspwm
 enable-click = true
 
 
-ws-icon-0 = "1;一"
+ws-icon-0 = 1;一
 ws-icon-1 = 2;二
 ws-icon-2 = 3;三
 ws-icon-3 = 4;四
@@ -541,27 +517,18 @@ ws-icon-8 = 9;九
 ws-icon-9 = 10;十
 ws-icon-default = ♟
 
-format = <label-state> <label-mode>
+format = <label-state><label-mode>
 
-label-mode = %mode%
-label-mode-padding = 2
-label-mode-background = #B8B8B8
 
-label-focused = %icon%
-label-focused-foreground = #333333
-label-focused-background = #cccccc
+label-focused = %name%
+label-focused-foreground = ${colors.t11}
+label-focused-background = ${colors.t3}
 label-focused-underline = #fba922
-label-focused-padding = 4
+label-focused-padding = 3
 
-label-unfocused = %icon%
-label-unfocused-padding = 4
+label-empty =
 
-label-visible = %icon%
-label-visible-underline = #555555
-label-visible-padding = 4
+label-occupied = %name%
+label-occupied-padding = 3
 
-label-urgent = %icon%
-label-urgent-foreground = #000000
-label-urgent-background = #bd2c40
-label-urgent-padding = 4
-
+# vim: ft=dosini cms=#%s

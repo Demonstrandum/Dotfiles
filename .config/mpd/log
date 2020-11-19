@@ -1,0 +1,719 @@
+Sep 16 21:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 21:29 : client: [0] opened from 127.0.0.1:45702
+Sep 16 21:29 : client: [1] opened from 127.0.0.1:45738
+Sep 16 21:29 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 16 21:29 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:29 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:32 : player: played "LeftBankTwo.mp3"
+Sep 16 21:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:32 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:34 : player: played "Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3"
+Sep 16 21:38 : client: [1] closed
+Sep 16 21:39 : client: [2] opened from 127.0.0.1:50600
+Sep 16 21:40 : client: [2] closed
+Sep 16 21:40 : client: [3] opened from 127.0.0.1:50714
+Sep 16 21:41 : client: [3] closed
+Sep 16 21:41 : client: [4] opened from 127.0.0.1:51228
+Sep 16 21:42 : player: played "Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3"
+Sep 16 21:43 : update: updating /Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3
+Sep 16 21:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:44 : client: [4] closed
+Sep 16 21:44 : client: [5] opened from 127.0.0.1:52808
+Sep 16 21:44 : update: updating /Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3
+Sep 16 21:45 : update: updating /Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3
+Sep 16 21:45 : client: [5] closed
+Sep 16 21:45 : client: [6] opened from 127.0.0.1:53464
+Sep 16 21:45 : player: played "Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3"
+Sep 16 21:46 : update: updating /Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3
+Sep 16 21:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:46 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Sep 16 21:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:46 : update: updating /LeftBankTwo.mp3
+Sep 16 21:47 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Sep 16 21:47 : update: updating /Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3
+Sep 16 21:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:48 : client: [0] closed
+Sep 16 21:48 : client: [7] opened from 127.0.0.1:54662
+Sep 16 21:49 : client: [8] opened from 127.0.0.1:55144
+Sep 16 21:49 : client: [8] closed
+Sep 16 21:49 : client: [9] opened from 127.0.0.1:55146
+Sep 16 21:49 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:49 : client: [9] closed
+Sep 16 21:50 : client: [7] closed
+Sep 16 21:50 : client: [10] opened from 127.0.0.1:55678
+Sep 16 21:50 : client: [10] closed
+Sep 16 21:50 : client: [11] opened from 127.0.0.1:55800
+Sep 16 21:50 : client: [12] opened from 127.0.0.1:55954
+Sep 16 21:50 : client: [12] closed
+Sep 16 21:50 : client: [13] opened from 127.0.0.1:55956
+Sep 16 21:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:50 : client: [13] closed
+Sep 16 21:51 : client: [11] closed
+Sep 16 21:51 : client: [14] opened from 127.0.0.1:56072
+Sep 16 21:51 : client: [14] closed
+Sep 16 21:51 : client: [15] opened from 127.0.0.1:56460
+Sep 16 21:52 : client: [15] closed
+Sep 16 21:52 : client: [16] opened from 127.0.0.1:56606
+Sep 16 21:53 : client: [16] closed
+Sep 16 21:53 : client: [17] opened from 127.0.0.1:57276
+Sep 16 21:53 : client: [17] closed
+Sep 16 21:53 : client: [18] opened from 127.0.0.1:57438
+Sep 16 21:53 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Sep 16 21:53 : client: [18] closed
+Sep 16 21:53 : client: [19] opened from 127.0.0.1:57512
+Sep 16 21:54 : client: [19] closed
+Sep 16 21:54 : client: [20] opened from 127.0.0.1:57618
+Sep 16 21:54 : client: [20] closed
+Sep 16 21:54 : client: [21] opened from 127.0.0.1:57708
+Sep 16 21:54 : client: [21] closed
+Sep 16 21:54 : client: [22] opened from 127.0.0.1:57926
+Sep 16 21:55 : client: [22] closed
+Sep 16 21:55 : client: [23] opened from 127.0.0.1:58152
+Sep 16 21:56 : client: [24] opened from 127.0.0.1:58592
+Sep 16 21:56 : client: [24] closed
+Sep 16 21:56 : client: [25] opened from 127.0.0.1:58594
+Sep 16 21:56 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 21:56 : client: [25] closed
+Sep 16 21:57 : client: [23] closed
+Sep 16 21:57 : client: [26] opened from 127.0.0.1:59266
+Sep 16 21:57 : client: [26] closed
+Sep 16 21:57 : client: [27] opened from 127.0.0.1:59484
+Sep 16 21:57 : client: [27] closed
+Sep 16 21:57 : client: [28] opened from 127.0.0.1:59534
+Sep 16 21:58 : client: [6] closed
+Sep 16 22:00 : client: [28] closed
+Sep 16 22:00 : client: [29] opened from 127.0.0.1:60640
+Sep 16 22:03 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Sep 16 22:03 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:03 : client: [30] opened from 127.0.0.1:34094
+Sep 16 22:03 : client: [30] closed
+Sep 16 22:04 : client: [31] opened from 127.0.0.1:34446
+Sep 16 22:04 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:08 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Sep 16 22:09 : client: [32] opened from 127.0.0.1:36922
+Sep 16 22:09 : client: [32] closed
+Sep 16 22:13 : update: added /J.S. BACH - Concertos for 2 Harpsichords BWV 1060-1062, Academia Montis Regalis-Hsvr6nenEeE.webm
+Sep 16 22:13 : update: added /J.S. BACH - Concertos for 2 Harpsichords BWV 1060-1062, Academia Montis Regalis-Hsvr6nenEeE.mp3
+Sep 16 22:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:14 : player: played "J.S. BACH - Concertos for 2 Harpsichords BWV 1060-1062, Academia Montis Regalis-Hsvr6nenEeE.mp3"
+Sep 16 22:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:14 : update: removing J.S. BACH - Concertos for 2 Harpsichords BWV 1060-1062, Academia Montis Regalis-Hsvr6nenEeE.webm
+Sep 16 22:14 : update: updating /J.S. BACH - Concertos for 2 Harpsichords BWV 1060-1062, Academia Montis Regalis-Hsvr6nenEeE.mp3
+Sep 16 22:15 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Sep 16 22:16 : client: [33] opened from 127.0.0.1:40380
+Sep 16 22:16 : client: [33] closed
+Sep 16 22:29 : update: added /Harpsichord Concerto in C Minor BWV 1060.flac
+Sep 16 22:34 : update: added /Harpsichord Concerto in C Minor BWV 10600.flac
+Sep 16 22:34 : update: updating /Harpsichord Concerto in C Minor BWV 1060.flac
+Sep 16 22:34 : update: removing Harpsichord Concerto in C Minor BWV 10600.flac
+Sep 16 22:34 : update: updating /Harpsichord Concerto in C Minor BWV 1060.flac
+Sep 16 22:36 : update: added /Harpsichord Concerto in C Major BWV 1061.flac
+Sep 16 22:37 : update: added /Harpsichord Concerto in C Minor BWV 1062.flac
+Sep 16 22:37 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:38 : update: updating /Harpsichord Concerto in C Major BWV 1061.flac
+Sep 16 22:38 : update: removing J.S. BACH - Concertos for 2 Harpsichords BWV 1060-1062, Academia Montis Regalis-Hsvr6nenEeE.mp3
+Sep 16 22:39 : update: updating /Harpsichord Concerto in C Minor BWV 1060.flac
+Sep 16 22:39 : update: updating /Harpsichord Concerto in C Minor BWV 1062.flac
+Sep 16 22:39 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Sep 16 22:39 : flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+Sep 16 22:40 : client: [34] opened from 127.0.0.1:52426
+Sep 16 22:40 : client: [34] closed
+Sep 16 22:41 : client: [31] closed
+Sep 16 22:42 : client: [29] closed
+Sep 16 22:42 : client: [35] opened from 127.0.0.1:53280
+Sep 16 22:43 : client: [35] closed
+Sep 16 22:43 : client: [36] opened from 127.0.0.1:53892
+Sep 16 22:44 : client: [36] closed
+Sep 16 22:44 : client: [37] opened from 127.0.0.1:53966
+Sep 16 22:46 : client: [38] opened from 127.0.0.1:55126
+Sep 16 22:46 : client: [38] closed
+Sep 16 22:46 : client: [39] opened from 127.0.0.1:55280
+Sep 16 22:47 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:48 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Sep 16 22:48 : update: updating /Harpsichord Concerto in C Minor BWV 1060.flac
+Sep 16 22:48 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:48 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:48 : update: updating /Harpsichord Concerto in C Major BWV 1061.flac
+Sep 16 22:49 : update: updating /Harpsichord Concerto in C Minor BWV 1060.flac
+Sep 16 22:49 : update: updating /Harpsichord Concerto in C Minor BWV 1062.flac
+Sep 16 22:49 : client: [40] opened from 127.0.0.1:56456
+Sep 16 22:49 : client: [40] closed
+Sep 16 22:49 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:49 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:50 : update: updating /Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3
+Sep 16 22:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:50 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:51 : player: played "Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3"
+Sep 16 22:51 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 16 22:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 18:21 : client: [37] closed
+Sep 17 18:21 : client: [41] opened from 127.0.0.1:57786
+Sep 17 18:21 : client: [41] closed
+Sep 17 18:21 : client: [42] opened from 127.0.0.1:57852
+Sep 17 18:22 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 18:25 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Sep 17 18:38 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Sep 17 19:00 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Sep 17 19:13 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Sep 17 19:15 : client: [43] opened from 127.0.0.1:56176
+Sep 17 19:15 : client: [43] closed
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:18 : update: added Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:19 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 19:19 : update: removing Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.webm
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:28 : update: added Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:29 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:29 : update: removing Bach - Harpsichord Concertos.zip/Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:29 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 19:29 : client: [39] closed
+Sep 17 19:29 : client: [44] opened from 127.0.0.1:35168
+Sep 17 19:32 : client: [44] closed
+Sep 17 19:32 : client: [45] opened from 127.0.0.1:36576
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:33 : update: updating Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:35 : update: updating Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:35 : update: updating Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:36 : update: updating Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:36 : update: updating Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:37 : update: updating Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:37 : update: updating Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:37 : update: updating Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Sep 17 19:38 : update: updating Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:39 : update: updating Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:40 : update: updating Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac
+Sep 17 19:40 : update: updating Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:41 : update: updating Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:41 : update: updating Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac
+Sep 17 19:42 : update: updating Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:42 : update: updating Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:43 : update: updating Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac
+Sep 17 19:43 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 19:44 : update: updating /Harpsichord Concerto in C Major BWV 1061.flac
+Sep 17 19:45 : update: updating /Harpsichord Concerto in C Minor BWV 1060.flac
+Sep 17 19:46 : update: updating /Harpsichord Concerto in C Minor BWV 1062.flac
+Sep 17 19:46 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Sep 17 19:46 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 19:51 : client: [46] opened from 127.0.0.1:45700
+Sep 17 19:51 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 19:51 : client: [46] closed
+Sep 17 23:52 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 23:53 : client: [47] opened from 127.0.0.1:49574
+Sep 17 23:53 : client: [47] closed
+Sep 17 23:57 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 23:57 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 23:57 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 17 23:59 : client: [48] opened from 127.0.0.1:52568
+Sep 17 23:59 : client: [48] closed
+Sep 18 00:00 : client: [45] closed
+Sep 18 00:00 : client: [49] opened from 127.0.0.1:52738
+Sep 18 00:00 : client: [49] closed
+Sep 18 00:00 : client: [50] opened from 127.0.0.1:52802
+Sep 18 00:00 : client: [50] closed
+Sep 18 00:00 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 18 00:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 00:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 00:00 : client: [0] opened from 127.0.0.1:52860
+Sep 18 00:00 : client: [1] opened from 127.0.0.1:52886
+Sep 18 00:00 : exception: Failed to open audio output
+Sep 18 00:00 : client: [2] opened from 127.0.0.1:52968
+Sep 18 00:00 : client: [2] closed
+Sep 18 00:01 : client: [1] closed
+Sep 18 00:01 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 18 00:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 00:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 00:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 18 00:01 : client: [0] opened from 127.0.0.1:53528
+Sep 18 00:01 : client: [1] opened from 127.0.0.1:53554
+Sep 18 00:02 : client: [1] closed
+Sep 18 00:02 : client: [2] opened from 127.0.0.1:53996
+Sep 18 00:03 : client: [2] closed
+Sep 18 00:03 : client: [3] opened from 127.0.0.1:54182
+Sep 18 00:03 : client: [3] closed
+Sep 18 00:03 : client: [4] opened from 127.0.0.1:54288
+Sep 18 00:03 : client: [4] closed
+Sep 18 00:03 : client: [5] opened from 127.0.0.1:54378
+Sep 18 00:04 : client: [5] closed
+Sep 18 00:04 : client: [6] opened from 127.0.0.1:55036
+Sep 18 00:05 : client: [6] closed
+Sep 18 00:05 : client: [7] opened from 127.0.0.1:55366
+Sep 18 00:06 : client: [7] closed
+Sep 18 00:06 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 18 00:06 : client: [8] opened from 127.0.0.1:56016
+Sep 18 00:09 : client: [8] closed
+Sep 18 00:09 : client: [9] opened from 127.0.0.1:57428
+Sep 18 00:11 : client: [9] closed
+Sep 18 00:11 : client: [10] opened from 127.0.0.1:58266
+Sep 18 00:11 : client: [10] closed
+Sep 18 00:11 : client: [11] opened from 127.0.0.1:58412
+Sep 18 00:12 : client: [11] closed
+Sep 18 00:12 : client: [12] opened from 127.0.0.1:58992
+Sep 18 00:13 : client: [12] closed
+Sep 18 00:13 : client: [13] opened from 127.0.0.1:59524
+Sep 18 00:14 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 18 00:15 : client: [13] closed
+Sep 18 00:15 : client: [14] opened from 127.0.0.1:60448
+Sep 18 00:16 : client: [14] closed
+Sep 18 00:16 : client: [15] opened from 127.0.0.1:60600
+Sep 18 00:16 : client: [15] closed
+Sep 18 00:16 : client: [16] opened from 127.0.0.1:60768
+Sep 18 00:17 : client: [16] closed
+Sep 18 00:17 : client: [17] opened from 127.0.0.1:33074
+Sep 18 00:18 : client: [17] closed
+Sep 18 00:18 : client: [18] opened from 127.0.0.1:33412
+Sep 18 00:18 : client: [18] closed
+Sep 18 00:18 : client: [19] opened from 127.0.0.1:33470
+Sep 18 00:19 : client: [19] closed
+Sep 18 00:19 : client: [20] opened from 127.0.0.1:34082
+Sep 18 00:19 : client: [20] closed
+Sep 18 00:19 : client: [21] opened from 127.0.0.1:34172
+Sep 18 00:20 : client: [21] closed
+Sep 18 00:20 : client: [22] opened from 127.0.0.1:34506
+Sep 18 00:20 : client: [22] closed
+Sep 18 00:20 : client: [23] opened from 127.0.0.1:34630
+Sep 18 00:20 : client: [23] closed
+Sep 18 00:20 : client: [24] opened from 127.0.0.1:34682
+Sep 18 00:21 : client: [24] closed
+Sep 18 00:21 : client: [25] opened from 127.0.0.1:34780
+Sep 18 00:21 : client: [25] closed
+Sep 18 00:21 : client: [26] opened from 127.0.0.1:34958
+Sep 18 00:22 : client: [26] closed
+Sep 18 00:22 : client: [27] opened from 127.0.0.1:35558
+Sep 18 00:22 : client: [27] closed
+Sep 18 00:22 : client: [28] opened from 127.0.0.1:35624
+Sep 18 00:23 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Sep 18 00:23 : client: [28] closed
+Sep 18 00:23 : client: [29] opened from 127.0.0.1:35914
+Sep 18 00:23 : client: [29] closed
+Sep 18 00:23 : client: [30] opened from 127.0.0.1:35996
+Sep 18 00:26 : client: [30] closed
+Sep 18 00:26 : client: [31] opened from 127.0.0.1:37266
+Sep 18 00:26 : client: [31] closed
+Sep 18 00:26 : client: [32] opened from 127.0.0.1:37388
+Sep 18 00:27 : client: [32] closed
+Sep 18 00:27 : client: [33] opened from 127.0.0.1:37876
+Sep 18 00:27 : client: [33] closed
+Sep 18 00:27 : client: [34] opened from 127.0.0.1:37968
+Sep 18 00:27 : client: [34] closed
+Sep 18 00:27 : client: [35] opened from 127.0.0.1:38058
+Sep 18 00:27 : client: [35] closed
+Sep 18 00:27 : client: [36] opened from 127.0.0.1:38134
+Sep 18 00:28 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Sep 18 00:28 : client: [36] closed
+Sep 18 00:28 : client: [37] opened from 127.0.0.1:38556
+Sep 18 00:29 : client: [37] closed
+Sep 18 00:29 : client: [38] opened from 127.0.0.1:38670
+Sep 18 00:30 : client: [38] closed
+Sep 18 00:30 : client: [39] opened from 127.0.0.1:39376
+Sep 18 00:30 : client: [39] closed
+Sep 18 00:30 : client: [40] opened from 127.0.0.1:39442
+Sep 18 00:34 : client: [40] closed
+Sep 18 00:34 : client: [41] opened from 127.0.0.1:41256
+Sep 18 00:35 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Sep 18 00:35 : client: [41] closed
+Sep 18 00:35 : client: [42] opened from 127.0.0.1:41886
+Sep 18 00:35 : client: [42] closed
+Sep 18 00:35 : client: [43] opened from 127.0.0.1:41944
+Sep 18 00:37 : client: [0] closed
+Sep 18 00:37 : client: [44] opened from 127.0.0.1:43014
+Sep 18 00:38 : client: [44] closed
+Sep 18 00:38 : client: [45] opened from 127.0.0.1:43416
+Sep 18 00:38 : client: [45] closed
+Sep 18 00:38 : client: [46] opened from 127.0.0.1:43498
+Sep 18 17:22 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Sep 18 17:25 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Sep 18 17:27 : client: [47] opened from 127.0.0.1:50860
+Sep 18 17:27 : client: [47] closed
+Sep 18 17:32 : client: [48] opened from 127.0.0.1:53278
+Sep 18 17:32 : client: [48] closed
+Sep 18 20:49 : client: [43] closed
+Sep 19 19:45 : client: [49] opened from 127.0.0.1:50268
+Sep 19 19:45 : client: [49] closed
+Sep 19 19:45 : client: [50] opened from 127.0.0.1:50294
+Sep 19 19:45 : client: [50] closed
+Sep 21 13:08 : client: [51] opened from 127.0.0.1:36960
+Sep 21 13:08 : client: [51] closed
+Sep 21 13:08 : client: [52] opened from 127.0.0.1:36986
+Sep 21 13:08 : client: [52] closed
+Sep 22 04:09 : client: [46] closed
+Sep 22 04:09 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Sep 27 19:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 19:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 19:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 27 20:59 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Sep 27 21:12 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Sep 27 21:25 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Sep 29 13:46 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 29 13:52 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 29 14:00 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 29 14:09 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Sep 29 14:14 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Sep 29 14:21 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Sep 29 14:24 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Sep 29 14:27 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Sep 29 14:30 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Sep 29 14:38 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Sep 29 14:44 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Sep 29 14:47 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Sep 30 19:54 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Sep 30 20:06 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Sep 30 20:19 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Sep 30 20:27 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 30 20:33 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Sep 30 20:41 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 01 17:51 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 01 17:59 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 01 18:06 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 01 18:10 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 01 18:12 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 01 18:16 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 01 18:23 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 01 18:29 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 01 18:32 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Oct 01 19:04 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Oct 01 19:16 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Oct 01 19:29 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Oct 01 19:37 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 01 19:43 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 01 19:51 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 01 19:56 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 01 20:05 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 01 20:12 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 01 20:15 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 01 20:18 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 01 20:22 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 01 20:29 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 01 20:35 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 01 20:38 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Oct 01 20:56 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Oct 01 21:08 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Oct 01 21:22 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Oct 02 13:44 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 02 13:50 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 02 13:58 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 02 14:03 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 02 14:12 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 02 14:19 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 02 14:22 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 02 14:25 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 02 14:28 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 02 14:36 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 02 14:42 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 03 16:14 : exception: Failed to write to /home/weet/.config/mpd/state: No space left on device
+Oct 03 17:28 : exception: Failed to write to /home/weet/.config/mpd/state: No space left on device
+Oct 06 14:53 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Oct 06 14:56 : update: added /LeftBankTwo.mp3
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+Oct 06 14:56 : update: added Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac
+Oct 06 14:56 : update: added /Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3
+Oct 06 14:56 : update: added /Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3
+Oct 06 14:56 : update: added /Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3
+Oct 06 14:56 : update: added /Harpsichord Concerto in C Major BWV 1061.flac
+Oct 06 14:56 : update: added /Harpsichord Concerto in C Minor BWV 1062.flac
+Oct 06 14:56 : update: added /Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3
+Oct 06 14:56 : update: added /Harpsichord Concerto in C Minor BWV 1060.flac
+Oct 06 14:56 : update: added /Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3
+Oct 06 16:13 : update: added /Bach, 'Great' Fugue in G minor, BWV 542-4WhPUqpaRp4.mp3
+Oct 06 16:13 : update: added /Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3
+Oct 06 16:13 : update: added /Bach, 'Great' Fugue in G minor, BWV 542-4WhPUqpaRp4.webm
+Oct 06 16:13 : update: removing Bach, 'Great' Fugue in G minor, BWV 542-4WhPUqpaRp4.webm
+Oct 06 16:13 : update: updating /Bach, 'Great' Fugue in G minor, BWV 542-4WhPUqpaRp4.mp3
+Oct 06 16:14 : update: removing Bach, 'Great' Fugue in G minor, BWV 542-4WhPUqpaRp4.mp3
+Oct 06 16:14 : update: removing Bach's Prelude N°1 in C major, BWV 846, on harpsichord-3AQHFYNk5NA.mp3
+Oct 06 16:14 : update: added /Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3
+Oct 06 16:14 : update: added /Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.webm
+Oct 06 16:14 : update: removing Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.webm
+Oct 06 16:14 : update: updating /Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3
+Oct 06 16:19 : update: updating /Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3
+Oct 06 16:20 : update: updating /Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3
+Oct 06 16:29 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 06 16:37 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 06 16:43 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 06 16:51 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 06 17:00 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 06 17:05 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 07 13:59 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 07 18:25 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 08 15:59 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 08 16:13 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 08 16:16 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 08 16:19 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 08 16:22 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 08 16:30 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 08 16:36 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 08 16:39 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Oct 08 16:56 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Oct 08 17:18 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Oct 08 17:28 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 08 18:12 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 08 18:40 : player: played "LeftBankTwo.mp3"
+Oct 09 16:25 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 09 16:27 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Oct 09 16:33 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Oct 09 16:37 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Oct 09 17:55 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 09 17:56 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Oct 09 18:02 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Oct 10 17:15 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Oct 10 18:34 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 10 18:35 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Oct 10 18:41 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Oct 10 18:45 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Oct 10 20:33 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Oct 11 15:33 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 12 15:20 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 12 15:59 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 12 16:01 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Oct 12 16:07 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Oct 12 16:11 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Oct 12 16:20 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Oct 14 17:37 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Oct 14 17:39 : update: updating /Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3
+Oct 14 17:40 : player: played "LeftBankTwo.mp3"
+Oct 14 17:43 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Oct 14 17:51 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 14 19:33 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Oct 18 16:18 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Oct 18 16:21 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 18 16:24 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 18 16:27 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Oct 18 16:35 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 18 16:41 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Oct 18 16:44 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Oct 18 16:57 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Oct 20 16:16 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 20 16:17 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 21 16:17 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 22 21:37 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Oct 22 21:38 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Oct 26 04:40 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Oct 26 04:40 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Oct 31 19:23 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 02 17:29 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 03 01:43 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 03 01:51 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 03 02:04 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Nov 03 23:35 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Nov 04 00:58 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 04 01:00 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 04 01:04 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 04 01:12 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 04 01:17 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 04 01:20 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Nov 04 01:38 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Nov 04 01:50 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Nov 04 02:00 : exception: Failed to play on "pulse audio" (pulse): suspended
+Nov 04 02:03 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Nov 07 04:03 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Nov 09 01:43 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Nov 09 01:45 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Nov 09 01:51 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 09 01:54 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Nov 09 02:04 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Nov 09 02:06 : player: played "LeftBankTwo.mp3"
+Nov 09 02:09 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 09 02:17 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 09 02:23 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 09 02:31 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 09 02:41 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 09 02:46 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 09 02:53 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 09 02:56 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 09 02:59 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 10 16:16 : update: added /sarastro.ogg
+Nov 10 16:22 : update: updating /sarastro.ogg
+Nov 10 16:23 : player: played "sarastro.ogg"
+Nov 10 16:25 : player: played "sarastro.ogg"
+Nov 10 19:41 : player: played "sarastro.ogg"
+Nov 11 21:33 : player: played "sarastro.ogg"
+Nov 12 19:29 : player: played "sarastro.ogg"
+Nov 12 19:32 : player: played "sarastro.ogg"
+Nov 12 19:34 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Nov 12 19:40 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 12 19:44 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Nov 12 19:54 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Nov 12 19:56 : player: played "LeftBankTwo.mp3"
+Nov 12 19:59 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 12 20:07 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 12 20:13 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 12 20:21 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 12 20:29 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 12 20:34 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 12 21:02 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 12 21:05 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Nov 12 21:15 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Nov 12 21:17 : player: played "LeftBankTwo.mp3"
+Nov 12 21:20 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 12 21:28 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 12 21:34 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 12 21:42 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 12 21:51 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 12 21:55 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 12 22:03 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 12 22:06 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 13 03:06 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 14 11:56 : player: played "sarastro.ogg"
+Nov 14 12:07 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Nov 14 12:08 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Nov 14 12:14 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 14 12:18 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Nov 14 12:28 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Nov 14 12:30 : player: played "LeftBankTwo.mp3"
+Nov 14 12:33 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 14 12:41 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 14 12:47 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 14 12:55 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 14 13:03 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 14 13:08 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 14 13:15 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 14 17:54 : player: played "sarastro.ogg"
+Nov 14 18:28 : update: added /Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3
+Nov 14 18:28 : update: added /Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.webm
+Nov 14 18:28 : update: removing Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.webm
+Nov 14 18:28 : update: updating /Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3
+Nov 14 18:44 : update: updating /Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3
+Nov 14 19:03 : player: played "Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3"
+Nov 15 17:43 : player: played "sarastro.ogg"
+Nov 15 18:09 : player: played "sarastro.ogg"
+Nov 15 18:28 : player: played "Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3"
+Nov 15 18:33 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Nov 15 18:39 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 15 18:43 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Nov 15 18:52 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Nov 15 18:55 : player: played "LeftBankTwo.mp3"
+Nov 15 18:58 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 15 19:05 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 15 19:11 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 15 19:20 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 15 19:28 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 15 19:33 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 15 19:40 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 15 19:43 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 15 19:46 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 15 19:50 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 15 19:57 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 15 20:03 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 15 20:06 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Nov 15 20:23 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Nov 15 20:36 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Nov 15 20:49 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Nov 15 20:51 : player: played "sarastro.ogg"
+Nov 15 21:10 : player: played "Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3"
+Nov 16 14:37 : player: played "Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3"
+Nov 16 14:38 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Nov 16 14:44 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 16 14:48 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Nov 16 14:58 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Nov 16 15:00 : player: played "LeftBankTwo.mp3"
+Nov 16 15:03 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 16 15:11 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 16 15:17 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 16 15:25 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 16 15:33 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 01:00 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 01:07 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 01:11 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 01:13 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 01:17 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 01:25 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 01:30 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 01:33 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 01:50 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Nov 17 02:03 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Nov 17 02:16 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Nov 17 02:18 : player: played "sarastro.ogg"
+Nov 17 02:37 : player: played "Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3"
+Nov 17 02:45 : player: played "Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3"
+Nov 17 02:51 : player: played "Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3"
+Nov 17 02:55 : player: played "Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3"
+Nov 17 03:05 : player: played "Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3"
+Nov 17 03:07 : player: played "LeftBankTwo.mp3"
+Nov 17 03:10 : player: played "Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3"
+Nov 17 03:17 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 17 19:27 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 17 19:35 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 17 19:44 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 19:49 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 19:56 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 19:59 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 20:02 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 20:06 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 20:13 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 20:19 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 20:22 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 20:39 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Nov 17 20:51 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Nov 17 21:04 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Nov 17 21:07 : player: played "sarastro.ogg"
+Nov 17 21:25 : player: played "Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3"
+Nov 17 21:37 : player: played "Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 17 21:43 : player: played "Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 17 21:51 : player: played "Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac"
+Nov 17 22:00 : player: played "Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 22:05 : player: played "Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 22:12 : player: played "Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac"
+Nov 17 22:15 : player: played "Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 22:18 : player: played "Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 22:21 : player: played "Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac"
+Nov 17 22:29 : player: played "Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 22:35 : player: played "Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 22:38 : player: played "Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac"
+Nov 17 22:55 : player: played "Harpsichord Concerto in C Major BWV 1061.flac"
+Nov 17 23:07 : player: played "Harpsichord Concerto in C Minor BWV 1060.flac"
+Nov 17 23:20 : player: played "Harpsichord Concerto in C Minor BWV 1062.flac"
+Nov 17 23:23 : player: played "sarastro.ogg"

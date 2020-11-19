@@ -1,18 +1,11 @@
 alias s='sudo'
 alias pacman='sudo pacman'
-alias wifi='sudo wifi-menu'
-alias down-wifi='sudo ip l set wlp3s0 down &&  sudo wifi-menu'
-alias cutie='echo Samuel\ Frost'
 alias loc='git ls-files | xargs wc -l'
 alias clear-tmp='sudo /bin/rm -rf /tmp/* /tmp/.*'
-alias ls='exa'
 alias swim='sudo vim'
-<<<<<<< HEAD
 alias ifetch='PF_COL1=1 PF_COL2=1 PF_COL3=5 PF_INFO="ascii title os uptime pkgs editor wm" pfetch'
 alias wake-wifi='sudo /lib/systemd/system-sleep/reset_wifi.sh post'
 alias webcam='mplayer tv:// -tv driver=v4l2:width=640:height=480:device=/dev/video0'
-=======
-alias wake-wifi='sudo /lib/systemd/system-sleep/reset_wifi.sh post'
->>>>>>> 8fceaec6a16480a7c55e0b1ad19f096369e5c3dd
-alias youtube-audio='youtube-dl --extract-audio --audio-format mp3 --audio-quality 0'
-
+alias youtube-audio='youtube-dl --extract-audio --audio-quality 0'
+alias vim=nvim
+alias orphans='pacman -Rns $(pacman -Qtdq)'

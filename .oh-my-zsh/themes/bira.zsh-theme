@@ -5,18 +5,18 @@ if [[ $UID -eq 0 ]]; then
     local user_host='%{$terminfo[bold]$fg[red]%}%n@%m %{$reset_color%}'
     local user_symbol='#'
 else
-    local user_host='%{$terminfo[bold]$fg[green]%}%n@%m %{$reset_color%}'
+    local user_host='%{$terminfo[bold]$fg[red]%}%n@%m %{$reset_color%}'
     local user_symbol='$'
 fi
 
-local current_dir='%{$terminfo[bold]$fg[blue]%}%~ %{$reset_color%}'
+local current_dir='%{$terminfo[bold]$fg[yellow]%}%~ %{$reset_color%}'
 local git_branch='$(git_prompt_info)'
 local rvm_ruby='$(ruby_prompt_info)'
 local venv_prompt='$(virtualenv_prompt_info)'
 
 ZSH_THEME_RVM_PROMPT_OPTIONS="i v g"
 
-PROMPT="╭─${user_host}${current_dir}${rvm_ruby}${git_branch}${venv_prompt}
+PROMPT="╭─${user_host}${current_dir}${git_branch}${venv_prompt}
 ╰─%B%#%b "
 RPROMPT="%B${return_code}%b"
 

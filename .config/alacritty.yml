@@ -1,0 +1,61 @@
+window:
+  padding:
+    x: 15
+    y: 15
+
+font:
+  normal:
+    family: "Input Mono"
+    style: Regular
+
+  size: 10.5
+  glyph_offset:
+    x: 0
+    y: 0
+  use_thin_strokes: true
+
+visual_bell:
+  animation: EaseOutExpo
+  duration: 1
+  color: '0xffffff'
+  command: "play -q -n synth 0.1 sin 880"
+
+
+cursor:
+  style: Underline
+
+live_config_reload: true
+
+colors:
+  # Cursor colors
+  cursor:
+    text: '0x9b9dbf'
+    background: '0x000000'
+  # Default colors
+  primary:
+    background: '0x1b1c23'
+    foreground: '0x9b9dbf'
+
+  # Normal colors
+  normal:
+    black:   '0x2e2e39'
+    red:     '0x9984a5'
+    green:   '0x5a66aa'
+    yellow:  '0x816bb9'
+    blue:    '0x817eb0'
+    magenta: '0x918aca'
+    cyan:    '0x849aca'
+    white:   '0xbcc9e8'
+
+  # Bright colors
+  bright:
+    black:   '0x45475d'
+    red:     '0xc7acd7'
+    green:   '0x7484dc'
+    yellow:  '0x56519c'
+    blue:    '0x9591ca'
+    magenta: '0x6a66b3'
+    cyan:    '0x9db8f3'
+    white:   '0xc0c0e5'
+
+

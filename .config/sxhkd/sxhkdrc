@@ -15,10 +15,7 @@ super + ctrl + Right
     ~/.bin/portrait-toggle
 
 super + p
-	dm-tool lock
-
-super + o
-	dm-tool lock
+	~/.bin/lock
 
 super + bracket{right,left}
 	{slide-wallpaper,mode-wallpaper}
@@ -26,10 +23,13 @@ super + bracket{right,left}
 super + d
 	sudo s2disk
 
+super + v
+	~/.scripts/shadows.sh
+
 # Applications
 
 super + Return
-	termite
+	~/.bin/terminal
 
 super + space
 	rofi -show run
@@ -88,6 +88,9 @@ super + {_,shift + }{1-9,0}
 super + alt + {h,j,k,l}
 	bspc node -z {right -20 0,top 0 20,bottom 0 -20,left 20 0}
 
+super + alt + shift + {l,k,j,h}
+	bspc node -z {right 20 0,top 0 -20,bottom 0 +20,left -20 0}
+
 super + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
 
@@ -95,7 +98,7 @@ super + alt + {Left,Down,Up,Right}
     bspc node -p {west,south,north,east}
 
 super + {semicolon,apostrophe}
-    ~/.scripts/gap.sh {-10,+10}
+    ~/.scripts/gap.sh {-2,+2}
 
 super + slash
     ~/.scripts/toggle-radius.sh

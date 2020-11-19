@@ -1,12 +1,19 @@
 #!/bin/bash
 
-pac=$(checkupdates | wc -l)
-#aur=$(cower -u 2>&1 > /dev/null | wc -l)
+yay -Sy 2>&1 > /dev/null
 
-check=$((pac)) #+ aur))
+pac=$(pacman -Qu 2>&1 | wc -l)
+aur=$(yay    -Qu 2>&1 | wc -l)
+
+[ -z "$pac$aur" ] \
+	&& echo "No Internet" \
+	&& exit 1
+
+check=$(($pac + $aur))
 if [[ "$check" != "0" ]]
 then
-    echo "$pac %{F#25232A}%{F-}" # $aur"
+	aur=$(($aur - $pac))
+    echo "$pac  $aur"
 else
-	echo "%{F#25232A}%{F-} No updates!"
+	echo "-  -"
 fi

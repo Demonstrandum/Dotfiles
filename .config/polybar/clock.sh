@@ -1,5 +1,5 @@
 #!/bin/bash
 
-time="$(date '+%H:%M')"
+time="$(date '+%a %d %b %H:%M')"
 
-printf " $time"
+printf "$time"

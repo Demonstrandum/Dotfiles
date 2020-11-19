@@ -1,0 +1,39 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 23
+time: 216.612000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Komm, susser Tod, BWV 478 (arr. V. Fox)-iEq_J4V8_mg.mp3
+1:Thorbjørn Egner - So, ro, lillemann-6cRvTzN1Row.mp3
+2:Bukkene Bruse - Målfrid mi fruve-1ouaym0D9hw.mp3
+3:Bukkene Bruse - Miriams Voggelåt-x_SzHrH78DI.mp3
+4:Chopin - Funeral March (Scrolling)-D05AB8xs7qA.mp3
+5:LeftBankTwo.mp3
+6:Bach - Prelude & Fugue No.2 in C minor-JcFHuUJE0mU.mp3
+7:Bach - Harpsichord Concertos/01 - Bach, J S - I - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+8:Bach - Harpsichord Concertos/02 - Bach, J S - II - ADagio - Cembalo Concerto BWV 1052 in D Minor.flac
+9:Bach - Harpsichord Concertos/03 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1052 in D Minor.flac
+10:Bach - Harpsichord Concertos/04 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1053 in E Major.flac
+11:Bach - Harpsichord Concertos/05 - Bach, J S - II - Siciliano - Cembalo Concerto BWV 1053 in E Major.flac
+12:Bach - Harpsichord Concertos/06 - Bach, J S - III - Allegro - Cembalo Concerto BWV 1053 in E Major.flac
+13:Bach - Harpsichord Concertos/07 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1056 in F Minor.flac
+14:Bach - Harpsichord Concertos/08 - Bach, J S - II - Largo - Cembalo Concerto BWV 1056 in F Minor.flac
+15:Bach - Harpsichord Concertos/09 - Bach, J S - III - Presto - Cembalo Concerto BWV 1056 in F Minor.flac
+16:Bach - Harpsichord Concertos/10 - Bach, J S - I - [Allegro] - Cembalo Concerto BWV 1054 in D Major.flac
+17:Bach - Harpsichord Concertos/11 - Bach, J S - II - ADagio E Piano Sempre - Cembalo Concerto BWV 1054 in D Major.flac
+18:Bach - Harpsichord Concertos/12 - Bach, J S - III - AllegroCembalo Concerto BWV 1054 in D Major.flac
+19:Harpsichord Concerto in C Major BWV 1061.flac
+20:Harpsichord Concerto in C Minor BWV 1060.flac
+21:Harpsichord Concerto in C Minor BWV 1062.flac
+22:sarastro.ogg
+23:Ludwig van Beethoven Pathetique Sonate opus 13-Uin6rUByJzY.mp3
+playlist_end

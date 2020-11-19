@@ -163,7 +163,7 @@ configuration {
 
 #vertb {
     expand: false;
-    children: [ dummy0, sidebar, dummy1  ];
+    children: [ dummy0, dummy1  ];
 }
 #dummy0,  dummy1 {
     expand: true;

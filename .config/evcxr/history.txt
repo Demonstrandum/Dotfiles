@@ -1,0 +1,95 @@
+#V2
+"hello".get(2..).unwrap()
+let a = 2
+if true {\nprintln!("hi")\n;\n}
+5
+8;
+"hello " + "world"
+"hello ".to_string() + "world"
+(0usize)
+(0usize as isize)
+(1usize as isize)
+(-1usize as isize)
+(-1isize as isize)
+(-1isize as usize)
+-1i32  + 1u64
+-1i32  + 1u32
+println!("hello")
+println!("hello");
+println!("");
+println!();
+let hello=Some("hi")
+let hello = Some("hi")
+let hello = Some("hi");
+let bye = Some("bye");
+if let Some(msg_1) = hello && let Some(msg_2) = bye {\nprintln!("{} -- {}", msg_1, msg_2);\n}
+if let Some(msg_1) = hello && let Some(msg_2) = bye {\nprintln!("{} -- {}", msg_1, msg_2);\n};
+let a  = [1,2,3];
+a
+a.get(1)
+s = ""
+s
+let s = ""
+s
+println!("{}", s)
+s = 3
+println!("{}", s)
+s = 3;
+let s = 3
+#![feature(let_chaines)]
+let s = 3
+println!("{}", 3)
+println!("{}", "".empty)
+println!("{}", "".empty?)
+println!("{}", "".empty())
+println!("{}", "".is_empty())
+"s"
+true
+true.is_true
+true.is_true()
+0f64
+0.0f64
+0.1f64 + 0.2f64
+0.1f32 + 0.2f32
+0.1f16 + 0.2f16
+'x'
+'c'.is_digit()
+'c'.is_digit(10)
+'1'.is_digit(10)
+'9'.is_digit(10)
+'a'.is_digit(10)
+[1,2,3]
+[1,2,3].join(" ")
+["1","2","3"].join(" ")
+"Hi."
+"Hi.".lower
+"Hi.".downcase()
+"Hi.".lowercase()
+"Hi.".lowcase()
+"Hi.".to_lowercase()
+"--html".split("--")
+"--html".split("--").collect::Vec<&str>()
+"--html".split("--").collect()
+s : Vec<&str> = "--html".split("--").collect()
+"--html".split("--").second()
+"--html".split("--").get(0)
+"--html".split("--").nth(0)
+"--html".split("--").nth(1)
+"\\t \\\n  ".trim()
+" \\t \\\n  ".trim()
+"hell wo".contains()
+"hell wo".contains(" ")
+"hell wo".any()
+"hell wo".some()
+"hell wo".iter().some()
+"hell wo".split('')
+"hell wo".split('');
+"hell wo".split(' ');
+"hell wo".split("");
+"hell wo".split("").any(|c| c == ' ');
+"hell wo".split("").any(|c| c == " ");
+"hell wo".split("").any(|c| c == " ")
+"hell wo".split("").any(|c| c.is_whitespace())
+"hell wo".split('').any(|c| c.is_whitespace())
+"hell wo".chars().any(|c| c.is_whitespace())
+"hellwo".chars().any(|c| c.is_whitespace())

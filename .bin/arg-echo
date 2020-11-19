@@ -1,0 +1,7 @@
+#!/bin/sh
+
+i=0
+for arg do
+	i=$((i + 1))
+	printf "Argument #%02d: $arg\n" $i
+done

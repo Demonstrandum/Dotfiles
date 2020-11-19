@@ -1,6 +1,7 @@
 {
-  "bar_name": "landscape",
-  "orientation": "landscape",
-  "border_radius": "14",
-  "border_width": "2"
+  "border_radius": 20,
+  "terminal": "kitty",
+  "gaps": "15",
+  "border_width": "1",
+  "bar_name": "landscape"
 }
