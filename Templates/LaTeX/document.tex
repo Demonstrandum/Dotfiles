@@ -1,0 +1,62 @@
+\documentclass[11pt,a4paper,twoside]{article}
+
+\title{Template Title}
+\author{S. F. D. Knutsen}
+\def\ID{20185933}
+\input{header.tex}
+
+\usepackage{lipsum}
+
+\begin{document}
+	\newgeometry{margin=1in}
+	\thispagestyle{empty}
+	\makeatletter
+	\begin{titlepage}
+		\begin{center}
+			\vspace*{4cm}
+			{\huge\scshape\@title}
+			\vspace{7mm}\\
+			{\Large The Department of Departments}
+			\vspace{1cm}\\
+			{\large\textit{\@author} ({\normalsize{ID}}:\:\texttt{\ID})}
+
+			\vspace*{\fill}
+			
+			{\textsc{School of Departmental Departmentation}}
+			\vspace{2mm}\\
+			{\small Module code: \texttt{D3PA7M3N7}}
+
+			\vspace*{\fill}
+
+			{\scshape Seasonal Semester 2020--2021}
+
+			{\small \textit{Last compiled}: {\today}.}
+		\end{center}
+	\end{titlepage}
+	\makeatother
+	\restoregeometry{}
+	\newpage
+	\pagenumbering{arabic}
+
+	\section{A Section Title}
+	\lipsum[4]
+	\begin{align*}
+		\Gamma(z) &= \frac{1}{z}\prod_{n=1}^{\infty}
+			\frac%
+				{\left(1 + \frac{1}{n}\right)^z}%
+				{1 + \frac{z}{n}}\\
+		&= \int_0^\infty e^{-t}t^{z-1}\,\dif t
+	\end{align*}
+
+	\lipsum[5]
+
+	\subsection{Some Subsection}
+	\lipsum[6]
+
+	\lipsum[3][1-12]
+
+	\subsubsection{Subbest Subsection}
+	\lipsum[2][1-8]
+
+\end{document}
+

@@ -1,0 +1,395 @@
+\usepackage[utf8]{inputenc}
+\usepackage[UKenglish]{babel}
+\usepackage[UKenglish]{datetime}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{xspace}
+\usepackage{varwidth}
+\usepackage{svg}
+\usepackage{tikz}
+\usetikzlibrary{calc,math,arrows,arrows.meta,decorations.pathreplacing}
+\usepackage{pgfplots}
+\usepackage{pgffor}
+\usepackage{pgfmath}
+\usepackage[super]{nth}
+\usepackage{romannum}
+\AtBeginDocument{\pagenumbering{arabic}}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{makecell}
+\usepackage{tabularx}
+\usepackage{multirow}
+\renewcommand\tabularxcolumn[1]{m{#1}}
+\usepackage{array}
+\usepackage{amsmath,mleftright,amsthm,amsfonts,amssymb,amscd,nccmath}
+\usepackage{centernot}
+\usepackage{relsize}
+\usepackage{physics}
+\usepackage{polynom}
+\usepackage{xparse}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{accents}
+\usepackage{mathtools}
+\usepackage[scaled=1.15]{urwchancal}
+\usepackage{bbding}
+\usepackage{xfrac}
+\usepackage{etoolbox}
+\usepackage[artemisia]{textgreek}
+\usepackage{siunitx}
+\usepackage{parskip}
+\usepackage{multicol}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{mathrsfs}
+%\usepackage{lmodern}
+\usepackage{slantsc}
+\usepackage{bold-extra}
+\usepackage{mfirstuc}
+\usepackage{suffix}
+
+
+%% Cal fonts
+\DeclareMathAlphabet{\pazocal}{OMS}{zplm}{m}{n}
+\newcommand\call[1]{\pazocal{#1}}
+\newcommand\calll[1]{\mathcal{#1}}
+\newcommand\callll[1]{\mathscr{#1}}
+
+%% Nice empty-set.
+\newcommand\oldemptyset\emptyset
+\renewcommand\emptyset{\mathlarger{\mathlarger\varnothing}}
+
+
+%% Header layout.
+\fancyhf{}
+\headheight 14pt
+\fancyhead[RO]{\papertitle}
+\fancyhead[LE]{\paperauthor}
+\fancyhead[RE,LO]{\thepage}
+\pagestyle{fancy}
+
+\makeatletter
+\let\papertitle\@title
+\let\paperauthor\@author
+\makeatother
+
+
+%% Theorems, definitions, remarks, lemmas, corrolaries, &c.
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem*{theorem*}{Theorem}
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem{lemma}{Lemma}[theorem]
+\newtheorem{lemmaalone}{Lemma}[section]
+\newtheorem{proposition}{Proposition}[theorem]
+\newtheorem{problem}{Problem}[theorem]
+\newtheorem{conjecture}{Conjecture}[theorem]
+\newtheorem{claim}{Claim}[theorem]
+\newtheorem*{claim*}{Claim}
+
+\newtheorem{fact}{Fact}[theorem]
+\newtheorem{assumption}{Assumption}
+
+\theoremstyle{remark}
+\newtheorem{construction}{Construction}[theorem]
+\newtheorem{observation}{Observation}[theorem]
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[section]
+\newtheorem{axiom}{Axiom}[definition]
+\newtheorem{example}{Example}
+
+\newtheoremstyle{nbremark}%
+    {}{}{\normalfont}{}{\raisebox{-0.5mm}{\;{\Large\lefthand}\;}\itshape}%
+    {.\ }{  }{}
+\theoremstyle{nbremark}
+
+\newtheorem*{remark*}{Remark}
+\newtheorem{remark}{Remark}[theorem]
+\newtheorem{defremark}{Remark}[definition]
+\newtheorem{secremark}{Remark}[section]
+
+
+%% Inline remark*
+\newcommand\inlineremark[1]{\begin{remark}#1\end{remark}}
+\WithSuffix\newcommand\inlineremark*[1]{\begin{remark*}#1\end{remark*}}
+
+%% Theorem referencing
+\makeatletter
+\newcommand{\thref}[1]{\@splitref#1\@nil}
+%\def\@splitref#1:#2\@nil{{\bfseries\small\capitalisewords{#1}~\ref{#1:#2}}}
+\def\@splitref#1:#2\@nil{{{#1}~\ref{#1:#2}}}
+\makeatother
+
+%% Paragraph formattting.
+\setlength{\parindent}{5ex}
+\setlength{\parskip}{1ex}
+
+
+%% Page geometry
+\geometry{
+    a4paper,
+    textwidth=135mm,
+    top=35mm,
+}
+
+
+%% Section, subsection and section format
+\titleformat{\section}[block]%
+	{\large}%
+	{\rlap{{\large\S}\,\thesection.}}%
+	{0pt}%
+	{\scshape\hspace*{.05\textwidth}\begin{minipage}[t]{.9\textwidth}\centering}%
+	[\end{minipage}\vspace{5pt}]
+
+\titleformat{\subsection}[runin]%
+	{}%
+	{\S\,\thesubsection.}%
+	{2ex}%
+	{\bfseries}[.]
+
+\titleformat{\subsubsection}[runin]%
+	{}%
+	{\S\,\thesubsubsection.}%
+	{2ex}%
+	{\bfseries}[.]
+
+%\usepackage[shortlabels]{enumitem}
+\setlength{\labelsep}{1em}
+\setlist{wide=0pt,leftmargin=*}
+
+\DeclareFontFamily{OT1}{pzc}{}
+\DeclareFontShape{OT1}{pzc}{m}{it}%
+{<-> s * [1.15] pzcmi7t}{}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+\mathtoolsset{showonlyrefs}
+\newtagform{noparen}{---\ (}{)}
+\usetagform{noparen}
+\renewcommand{\eqref}[1]{(\refeq{#1})}
+\renewcommand{\theequation}{\arabic{section}.\Roman{equation}}
+
+% Inner product
+\DeclarePairedDelimiterX{\inp}[2]{\langle}{\rangle}{#1, #2}
+% Floor and ceil
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+\newcommand\bfit[1]{\textbf{\textit{#1}}}
+
+\newcommand\avg[1]{\left\langle{#1}\right\rangle}
+\mathchardef\Re="023C
+\mathchardef\Im="023D
+\let\oldRe\Re
+\let\oldIm\Im
+\renewcommand\Re[1]{\oldRe\mathfrak{e}\left\{#1\right\}}
+\renewcommand\Im[1]{\oldIm\mathfrak{m}\left\{#1\right\}}
+\newcommand\C{\mathbb{C}}
+\newcommand\R{\mathbb{R}}
+\newcommand\Q{\mathbb{Q}}
+\newcommand\N{\mathbb{N}}
+\newcommand\Z{\mathbb{Z}}
+\newcommand\lhs{\text{L.H.S.}}
+\newcommand\rhs{\text{R.H.S.}}
+\newcommand\defeq{\coloneqq}
+\newcommand*{\dif}[1]{\mathop{{\rm d}#1}}
+\newcommand\et{{\;\textit{\&}\:}}
+\newcommand\etc{\textit{\&\hspace{-0.7pt}c}.\@\xspace}
+\newcommand\ie{\textit{i.\hspace{-1.2pt}e}.\@\xspace}
+\newcommand\eg{\textit{e.\hspace{-1pt}g}.\@\xspace}
+\newcommand*{\mf}{\mathfrak}
+\newcommand{\bs}{\textbackslash}
+\newlist{questions}{enumerate}{3}
+\setlist[questions]{itemsep=5mm,listparindent=\parindent}
+\setlist[questions,1]{align=left,label={\arabic*.}}
+\setlist[questions,2]{align=left,labelwidth=4ex,label={(\alph*)}}
+\setlist[questions,3]{align=left,label={(\roman*)},labelwidth=7mm}
+\newcommand\question[2]{\item #1\hfill[#2]}
+
+\newcommand{\markshere}[1]{%
+    \ifmmode\eqno\else\hspace*{\fill}\fi
+    \textrm{[#1]}}
+
+\newcommand\qitem[2][\relax]{\item #2{%
+    \phantom{1pt}%
+    \ifx\relax#1 \ \else \markshere{#1}\fi}}
+
+\makeatletter
+\newcommand{\skipitems}[1]{%
+  \addtocounter{\@enumctr}{#1}}
+\makeatother
+
+\setlength{\jot}{10pt}
+
+\let\abs\undefined
+\let\norm\undefined
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}%
+\DeclarePairedDelimiter\norm{\lVert}{\rVert}%
+
+\makeatletter
+\let\oldabs\abs
+\def\abs{\@ifstar{\oldabs}{\oldabs*}}
+
+\let\oldnorm\norm
+\def\norm{\@ifstar{\oldnorm}{\oldnorm*}}
+\makeatother
+
+\newcommand{\infdiv}{D\infdivx}
+\DeclarePairedDelimiter{\enorm}{\lVert}{\rVert}
+
+\NewDocumentCommand{\evalat}{sO{\big}mm}{%
+  \IfBooleanTF{#1}
+   {\mleft. #3 \mright|_{#4}}
+   {#3#2|_{#4}}%
+}
+
+\newcommand\m{\:\textrm{m}}
+\newcommand\M{\:\Big[\textrm{m}\Big]}
+\newcommand\mm{\:\textrm{mm}}
+\newcommand\MM{\:\Big[\textrm{mm}\Big]}
+\newcommand\un{\underline}
+\newcommand\s{\:\textrm{s}}
+\newcommand\bS{\:\Big[\textrm{S}\Big]}
+\newcommand\ms{\:\frac{\textrm{m}}{\textrm{s}}}
+\newcommand\MS{\:\Big[\frac{\textrm{m}}{\textrm{s}}\Big]}
+\newcommand\mss{\:\frac{\textrm{m}}{\textrm{s}^2}}
+\newcommand\MSS{\:\Big[\frac{\textrm{m}}{\textrm{s}^2}\Big]}
+
+\makeatletter
+\newcommand*\MY@leftharpoonupfill@{
+    \arrowfill@\leftharpoonup\relbar\relbar
+}
+\newcommand*\MY@rightharpoonupfill@{
+    \arrowfill@\relbar\relbar\rightharpoonup
+}
+\newcommand*\overleftharpoon{
+    \mathpalette{\overarrow@\MY@leftharpoonupfill@}
+}
+\newcommand*\overrightharpoon{
+    \mathpalette{\overarrow@\MY@rightharpoonupfill@}
+}
+
+\newcommand*\@dblsty@mathpalette[2]{
+    \mathchoice
+        {#1\displaystyle       \scriptstyle       {#2}}
+        {#1\textstyle          \scriptstyle       {#2}}
+        {#1\scriptstyle        \scriptscriptstyle {#2}}
+        {#1\scriptscriptstyle  \scriptscriptstyle {#2}}
+}
+\newcommand*\@dblsty@overarrow@[4]{
+    \vbox{\ialign{##\crcr
+        #1#3\crcr
+        \noalign{\nointerlineskip}
+        \(\m@th\hfil #2#4\hfil\)\crcr
+    }}
+}
+\newcommand*\smalloverleftharpoon{%
+    \@dblsty@mathpalette{\@dblsty@overarrow@\MY@leftharpoonupfill@}%
+}
+\newcommand*\smalloverrightharpoon{%
+    \@dblsty@mathpalette{\@dblsty@overarrow@\MY@rightharpoonupfill@}%
+}
+\makeatother
+\newcommand{\poon}{\overrightharpoon}
+\newcommand{\spoon}{\smalloverrightharpoon}
+\newcommand\dom{\mathop{\rm dom}\nolimits}
+\newcommand\ran{\mathop{\rm ran}\nolimits}
+\newcommand\variance{\mathop{\rm var}\nolimits}
+\newcommand\pmass[1]{\mathop{p_{\sub #1}}\nolimits}
+\newcommand\cum[1]{\mathop{F_{\sub #1}}\nolimits}
+\newcommand\Po{\mathop{\rm Po}\nolimits}
+\newcommand{\set}[1]{\left\{\,#1\,\right\}}
+\newcommand{\st}{\: : \:}
+\newcommand{\Lim}[1]{\raisebox{0.5ex}{\scalebox{0.8}{$\displaystyle \lim_{#1}\;$}}}
+
+\newcommand{\super}{\textsuperscript}
+\renewcommand{\deg}{{\si{\degree}}}
+\newcommand{\numero}{N\super{\underline{o}}}
+\newcommand{\ihat}{\hat{{\imath}}}
+\newcommand{\jhat}{\hat{{\jmath}}}
+\newcommand{\khat}{\hat{k}}
+
+\newcommand{\smallerrel}[1]{\mathrel{\mathpalette\smallerrelaux{#1}}}
+\newcommand{\smallerrelaux}[2]{\raisebox{.1ex}{\scalebox{.75}{$#1#2$}}}
+
+\newcommand{\shrink}{\smallerrel}
+%% Defining operators
+\let\Implies\implies
+\let\Impliedby\impliedby
+\let\Iff\iff
+\renewcommand\implies{\;\mathop{\Rightarrow}\;}
+\renewcommand\impliedby{\;\mathop{\Leftarrow}\;}
+\renewcommand\iff{\;\mathop{\Leftrightarrow}\;}
+\newcommand\mequiv\Leftrightarrow  %% Material equivalence.
+\newcommand{\comp}{\mathbin{\shrink{\circ}}}
+%\newcommand{\compl}[1]{{#1}^\complement}
+\newcommand{\compl}[1]{\overline{#1}}
+\newcommand\given{\mathop{|}}
+\newcommand\forany\forall
+\newcommand\forsome\exists
+\newcommand\exactlyone{\exists!}
+\newcommand\onlyone{\exists!}
+
+\newcommand{\sub}{\mathchoice{}{}{\scriptscriptstyle}{}}
+
+\newcommand{\then}{\Rightarrow\ }
+\newcommand{\btw}[1]{\noalign{\centering\parbox{8cm}{#1}}}
+\newcommand{\asside}[1]{\qquad\text{\small #1}}
+
+\newcommand\mat[1]{\begin{bmatrix}#1\end{bmatrix}}
+\newcommand\detmat[1]{\begin{vmatrix}#1\end{vmatrix}}
+
+\usepackage{fourier-orns}
+
+\usetikzlibrary{patterns}
+
+\makeatletter
+\newcommand{\pgfplotsdrawaxis}{\pgfplots@draw@axis}
+\makeatother
+\pgfplotsset{only axis on top/.style={axis on top=false, after end axis/.code={
+             \pgfplotsset{axis line style=opaque, ticklabel style=opaque, tick style=opaque,
+                          grid=none}\pgfplotsdrawaxis}}}
+
+\newcommand{\drawge}{-- (rel axis cs:1,0) -- (rel axis cs:1,1) -- (rel axis cs:0,1) \closedcycle}
+\newcommand{\drawle}{-- (rel axis cs:1,1) -- (rel axis cs:1,0) -- (rel axis cs:0,0) \closedcycle}
+
+
+\newcommand{\NB}{\raisebox{-1mm}{\,{\Large \lefthand}\ \,}}
+%\newcommand{\NB}{\,{\bfseries N\hspace{-1.6mm}B}\ \,}
+
+\newcommand{\spacer}[1]{%
+    \vspace*{\fill}
+    \hspace*{-\leftmargin}{\hfil\itshape#1\par}
+    \vspace*{\fill}}
+
+\renewcommand{\arraystretch}{1.2}
+
+%%% TikZ Example %%%
+
+% \begin{tikzpicture}
+%     \begin{axis}[
+%         axis lines = middle,
+%         xlabel = $x$,
+%         ylabel = $f(x)$,
+%         ylabel near ticks,
+%         grid = major,
+%         xtick = {4.85, 3, -1, -1.85},
+%         ytick = {5, -27},
+%         ymax = 10,
+%         ymin = -30,
+%         xmax = 6,
+%         width=13cm,
+%         height=9cm
+%     ]
+%     %\addplot[domain=0:370]{}
+%     \addplot [
+%         domain=-3:8,
+%         samples=200,
+%         color=red,
+%     ]
+%     {x^3 - 3*x^2 - 9*x};
+%     \addlegendentry{$x^3 - 3x^2 - 9x$}
+
+%     \end{axis}
+% \end{tikzpicture}
