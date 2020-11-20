@@ -1,5 +1,8 @@
 # Media Keys
 
+XF86AudioPlay
+	playerctl play-pause
+
 XF86Audio{Raise,Lower}Volume
 	amixer sset Master {3000+,3000-} unmute
 

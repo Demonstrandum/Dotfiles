@@ -177,7 +177,7 @@ label-song-foreground = ${colors.foreground}
 label-song-padding = 3
 icon-pause-padding-right = 3
 icon-play-padding-right = 3
-icon-play-padding-left = 3
+#icon-play-padding-left = 3
 
 icon-prev  = 
 icon-seekb = 
