@@ -1,5 +1,5 @@
 syn keyword cType u0 umin u8 u16 u32 u64 u128 usize uptr umax
-syn keyword cType i0 imin i8 i16 i32 i64 i128 isize iptr imax
+syn keyword cType i0 imin i8 i16 i32 i64 i128 isize iptr imax ierr
 syn keyword cType f32 f64 f80 f128
 
 syn keyword cType byte rune string runic symbol
