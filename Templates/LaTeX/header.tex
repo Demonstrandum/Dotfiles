@@ -6,11 +6,13 @@
 \usepackage{xspace}
 \usepackage{varwidth}
 \usepackage{svg}
+\usepackage{ifthen}
 \usepackage{tikz}
 \usetikzlibrary{calc,math,arrows,arrows.meta,decorations.pathreplacing}
-\usepackage{pgfplots}
-\usepackage{pgffor}
-\usepackage{pgfmath}
+%\usepackage{pgfplots}
+%\pgfplotsset{compat=1.17}
+%\usepackage{pgffor}
+%\usepackage{pgfmath}
 \usepackage[super]{nth}
 \usepackage{romannum}
 \AtBeginDocument{\pagenumbering{arabic}}
@@ -19,8 +21,9 @@
 \usepackage{makecell}
 \usepackage{tabularx}
 \usepackage{multirow}
-\renewcommand\tabularxcolumn[1]{m{#1}}
+%\renewcommand\tabularxcolumn[1]{m{#1}}
 \usepackage{array}
+\newcolumntype{L}{l@{}}
 \usepackage{amsmath,mleftright,amsthm,amsfonts,amssymb,amscd,nccmath}
 \usepackage{centernot}
 \usepackage{relsize}
@@ -41,6 +44,7 @@
 \usepackage{multicol}
 \usepackage{enumerate}
 \usepackage{enumitem}
+\usepackage{moreenum}
 \usepackage{mathtools}
 \usepackage{mathrsfs}
 %\usepackage{lmodern}
@@ -49,6 +53,12 @@
 \usepackage{mfirstuc}
 \usepackage{suffix}
 
+%% Nice diagrams.
+\usepackage[all,cmtip]{xy}
+
+%% Vector notation
+\usepackage{harpoon}
+\renewcommand{\vec}{\overrightharp}
 
 %% Cal fonts
 \DeclareMathAlphabet{\pazocal}{OMS}{zplm}{m}{n}
@@ -75,13 +85,12 @@
 \makeatother
 
 
-%% Theorems, definitions, remarks, lemmas, corrolaries, &c.
+%% Theorems, definitions, remarks, lemmas, corollaries, &c.
 \theoremstyle{plain}
 \newtheorem{theorem}{Theorem}[section]
 \newtheorem*{theorem*}{Theorem}
 \newtheorem{corollary}{Corollary}[theorem]
-\newtheorem{lemma}{Lemma}[theorem]
-\newtheorem{lemmaalone}{Lemma}[section]
+\newtheorem{lemma}[theorem]{Lemma}
 \newtheorem{proposition}{Proposition}[theorem]
 \newtheorem{problem}{Problem}[theorem]
 \newtheorem{conjecture}{Conjecture}[theorem]
@@ -93,23 +102,29 @@
 
 \theoremstyle{remark}
 \newtheorem{construction}{Construction}[theorem]
-\newtheorem{observation}{Observation}[theorem]
 
 \theoremstyle{definition}
-\newtheorem{definition}{Definition}[section]
-\newtheorem{axiom}{Axiom}[definition]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{axiom}{Axiom}[theorem]
 \newtheorem{example}{Example}
+\newtheorem*{example*}{Example}
+
+\theoremstyle{plain}
+\newtheorem{defcorollary}{Corollary}[theorem]
 
 \newtheoremstyle{nbremark}%
     {}{}{\normalfont}{}{\raisebox{-0.5mm}{\;{\Large\lefthand}\;}\itshape}%
     {.\ }{  }{}
-\theoremstyle{nbremark}
 
+\theoremstyle{nbremark}
 \newtheorem*{remark*}{Remark}
 \newtheorem{remark}{Remark}[theorem]
-\newtheorem{defremark}{Remark}[definition]
+\newtheorem{defremark}{Remark}[theorem]
 \newtheorem{secremark}{Remark}[section]
-
+\newtheorem{observation}{Observation}[theorem]
+\newtheorem*{observation*}{Observation}
+\newtheorem{demonstration}{Demonstration}[theorem]
+\newtheorem*{demonstration*}{Demonstration}
 
 %% Inline remark*
 \newcommand\inlineremark[1]{\begin{remark}#1\end{remark}}
@@ -157,7 +172,8 @@
 
 %\usepackage[shortlabels]{enumitem}
 \setlength{\labelsep}{1em}
-\setlist{wide=0pt,leftmargin=*}
+\setlist{wide=3pt,leftmargin=*,align=right}
+\setlist[itemize]{label=\scalebox{0.7}{\textbullet}}
 
 \DeclareFontFamily{OT1}{pzc}{}
 \DeclareFontShape{OT1}{pzc}{m}{it}%
@@ -167,7 +183,7 @@
 \mathtoolsset{showonlyrefs}
 \newtagform{noparen}{---\ (}{)}
 \usetagform{noparen}
-\renewcommand{\eqref}[1]{(\refeq{#1})}
+\renewcommand{\eqref}[1]{{\rm(\refeq{#1})}}
 \renewcommand{\theequation}{\arabic{section}.\Roman{equation}}
 
 % Inner product
@@ -193,13 +209,15 @@
 \newcommand\lhs{\text{L.H.S.}}
 \newcommand\rhs{\text{R.H.S.}}
 \newcommand\defeq{\coloneqq}
+\newcommand\ident{\equiv}
 \newcommand*{\dif}[1]{\mathop{{\rm d}#1}}
 \newcommand\et{{\;\textit{\&}\:}}
 \newcommand\etc{\textit{\&\hspace{-0.7pt}c}.\@\xspace}
 \newcommand\ie{\textit{i.\hspace{-1.2pt}e}.\@\xspace}
 \newcommand\eg{\textit{e.\hspace{-1pt}g}.\@\xspace}
-\newcommand*{\mf}{\mathfrak}
+\newcommand{\mf}{\mathfrak}
 \newcommand{\bs}{\textbackslash}
+\SetLabelAlign{parright}{\parbox[t]{\labelwidth}{\raggedleft#1}}
 \newlist{questions}{enumerate}{3}
 \setlist[questions]{itemsep=5mm,listparindent=\parindent}
 \setlist[questions,1]{align=left,label={\arabic*.}}
@@ -213,14 +231,15 @@
 
 \newcommand\qitem[2][\relax]{\item #2{%
     \phantom{1pt}%
-    \ifx\relax#1 \ \else \markshere{#1}\fi}}
+    \ifx\relax#1 \ \else \markshere{#1}\fi}%
+	\par}
 
 \makeatletter
 \newcommand{\skipitems}[1]{%
   \addtocounter{\@enumctr}{#1}}
 \makeatother
 
-\setlength{\jot}{10pt}
+%\setlength{\jot}{10pt}
 
 \let\abs\undefined
 \let\norm\undefined
@@ -293,15 +312,29 @@
 \makeatother
 \newcommand{\poon}{\overrightharpoon}
 \newcommand{\spoon}{\smalloverrightharpoon}
+\newcommand{\overbar}[1]{\mkern 1.5mu\overline{\mkern-1.5mu#1\mkern-1.5mu}\mkern 1.5mu}
+\newcommand\id{\mathop{\rm id}\nolimits}
+\newcommand\supp{\mathop{\rm supp}\nolimits}
 \newcommand\dom{\mathop{\rm dom}\nolimits}
 \newcommand\ran{\mathop{\rm ran}\nolimits}
-\newcommand\variance{\mathop{\rm var}\nolimits}
+\newcommand\cov{\mathop{\rm cov}\nolimits}
+\newcommand\variance{\mathop{\rm Var}\nolimits}
+\newcommand\U{\operatorname{\rm U}\nolimits}
+\newcommand\Exp{\mathop{\rm Exp}\nolimits}
+\newcommand\Gam{\mathop{\rm Gamma}\nolimits}
+\newcommand\Bet{\mathop{\rm Beta}\nolimits}
+\newcommand\Norm{\operatorname{\rm N}\nolimits}
+\newcommand\NegBin{\operatorname{\rm NegBin}\nolimits}
 \newcommand\pmass[1]{\mathop{p_{\sub #1}}\nolimits}
 \newcommand\cum[1]{\mathop{F_{\sub #1}}\nolimits}
 \newcommand\Po{\mathop{\rm Po}\nolimits}
 \newcommand{\set}[1]{\left\{\,#1\,\right\}}
 \newcommand{\st}{\: : \:}
 \newcommand{\Lim}[1]{\raisebox{0.5ex}{\scalebox{0.8}{$\displaystyle \lim_{#1}\;$}}}
+
+%% Big version of math operators
+\usepackage{scalerel}
+\newcommand{\bigop}[1]{\mathop{\scalerel*{#1}{\sum}}\limits}
 
 \newcommand{\super}{\textsuperscript}
 \renewcommand{\deg}{{\si{\degree}}}
@@ -322,7 +355,7 @@
 \renewcommand\impliedby{\;\mathop{\Leftarrow}\;}
 \renewcommand\iff{\;\mathop{\Leftrightarrow}\;}
 \newcommand\mequiv\Leftrightarrow  %% Material equivalence.
-\newcommand{\comp}{\mathbin{\shrink{\circ}}}
+\newcommand{\comp}{\mathop{\shrink{\circ}}}
 %\newcommand{\compl}[1]{{#1}^\complement}
 \newcommand{\compl}[1]{\overline{#1}}
 \newcommand\given{\mathop{|}}
@@ -330,6 +363,8 @@
 \newcommand\forsome\exists
 \newcommand\exactlyone{\exists!}
 \newcommand\onlyone{\exists!}
+\newcommand\union{\cup}
+\newcommand\inter{\cap}
 
 \newcommand{\sub}{\mathchoice{}{}{\scriptscriptstyle}{}}
 
@@ -337,20 +372,22 @@
 \newcommand{\btw}[1]{\noalign{\centering\parbox{8cm}{#1}}}
 \newcommand{\asside}[1]{\qquad\text{\small #1}}
 
-\newcommand\mat[1]{\begin{bmatrix}#1\end{bmatrix}}
+\renewcommand\pmat[1]{\begin{pmatrix}#1\end{pmatrix}}
+\newcommand{\mat}[2][b]{\begin{#1matrix}#2\end{#1matrix}}
+\newcommand\bmat{\mat}
 \newcommand\detmat[1]{\begin{vmatrix}#1\end{vmatrix}}
 
 \usepackage{fourier-orns}
 
 \usetikzlibrary{patterns}
 
-\makeatletter
-\newcommand{\pgfplotsdrawaxis}{\pgfplots@draw@axis}
-\makeatother
-\pgfplotsset{only axis on top/.style={axis on top=false, after end axis/.code={
-             \pgfplotsset{axis line style=opaque, ticklabel style=opaque, tick style=opaque,
-                          grid=none}\pgfplotsdrawaxis}}}
-
+%\makeatletter
+%\newcommand{\pgfplotsdrawaxis}{\pgfplots@draw@axis}
+%\makeatother
+%\pgfplotsset{only axis on top/.style={axis on top=false, after end axis/.code={
+%             \pgfplotsset{axis line style=opaque, ticklabel style=opaque, tick style=opaque,
+%                          grid=none}\pgfplotsdrawaxis}}}
+%
 \newcommand{\drawge}{-- (rel axis cs:1,0) -- (rel axis cs:1,1) -- (rel axis cs:0,1) \closedcycle}
 \newcommand{\drawle}{-- (rel axis cs:1,1) -- (rel axis cs:1,0) -- (rel axis cs:0,0) \closedcycle}
 
@@ -363,8 +400,49 @@
     \hspace*{-\leftmargin}{\hfil\itshape#1\par}
     \vspace*{\fill}}
 
-\renewcommand{\arraystretch}{1.2}
+\renewcommand{\arraystretch}{1.07}
 
+%% Tightly spaced math lines.
+\newenvironment{tight}[1][0ex]%
+	{\spreadlines{#1}\align}%
+	{\endalign\endspreadlines}
+
+%% xy-pic diagrams
+\usepackage{environ}
+\NewEnviron{diag}[1][1.1]{%
+	\[\scalebox{#1}{\xymatrix{\BODY}}\]%
+}
+
+%% tikz drawing permutations.
+\newcommand{\permut}[3][1]{%
+	\def\gap{1.2pt}%  % Larger gap with arrow `Bar-To` is also pretty.
+	\def\dot{1.2pt}%
+	\def\dotstyle{teal!80}%
+	\tikz[baseline={#1 mm * 5 - 2}]{%
+		% Draw top row numbers, (domain).
+		\foreach \elem [count=\i] in {#2} {%
+			\draw (\i, #1) node[anchor=south]{\(\elem\)};%
+		}%
+		% Draw arrows to  next row of numbers.
+		\foreach \level in {#1,...,1} {%
+			\foreach \next [count=\i] in {#3} {%
+				% Find index of this element (\next), in {#2}.
+				\foreach \elem [count=\j] in {#2} {%
+					\ifthenelse{\equal{\next}{\elem}}%
+						{\draw[thick,->,shorten >=\gap,shorten <=\gap]%
+							(\i, \level) -- (\j, {\level - 1});}%
+						{}%
+				}%
+				\draw[fill=\dotstyle] (\i, \level) circle(\dot);%
+			}%
+		}%
+		% Draw bottom row numbers and circles, (range).
+		\foreach \elem [count=\i] in {#2} {%
+			\draw[fill=\dotstyle] (\i, 0) circle(\dot)%
+				node[anchor=north]{\(\elem\)};%
+		}%
+	}%
+}
 %%% TikZ Example %%%
 
 % \begin{tikzpicture}
