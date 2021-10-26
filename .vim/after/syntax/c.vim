@@ -1,14 +1,22 @@
 syn keyword cType u0 umin u8 u16 u32 u64 u128 usize uptr umax
-syn keyword cType i0 imin i8 i16 i32 i64 i128 isize iptr imax ierr
+syn keyword cType i0 imin i8 i16 i32 i64 i128 isize iptr imax
+syn keyword cType uerr ufast uword
+syn keyword cType ierr ifast iword
 syn keyword cType f32 f64 f80 f128
 
 syn keyword cType byte rune string runic symbol
 
-syn keyword cConditional unless
-syn keyword cRepeat loop until foreach FOR_EACH
+syn keyword cConditional unless never always
+syn keyword cRepeat loop whilst until foreach FOR_EACH
 
-syn keyword cTypedef newtype newarray newslice unqualify
-syn keyword cConstant NULL nil
+syn keyword cTypedef newtype arrayof newarray sliceof newslice hashof newhashable mapof newmap
+syn keyword cTypedef unqualify record enumerable overlap
+syn keyword cConstant NULL nil OK UNIT
+
+syn keyword cAnsiName NOOP
+
+syn keyword cAnsiFunction init print sprint println eprintf eprint eprintln fprint
+syn keyword cAnsiFunction put fput eput eputs
 
 " Not mine.
 syn keyword cAnsiFunction	MULU_ DIVU_ MODU_ MUL_ DIV_ MOD_
