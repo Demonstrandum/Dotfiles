@@ -1,0 +1,40 @@
+\documentclass[a5paper,twoside,openright]{memoir}
+
+\include{preamble.tex}
+
+\usepackage{lipsum}
+
+\title{Quelle Livre!}
+\author{S. F. D. Knutsen}
+
+\begin{document}
+\setlrmargins{*}{*}{1}
+\checkandfixthelayout[nearest]
+\thispagestyle{empty}
+\begin{center}
+	{\LARGE\scshape \thetitle}
+
+	\vspace{4cm}
+
+	{\large\itshape \theauthor}
+\end{center}
+\cleardoublepage
+
+% Set normal margins.
+\setlrmarginsandblock{3cm}{2.5cm}{*} % spine v. edge.
+\setulmarginsandblock{3.5cm}{3cm}{*}   % upper v. lower.
+\checkandfixthelayout[nearest]
+
+\frontmatter
+{\HUGE\itshape Front-Matter}\vspace{1cm}\\
+\lipsum[1-2]
+
+\mainmatter
+
+\chapter{Hello World}
+\lipsum[3-10]
+
+\chapter{Goodbye World}
+\lipsum[11-20]
+
+\end{document}
