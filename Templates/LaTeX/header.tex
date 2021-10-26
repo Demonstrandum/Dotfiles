@@ -1,29 +1,41 @@
-\usepackage[utf8]{inputenc}
+\usepackage{ifxetex}
+\ifxetex
+	\usepackage{fontspec}
+\else
+	\usepackage[utf8]{inputenc}
+\fi
+
 \usepackage[UKenglish]{babel}
 \usepackage[UKenglish]{datetime}
 \usepackage[T1]{fontenc}
 \usepackage{geometry}
+\usepackage{moresize}
+\usepackage{tocloft}
+\usepackage{adjustbox}
+\usepackage{graphicx}
 \usepackage{xspace}
 \usepackage{varwidth}
 \usepackage{svg}
 \usepackage{ifthen}
 \usepackage{tikz}
-\usetikzlibrary{calc,math,arrows,arrows.meta,decorations.pathreplacing}
-%\usepackage{pgfplots}
-%\pgfplotsset{compat=1.17}
-%\usepackage{pgffor}
-%\usepackage{pgfmath}
+\usetikzlibrary{calc,math,arrows,arrows.meta,
+	decorations.pathreplacing,shapes.geometric,patterns,calligraphy}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17}
+\usepackage{pgffor}
+\usepackage{pgfmath}
 \usepackage[super]{nth}
 \usepackage{romannum}
 \AtBeginDocument{\pagenumbering{arabic}}
 \usepackage{float}
-\usepackage{caption}
+\usepackage[font=footnotesize,justification=centering,margin=1cm]{caption}
 \usepackage{makecell}
 \usepackage{tabularx}
 \usepackage{multirow}
 %\renewcommand\tabularxcolumn[1]{m{#1}}
 \usepackage{array}
 \newcolumntype{L}{l@{}}
+\newcolumntype{R}{r@{}}
 \usepackage{amsmath,mleftright,amsthm,amsfonts,amssymb,amscd,nccmath}
 \usepackage{centernot}
 \usepackage{relsize}
@@ -37,6 +49,8 @@
 \usepackage[scaled=1.15]{urwchancal}
 \usepackage{bbding}
 \usepackage{xfrac}
+\usepackage{nicefrac}
+\let\ifrac\nicefrac
 \usepackage{etoolbox}
 \usepackage[artemisia]{textgreek}
 \usepackage{siunitx}
@@ -45,39 +59,68 @@
 \usepackage{enumerate}
 \usepackage{enumitem}
 \usepackage{moreenum}
-\usepackage{mathtools}
 \usepackage{mathrsfs}
 %\usepackage{lmodern}
 \usepackage{slantsc}
 \usepackage{bold-extra}
 \usepackage{mfirstuc}
 \usepackage{suffix}
+\usepackage{contour}
+\usepackage{ulem}
+\usepackage{color,soul}
+
+\def\noop{}
+
+%% Alias some `soul` macros
+\let\emph\relax
+\DeclareTextFontCommand{\emph}{\itshape}
+\let\strike\st
+\let\under\ul
+\undef\st
+\undef\ul
+\definecolor{lightblue}{rgb}{.90,.95,1}
+\definecolor{lightgreen}{rgb}{.90,1,.95}
+\sethlcolor{lightgreen}
 
 %% Nice diagrams.
 \usepackage[all,cmtip]{xy}
 
-%% Vector notation
+%% Vector notation.
 \usepackage{harpoon}
 \renewcommand{\vec}{\overrightharp}
 
+%% Good underline (white background only).
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+\newcommand{\ul}[1]{%
+  \uline{\phantom{#1}}%
+  \llap{\contour{white}{#1}}%
+}
+
 %% Cal fonts
 \DeclareMathAlphabet{\pazocal}{OMS}{zplm}{m}{n}
-\newcommand\call[1]{\pazocal{#1}}
-\newcommand\calll[1]{\mathcal{#1}}
-\newcommand\callll[1]{\mathscr{#1}}
+\newcommand\mcal  [1]{\pazocal{#1}}
+\newcommand\mcall [1]{\mathcal{#1}}
+\newcommand\mcalll[1]{\mathscr{#1}}
 
 %% Nice empty-set.
 \newcommand\oldemptyset\emptyset
 \renewcommand\emptyset{\mathlarger{\mathlarger\varnothing}}
 
+%% Footnote style.
+\renewcommand{\thefootnote}{[\arabic{footnote}]}
 
 %% Header layout.
-\fancyhf{}
-\headheight 14pt
-\fancyhead[RO]{\papertitle}
-\fancyhead[LE]{\paperauthor}
-\fancyhead[RE,LO]{\thepage}
-\pagestyle{fancy}
+\ifdefined\noheader
+	\noop
+\else
+	\fancyhf{}
+	\headheight 14pt
+	\fancyhead[RO]{\papertitle}
+	\fancyhead[LE]{\paperauthor}
+	\fancyhead[RE,LO]{\thepage}
+	\pagestyle{fancy}
+\fi
 
 \makeatletter
 \let\papertitle\@title
@@ -91,9 +134,9 @@
 \newtheorem*{theorem*}{Theorem}
 \newtheorem{corollary}{Corollary}[theorem]
 \newtheorem{lemma}[theorem]{Lemma}
-\newtheorem{proposition}{Proposition}[theorem]
+\newtheorem{proposition}[theorem]{Proposition}
 \newtheorem{problem}{Problem}[theorem]
-\newtheorem{conjecture}{Conjecture}[theorem]
+\newtheorem{conjecture}{Conjecture}[section]
 \newtheorem{claim}{Claim}[theorem]
 \newtheorem*{claim*}{Claim}
 
@@ -137,9 +180,12 @@
 \def\@splitref#1:#2\@nil{{{#1}~\ref{#1:#2}}}
 \makeatother
 
+%% Figure referencing.
+\newcommand{\figref}[1]{figure~\ref{fig:#1}}
+
 %% Paragraph formattting.
 \setlength{\parindent}{5ex}
-\setlength{\parskip}{1ex}
+\setlength{\parskip}{1ex plus 2pt}
 
 
 %% Page geometry
@@ -170,6 +216,14 @@
 	{2ex}%
 	{\bfseries}[.]
 
+%% Useful commands
+\makeatletter
+\newcommand\cdotfill{%
+    \leavevmode\cleaders\hb@xt@.44em{\hss$\cdot$\hss}\hfill\kern\z@
+}
+\makeatother
+
+%% Itemize and enumeratge styling
 %\usepackage[shortlabels]{enumitem}
 \setlength{\labelsep}{1em}
 \setlist{wide=3pt,leftmargin=*,align=right}
@@ -180,7 +234,7 @@
 {<-> s * [1.15] pzcmi7t}{}
 \DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
 
-\mathtoolsset{showonlyrefs}
+\mathtoolsset{showonlyrefs=true,centercolon,mathic=true}
 \newtagform{noparen}{---\ (}{)}
 \usetagform{noparen}
 \renewcommand{\eqref}[1]{{\rm(\refeq{#1})}}
@@ -210,13 +264,21 @@
 \newcommand\rhs{\text{R.H.S.}}
 \newcommand\defeq{\coloneqq}
 \newcommand\ident{\equiv}
-\newcommand*{\dif}[1]{\mathop{{\rm d}#1}}
-\newcommand\et{{\;\textit{\&}\:}}
-\newcommand\etc{\textit{\&\hspace{-0.7pt}c}.\@\xspace}
-\newcommand\ie{\textit{i.\hspace{-1.2pt}e}.\@\xspace}
+\newcommand{\dif}[1]{\mathop{{\rm d}#1}}
+\newcommand{\del}{\spoon{\nabla}}
+\renewcommand{\grad}[1]{{\del}{#1}}
+\renewcommand{\div}[1]{{\del}\cdot{#1}}
+\renewcommand{\curl}[1]{{\del}\cross{#1}}
+\renewcommand{\laplacian}[1]{{\nabla}^2{#1}}
+\newcommand\et{{\textit{\&}\;}}
+\newcommand\etc{\mbox{\textit{\&\hspace{-0.7pt}c}.\@\xspace}}
+\newcommand\ie{\mbox{\textit{i.\hspace{-1.2pt}e}.\@\xspace}}
 \newcommand\eg{\textit{e.\hspace{-1pt}g}.\@\xspace}
 \newcommand{\mf}{\mathfrak}
+\newcommand{\mbf}{\mathbf}
 \newcommand{\bs}{\textbackslash}
+
+%% Questions styling.
 \SetLabelAlign{parright}{\parbox[t]{\labelwidth}{\raggedleft#1}}
 \newlist{questions}{enumerate}{3}
 \setlist[questions]{itemsep=5mm,listparindent=\parindent}
@@ -262,6 +324,9 @@
    {\mleft. #3 \mright|_{#4}}
    {#3#2|_{#4}}%
 }
+
+\newcommand{\seq}[1]{({#1}_n)}
+\newcommand{\dseq}[1]{\seq{\vec{#1}}}
 
 \newcommand\m{\:\textrm{m}}
 \newcommand\M{\:\Big[\textrm{m}\Big]}
@@ -313,23 +378,43 @@
 \newcommand{\poon}{\overrightharpoon}
 \newcommand{\spoon}{\smalloverrightharpoon}
 \newcommand{\overbar}[1]{\mkern 1.5mu\overline{\mkern-1.5mu#1\mkern-1.5mu}\mkern 1.5mu}
-\newcommand\id{\mathop{\rm id}\nolimits}
-\newcommand\supp{\mathop{\rm supp}\nolimits}
-\newcommand\dom{\mathop{\rm dom}\nolimits}
-\newcommand\ran{\mathop{\rm ran}\nolimits}
-\newcommand\cov{\mathop{\rm cov}\nolimits}
-\newcommand\variance{\mathop{\rm Var}\nolimits}
-\newcommand\U{\operatorname{\rm U}\nolimits}
-\newcommand\Exp{\mathop{\rm Exp}\nolimits}
-\newcommand\Gam{\mathop{\rm Gamma}\nolimits}
-\newcommand\Bet{\mathop{\rm Beta}\nolimits}
-\newcommand\Norm{\operatorname{\rm N}\nolimits}
-\newcommand\NegBin{\operatorname{\rm NegBin}\nolimits}
-\newcommand\pmass[1]{\mathop{p_{\sub #1}}\nolimits}
-\newcommand\cum[1]{\mathop{F_{\sub #1}}\nolimits}
-\newcommand\Po{\mathop{\rm Po}\nolimits}
+\newcommand{\fn}[1]{\mathop{\rm #1}\nolimits\!}
+\DeclareMathOperator{\interior}{int}
+\DeclareMathOperator{\sgn}{sgn}
+\DeclareMathOperator{\id}{id}
+\DeclareMathOperator{\ord}{ord}
+\DeclareMathOperator{\supp}{supp}
+\DeclareMathOperator{\dom}{dom}
+\DeclareMathOperator{\ran}{ran}
+\DeclareMathOperator{\cov}{cov}
+\DeclareMathOperator{\variance}{Var} \newcommand\Var\variance
+\DeclareMathOperator{\U}{U}
+\DeclareMathOperator{\Exp}{Exp}
+\DeclareMathOperator{\Gam}{Gamma}
+\DeclareMathOperator{\Bet}{Beta}
+\DeclareMathOperator{\Norm}{N}
+\DeclareMathOperator{\NegBin}{NegBin}
+\newcommand\cum\cdf
+\newcommand\pmass\pms
+\newcommand\pms[1]{\mathop{p_{\sub #1}}\nolimits}
+\newcommand\cdf[1]{\mathop{F_{\sub #1}}\nolimits}
+\newcommand\pdf[1]{\mathop{f_{\sub #1}}\nolimits}
+\DeclareMathOperator{\Po}{Po}
+\newcommand\HOM{({\footnotesize\bfseries\scshape{Hom}})}
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\Aut}{Aut}
+\newcommand\Power{\mathop{\mathcal{P}}\nolimits}
+\DeclareMathOperator{\Ker}{Ker}
+\newcommand\inv{^{-1}}
+\newcommand\eps{\varepsilon}
+\newcommand\tht{\vartheta}
+\newcommand\ph{\varphi}
+\newcommand\BW{Bolzano-\!Weierstra{\ss}}
+\newcommand\coord{co\"ordinate}
+\newcommand{\GL}[2][1]{G\!L_{#1}\!\left(#2\right)}
 \newcommand{\set}[1]{\left\{\,#1\,\right\}}
-\newcommand{\st}{\: : \:}
+\newcommand{\excl}[1]{\setminus\set{#1}}
+\newcommand{\st}{\, : \,}
 \newcommand{\Lim}[1]{\raisebox{0.5ex}{\scalebox{0.8}{$\displaystyle \lim_{#1}\;$}}}
 
 %% Big version of math operators
@@ -337,7 +422,9 @@
 \newcommand{\bigop}[1]{\mathop{\scalerel*{#1}{\sum}}\limits}
 
 \newcommand{\super}{\textsuperscript}
-\renewcommand{\deg}{{\si{\degree}}}
+\newcommand{\degree}{{\si{\degree}}}
+\renewcommand{\deg}{\mathop{\rm deg}\nolimits}
+\newcommand{\coef}{\mathop{\rm coef}\nolimits}
 \newcommand{\numero}{N\super{\underline{o}}}
 \newcommand{\ihat}{\hat{{\imath}}}
 \newcommand{\jhat}{\hat{{\jmath}}}
@@ -346,7 +433,14 @@
 \newcommand{\smallerrel}[1]{\mathrel{\mathpalette\smallerrelaux{#1}}}
 \newcommand{\smallerrelaux}[2]{\raisebox{.1ex}{\scalebox{.75}{$#1#2$}}}
 
+\newcommand{\tinyrel}[1]{\mathrel{\mathpalette\tinyrelaux{#1}}}
+\newcommand{\tinyrelaux}[2]{\raisebox{.1ex}{\scalebox{.55}{$#1#2$}}}
+
 \newcommand{\shrink}{\smallerrel}
+\newcommand{\Shrink}{\tinyrel}
+\NewDocumentCommand{\pad}{O{1ex}O{1ex}m}{\hspace*{#1}#3\hspace*{#2}}
+\newcommand{\lpad}[2][2ex]{\pad[#1][0pt]{#2}}
+\newcommand{\rpad}[2][2ex]{\pad[0.01pt][#1]{#2}}
 %% Defining operators
 \let\Implies\implies
 \let\Impliedby\impliedby
@@ -354,19 +448,29 @@
 \renewcommand\implies{\;\mathop{\Rightarrow}\;}
 \renewcommand\impliedby{\;\mathop{\Leftarrow}\;}
 \renewcommand\iff{\;\mathop{\Leftrightarrow}\;}
+\newcommand{\proofleft}{{($\Longleftarrow$)\quad}}
+\newcommand{\proofright}{{($\Longrightarrow$)\quad}}
+\newcommand\To\longrightarrow
+\newcommand\Mapsto\longmapsto
 \newcommand\mequiv\Leftrightarrow  %% Material equivalence.
 \newcommand{\comp}{\mathop{\shrink{\circ}}}
+\newcommand{\iron}{\mathop{\Shrink{\maltese}}}
 %\newcommand{\compl}[1]{{#1}^\complement}
 \newcommand{\compl}[1]{\overline{#1}}
 \newcommand\given{\mathop{|}}
+\newcommand\mbar{\;\middle|\;}
 \newcommand\forany\forall
+\newcommand\any\forall
 \newcommand\forsome\exists
+\newcommand\some\exists
 \newcommand\exactlyone{\exists!}
 \newcommand\onlyone{\exists!}
 \newcommand\union{\cup}
 \newcommand\inter{\cap}
+\newcommand\by\cross
 
 \newcommand{\sub}{\mathchoice{}{}{\scriptscriptstyle}{}}
+\newcommand{\ssub}[1]{_{\sub{#1}}}
 
 \newcommand{\then}{\Rightarrow\ }
 \newcommand{\btw}[1]{\noalign{\centering\parbox{8cm}{#1}}}
@@ -376,10 +480,13 @@
 \newcommand{\mat}[2][b]{\begin{#1matrix}#2\end{#1matrix}}
 \newcommand\bmat{\mat}
 \newcommand\detmat[1]{\begin{vmatrix}#1\end{vmatrix}}
+\newenvironment{amatrix}[2]{%
+	\left[\begin{array}{*{#1}{c}|*{#2}{c}}
+}{%
+  \end{array}\right]
+}
 
 \usepackage{fourier-orns}
-
-\usetikzlibrary{patterns}
 
 %\makeatletter
 %\newcommand{\pgfplotsdrawaxis}{\pgfplots@draw@axis}
@@ -413,6 +520,15 @@
 	\[\scalebox{#1}{\xymatrix{\BODY}}\]%
 }
 
+\tikzset{
+  compass/.pic = {
+    \foreach[count=\i,evaluate={\m=div(\i-1,4);\a=90*\i-45*(\m+1)}] \d in {NE,NW,SW,SE,E,N,W,S}{
+      \filldraw[pic actions,rotate=\a,scale=.7+.3*\m] (0,0) -- (45:1)--(0:3) node[transform shape,rotate=-90,above,yshift=3pt]{\bf\d};
+      \filldraw[pic actions,fill=white,rotate=\a,scale=.7+.3*\m] (0,0) -- (-45:1)--(0:3)--cycle;
+    };
+  }
+}
+
 %% tikz drawing permutations.
 \newcommand{\permut}[3][1]{%
 	\def\gap{1.2pt}%  % Larger gap with arrow `Bar-To` is also pretty.
@@ -443,6 +559,20 @@
 		}%
 	}%
 }
+
+%% Polygon for TikZ
+\NewDocumentCommand{\polygon}{O{}O{}mO{-90}}{
+  \pgfmathsetmacro{\angle}{360/#3}
+  \pgfmathsetmacro{\startangle}{#4 + \angle/2}
+  \pgfmathsetmacro{\y}{cos(\angle/2)}
+  \begin{scope}[#2]
+    \foreach \i in {1,2,...,#3} {
+      \pgfmathsetmacro{\x}{\startangle + \angle*\i}
+	  \draw[#1] (\x:1) -- (\x + \angle:1);
+    }
+  \end{scope}
+}
+
 %%% TikZ Example %%%
 
 % \begin{tikzpicture}
