@@ -377,7 +377,8 @@
 \makeatother
 \newcommand{\poon}{\overrightharpoon}
 \newcommand{\spoon}{\smalloverrightharpoon}
-\newcommand{\overbar}[1]{\mkern 1.5mu\overline{\mkern-1.5mu#1\mkern-1.5mu}\mkern 1.5mu}
+\newcommand{\overbar}[1]{\mkern
+1.5mu\overline{\mkern-1.5mu#1\mkern-1.5mu}\mkern 1.5mu}
 \newcommand{\fn}[1]{\mathop{\rm #1}\nolimits\!}
 \DeclareMathOperator{\interior}{int}
 \DeclareMathOperator{\sgn}{sgn}
@@ -415,7 +416,8 @@
 \newcommand{\set}[1]{\left\{\,#1\,\right\}}
 \newcommand{\excl}[1]{\setminus\set{#1}}
 \newcommand{\st}{\, : \,}
-\newcommand{\Lim}[1]{\raisebox{0.5ex}{\scalebox{0.8}{$\displaystyle \lim_{#1}\;$}}}
+\newcommand{\Lim}[1]{\raisebox{0.5ex}{\scalebox{0.8}{$\displaystyle
+\lim_{#1}\;$}}}
 
 %% Big version of math operators
 \usepackage{scalerel}
@@ -491,12 +493,16 @@
 %\makeatletter
 %\newcommand{\pgfplotsdrawaxis}{\pgfplots@draw@axis}
 %\makeatother
-%\pgfplotsset{only axis on top/.style={axis on top=false, after end axis/.code={
-%             \pgfplotsset{axis line style=opaque, ticklabel style=opaque, tick style=opaque,
+%\pgfplotsset{only axis on top/.style={axis on top=false, after end
+axis/.code={
+%             \pgfplotsset{axis line style=opaque, ticklabel style=opaque, tick
+style=opaque,
 %                          grid=none}\pgfplotsdrawaxis}}}
 %
-\newcommand{\drawge}{-- (rel axis cs:1,0) -- (rel axis cs:1,1) -- (rel axis cs:0,1) \closedcycle}
-\newcommand{\drawle}{-- (rel axis cs:1,1) -- (rel axis cs:1,0) -- (rel axis cs:0,0) \closedcycle}
+\newcommand{\drawge}{-- (rel axis cs:1,0) -- (rel axis cs:1,1) -- (rel axis
+cs:0,1) \closedcycle}
+\newcommand{\drawle}{-- (rel axis cs:1,1) -- (rel axis cs:1,0) -- (rel axis
+cs:0,0) \closedcycle}
 
 
 \newcommand{\NB}{\raisebox{-1mm}{\,{\Large \lefthand}\ \,}}
@@ -522,9 +528,12 @@
 
 \tikzset{
   compass/.pic = {
-    \foreach[count=\i,evaluate={\m=div(\i-1,4);\a=90*\i-45*(\m+1)}] \d in {NE,NW,SW,SE,E,N,W,S}{
-      \filldraw[pic actions,rotate=\a,scale=.7+.3*\m] (0,0) -- (45:1)--(0:3) node[transform shape,rotate=-90,above,yshift=3pt]{\bf\d};
-      \filldraw[pic actions,fill=white,rotate=\a,scale=.7+.3*\m] (0,0) -- (-45:1)--(0:3)--cycle;
+    \foreach[count=\i,evaluate={\m=div(\i-1,4);\a=90*\i-45*(\m+1)}] \d in
+{NE,NW,SW,SE,E,N,W,S}{
+      \filldraw[pic actions,rotate=\a,scale=.7+.3*\m] (0,0) -- (45:1)--(0:3)
+node[transform shape,rotate=-90,above,yshift=3pt]{\bf\d};
+      \filldraw[pic actions,fill=white,rotate=\a,scale=.7+.3*\m] (0,0) --
+(-45:1)--(0:3)--cycle;
     };
   }
 }

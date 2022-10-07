@@ -1,0 +1,100 @@
+%% Danny's CV %%
+
+% Make changes relevant to each job you're applying for.
+
+\documentclass[a4,11pt]{article}
+
+\usepackage[margin=1.7cm]{geometry}
+\setlength{\parindent}{0pt}
+
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian,greek,main=english]{babel}
+
+\usepackage{ulem}
+\usepackage{contour}  % pdfLaTeX specific
+
+\usepackage{xcolor}
+
+% set link colour
+\definecolor{grey}{rgb}{0.25,0.25,0.25}
+\usepackage[colorlinks = true,
+            linkcolor = grey,
+            urlcolor  = grey,
+            citecolor = grey,
+            anchorcolor = grey]{hyperref}
+
+
+% link underlining
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+
+\newcommand{\ul}[1]{%
+  \uline{\phantom{#1}}%
+  \llap{\contour{white}{#1}}%
+}
+
+% hyper-references
+\newcommand{\link}[2]{\href{#1}{\ul{\texttt{#2}}}}
+
+\pagenumbering{gobble}
+
+% right-center-left text
+\newcommand{\rcl}[3]{%
+    \makebox[0pt]       [l]{\parbox{0.33\textwidth}{\raggedright #1}}%
+    \makebox[\textwidth][c]{\parbox{0.33\textwidth}{\centering   #2}}%
+    \makebox[0pt]       [r]{\parbox{0.33\textwidth}{\raggedleft  #3}}%
+}
+
+\begin{document}
+\rcl%
+    {\small Tel.: +30 699 675 8735\\
+     E-mail: \link{mailto:lildata@airmail.cc}{lildata@airmail.cc}}
+    {{\scshape\Large Daniil~Gorokhovatskii}}%
+    {\small Zografou, Athens,\\Greece, 157 73}
+    
+\centerline{{\scriptsize
+    \foreignlanguage{russian}{Даниил~Гороховатский}~/~%
+    \foreignlanguage{greek}{Δανιήλ~Γκοροχοβάτσκιγι}}}
+
+
+\vspace{0.75cm}
+\makebox[\textwidth][c]{\parbox{0.75\textwidth}{
+    I am a Russian national and prospective undergraduate student of
+    Mathematics at The National and Kapodistrian University of Athens.
+    I am a co\"operative and conscientious person with excellent
+    communication skills, that operates well in
+    teams of any size.  % &c.
+    I speak Russian and English fluently, and proficient in Spanish.
+    Currently I am studying B2-level Greek for entry to the university.
+}}
+
+\section*{Education}
+
+\begin{itemize}
+    \item \textbf{\foreignlanguage{russian}{Школа №\,6 им.~А.~С.~Пушкина}.}
+    (Kaluga, 2017–-2020). High achiever in high-school.
+    % say more about this?
+    \item \textbf{National and Kapodistrian University of Athens} (2022--2025)
+    Studying for a bachelor (BSc) in Mathematics. Currently studying
+    Greek before entry.
+\end{itemize}
+
+\section*{Experience}
+\begin{itemize}
+    \item \textbf{Lab Experience.} Experience synthesising organic chemicals
+    in a lab environment.
+    \item \textbf{Sales.} I have experience marketing and selling illicit
+    and controlled substances.
+\end{itemize}
+
+\section*{Skills \& Hobbies}
+% relevant?  what do i say for a call centre job?
+
+\begin{itemize}
+    \item Self-thought proficiency in English and Spanish.  % ?? level maybe?
+    \item Hobbyist programmer (pro-gamer).
+    \item Expert nappy changer. Love to roleplay as a furry little baby.
+\end{itemize}
+
+\end{document}

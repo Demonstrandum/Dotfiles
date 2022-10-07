@@ -1,0 +1,62 @@
+#!/bin/sh
+
+PATH="$PATH:$HOME/.local/bin:$HOME/Scripts"
+C_INCLUDE_PATH="/usr/local/include:$C_INCLUDE_PATH"
+LD_LIBRARY_PATH="/usr/local/lib:/usr/lib:$LD_LIBRARY_PATH"
+
+CPATH="$C_INCLUDE_PATH"
+LIBRARY_PATH="$LD_LIBRARY_PATH"
+
+PLAN9=/usr/local/src/plan9port
+PATH="$PATH:$PLAN9/bin"
+
+PATH="/usr/local/opt/ruby/bin:$PATH"
+
+export PLAN9
+export PATH
+export CPATH
+export C_INCLUDE_PATH
+export LIBRARY_PATH
+export LD_LIBRARY_PATH
+export EDITOR=nvim
+export EDIT="$EDITOR"
+export VISUAL="$EDITOR"
+
+. "$HOME/.cargo/env"
+
+[ "$(which sudo)" != "/usr/bin/sudo" ] \
+    && { echo "compromised sudo...";
+         printf "continue? [y/n] "; read -r CTN;
+         [ "$CTN" != y ] && exit 1;
+       }
+
+alias s=sudo
+alias l='ls -hla'
+alias v=nvim
+alias vi=nvim
+alias vim=nvim
+alias python=python3
+alias pip=pip3
+alias ql=quicklook
+alias o=open
+alias bu='brew update; brew upgrade'
+alias pu='portclean; sudo port selfupdate; sudo port upgrade outdated'
+alias update='bu; pu'
+alias lsubs='system_profiler SPUSBDataType'
+
+copy () {
+	rsync -aP --stats $*
+}
+
+sha1dir () {
+	find "$1" -type f -print0 | LC_ALL=C sort -z | xargs -0 sha1sum | sha1sum
+}
+
+quicklook () {
+	qlmanage -p "$1" 2>/dev/null
+}
+
+portclean () {
+	while sudo port uninstall leaves; do ; done
+}
+
